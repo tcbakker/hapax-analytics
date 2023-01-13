@@ -15,13 +15,13 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk; een mix v
 
 #### Vrijdag \| 13-01-2023
 
--   Imputation: Artikel dat een aantal methoden voor imputatie vergelijkt. [Imputation in R: Top 3 Ways for Imputing Missing Data](https://appsilon.com/imputation-in-r/).
+-   **Imputation**: Artikel dat een aantal methoden voor imputatie vergelijkt: [Imputation in R: Top 3 Ways for Imputing Missing Data](https://appsilon.com/imputation-in-r/).
 
 ![](images/paste-A3A45692.png){fig-align="center" width="600"}
 
--   **HHs**: ...
+-   **HHs**: Onderzoeksvoorstel Learning Analytics CE. Kennismaking met GE.
 
--   VU: ...
+-   **VU**: Correspondentie promotie.
 
 #### Donderdag \| 12-01-2023
 
