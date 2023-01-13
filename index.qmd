@@ -1,0 +1,21 @@
+---
+title: "Home"
+lang: nl
+reference-location: margin
+format:
+    html:
+        toc: false
+        footnote-title: "Voetnoten"
+---
+
+Dit is de persoonlijke website van [Theo Bakker](/over.html), lector Learning Technology & Analytics bij [De Haagse Hogeschool](https://hhs.nl) en universitair docent bij de [Vrije Universiteit Amsterdam](https://vu.nl).
+
+::: column-margin
+![](Theo%20Bakker_HHs_klein_smal.png){width="400"}
+:::
+
+De naam Hapax Analytics komt van het Griekse 'hapax legomenon' (ἅπαξ λεγόμενον): "één keer uitgesproken"[^1]. Een uitdrukking die aangeeft dat een woord in oude geschriften zoals de Bijbel slechts één keer voorkomt - een unieke situatie en interessant verschijnsel. Juist het gegeven dat het uniek is, kan extra betekenis geven.
+
+[^1]: https://en.wikipedia.org/wiki/Hapax_legomenon
+
+In Machine Learning worden dit soort woorden en situaties buiten beschouwing gelaten, terwijl ik deze juist interessant vind. Bij het onderzoeken van data moeten we ons volgens mij altijd afvragen wat uniek is en de moeite waard naar boven te tillen.

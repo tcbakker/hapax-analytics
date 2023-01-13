@@ -1,0 +1,1311 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="nl" xml:lang="nl"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.280">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Hapax Analytics - Logboek</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { color: #008000; } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { color: #008000; font-weight: bold; } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./images/_site/logo-hapax-v3.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "Geen resultaten",
+    "search-matching-documents-text": "Gevonden documenten",
+    "search-copy-link-title": "Kopieer link om te zoeken",
+    "search-hide-matches-text": "Extra overeenkomsten verbergen",
+    "search-more-match-text": "meer overeenkomst in dit document",
+    "search-more-matches-text": "meer overeenkomsten in dit document",
+    "search-clear-button-title": "Wissen",
+    "search-detached-cancel-button-title": "Annuleren",
+    "search-submit-button-title": "Verzenden"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="Hapax Analytics - Logboek">
+<meta property="og:image" content="https://www.tmwr.org/images/cover.png">
+<meta property="og:site-name" content="Hapax Analytics">
+<meta property="og:locale" content="nl_NL">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./images/_site/logo-hapax-v3.png" alt="Hapax Analytics" class="navbar-logo">
+    </a>
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Hapax Analytics</span>
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html">
+ <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./onderzoek.html">
+ <span class="menu-text">Onderzoek</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./projecten.html">
+ <span class="menu-text">Projecten</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./logboek.html" aria-current="page">
+ <span class="menu-text">Logboek</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./over.html">
+ <span class="menu-text">Over</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="https://linkedin.com/in/theobakker">
+ <span class="menu-text"><i class="fa-brands fa-linkedin" aria-label="linkedin"></i></span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://twitter.com/tcbakker">
+ <span class="menu-text"><i class="fa-brands fa-twitter" aria-label="twitter"></i></span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://fosstodon.org/@tcbakker">
+ <span class="menu-text"><i class="fa-brands fa-mastodon" aria-label="mastodon"></i></span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://github.com/tcbakker">
+ <span class="menu-text"><i class="fa-brands fa-github" aria-label="github"></i></span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="mailto:t.c.bakker@hhs.nl">
+ <span class="menu-text"><i class="fa-regular fa-envelope" aria-label="envelope"></i></span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./index_posts.xml">
+ <span class="menu-text"><i class="fa-solid fa-square-rss" aria-label="square-rss"></i></span></a>
+  </li>  
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Op deze pagina</h2>
+   
+  <ul>
+  <li><a href="#januari-2023" id="toc-januari-2023" class="nav-link active" data-scroll-target="#januari-2023">Januari 2023</a>
+  <ul>
+  <li><a href="#vrijdag-13-01-2023" id="toc-vrijdag-13-01-2023" class="nav-link" data-scroll-target="#vrijdag-13-01-2023">Vrijdag | 13-01-2023</a></li>
+  <li><a href="#donderdag-12-01-2023" id="toc-donderdag-12-01-2023" class="nav-link" data-scroll-target="#donderdag-12-01-2023">Donderdag | 12-01-2023</a></li>
+  <li><a href="#woensdag-11-01-2023" id="toc-woensdag-11-01-2023" class="nav-link" data-scroll-target="#woensdag-11-01-2023">Woensdag | 11-01-2023</a></li>
+  <li><a href="#dinsdag-10-01-2023" id="toc-dinsdag-10-01-2023" class="nav-link" data-scroll-target="#dinsdag-10-01-2023">Dinsdag | 10-01-2023</a></li>
+  <li><a href="#maandag-09-01-2023" id="toc-maandag-09-01-2023" class="nav-link" data-scroll-target="#maandag-09-01-2023">Maandag | 09-01-2023</a></li>
+  <li><a href="#zondag-08-01-2023" id="toc-zondag-08-01-2023" class="nav-link" data-scroll-target="#zondag-08-01-2023">Zondag | 08-01-2023</a></li>
+  <li><a href="#zaterdag-07-01-2023" id="toc-zaterdag-07-01-2023" class="nav-link" data-scroll-target="#zaterdag-07-01-2023">Zaterdag | 07-01-2023</a></li>
+  <li><a href="#vrijdag-06-01-2023" id="toc-vrijdag-06-01-2023" class="nav-link" data-scroll-target="#vrijdag-06-01-2023">Vrijdag | 06-01-2023</a></li>
+  <li><a href="#donderdag-05-01-2023" id="toc-donderdag-05-01-2023" class="nav-link" data-scroll-target="#donderdag-05-01-2023">Donderdag | 05-01-2023</a></li>
+  <li><a href="#woensdag-04-01-2023" id="toc-woensdag-04-01-2023" class="nav-link" data-scroll-target="#woensdag-04-01-2023">Woensdag | 04-01-2023</a></li>
+  <li><a href="#dinsdag-03-01-2023" id="toc-dinsdag-03-01-2023" class="nav-link" data-scroll-target="#dinsdag-03-01-2023">Dinsdag | 03-01-2023</a></li>
+  <li><a href="#maandag-02-01-2023" id="toc-maandag-02-01-2023" class="nav-link" data-scroll-target="#maandag-02-01-2023">Maandag | 02-01-2023</a></li>
+  <li><a href="#zondag-01-01-2023" id="toc-zondag-01-01-2023" class="nav-link" data-scroll-target="#zondag-01-01-2023">Zondag | 01-01-2023</a></li>
+  </ul></li>
+  <li><a href="#december-2022" id="toc-december-2022" class="nav-link" data-scroll-target="#december-2022">December 2022</a>
+  <ul>
+  <li><a href="#zaterdag-31-12-2022" id="toc-zaterdag-31-12-2022" class="nav-link" data-scroll-target="#zaterdag-31-12-2022">Zaterdag | 31-12-2022</a></li>
+  <li><a href="#dinsdag-27-12-2022" id="toc-dinsdag-27-12-2022" class="nav-link" data-scroll-target="#dinsdag-27-12-2022">Dinsdag | 27-12-2022</a></li>
+  <li><a href="#maandag-26-12-2022" id="toc-maandag-26-12-2022" class="nav-link" data-scroll-target="#maandag-26-12-2022">Maandag | 26-12-2022</a></li>
+  <li><a href="#zondag-25-12-2022" id="toc-zondag-25-12-2022" class="nav-link" data-scroll-target="#zondag-25-12-2022">Zondag | 25-12-2022</a></li>
+  <li><a href="#zaterdag-24-12-2022" id="toc-zaterdag-24-12-2022" class="nav-link" data-scroll-target="#zaterdag-24-12-2022">Zaterdag | 24-12-2022</a></li>
+  <li><a href="#vrijdag-23-12-2022" id="toc-vrijdag-23-12-2022" class="nav-link" data-scroll-target="#vrijdag-23-12-2022">Vrijdag | 23-12-2022</a></li>
+  <li><a href="#donderdag-22-12-2022" id="toc-donderdag-22-12-2022" class="nav-link" data-scroll-target="#donderdag-22-12-2022">Donderdag | 22-12-2022</a></li>
+  <li><a href="#zondag-18-12-2022" id="toc-zondag-18-12-2022" class="nav-link" data-scroll-target="#zondag-18-12-2022">Zondag | 18-12-2022</a></li>
+  <li><a href="#donderdag-15-12-2022" id="toc-donderdag-15-12-2022" class="nav-link" data-scroll-target="#donderdag-15-12-2022">Donderdag | 15-12-2022</a></li>
+  <li><a href="#zondag-04-12-2022" id="toc-zondag-04-12-2022" class="nav-link" data-scroll-target="#zondag-04-12-2022">Zondag | 04-12-2022</a></li>
+  </ul></li>
+  <li><a href="#november-2022" id="toc-november-2022" class="nav-link" data-scroll-target="#november-2022">November 2022</a>
+  <ul>
+  <li><a href="#dinsdag-29-11-2022" id="toc-dinsdag-29-11-2022" class="nav-link" data-scroll-target="#dinsdag-29-11-2022">Dinsdag | 29-11-2022</a></li>
+  <li><a href="#zaterdag-26-11-2022" id="toc-zaterdag-26-11-2022" class="nav-link" data-scroll-target="#zaterdag-26-11-2022">Zaterdag | 26-11-2022</a></li>
+  <li><a href="#zondag-21-11-2022" id="toc-zondag-21-11-2022" class="nav-link" data-scroll-target="#zondag-21-11-2022">Zondag | 21-11-2022</a></li>
+  <li><a href="#zaterdag-19-11-2022" id="toc-zaterdag-19-11-2022" class="nav-link" data-scroll-target="#zaterdag-19-11-2022">Zaterdag | 19-11-2022</a></li>
+  <li><a href="#vrijdag-18-11-2022" id="toc-vrijdag-18-11-2022" class="nav-link" data-scroll-target="#vrijdag-18-11-2022">Vrijdag | 18-11-2022</a></li>
+  <li><a href="#donderdag-17-11-2022" id="toc-donderdag-17-11-2022" class="nav-link" data-scroll-target="#donderdag-17-11-2022">Donderdag | 17-11-2022</a></li>
+  <li><a href="#woensdag-16-11-2022" id="toc-woensdag-16-11-2022" class="nav-link" data-scroll-target="#woensdag-16-11-2022">Woensdag | 16-11-2022</a></li>
+  <li><a href="#dinsdag-15-11-2022" id="toc-dinsdag-15-11-2022" class="nav-link" data-scroll-target="#dinsdag-15-11-2022">Dinsdag | 15-11-2022</a></li>
+  <li><a href="#maandag-14-11-2022" id="toc-maandag-14-11-2022" class="nav-link" data-scroll-target="#maandag-14-11-2022">Maandag | 14-11-2022</a></li>
+  <li><a href="#zondag-13-11-2022" id="toc-zondag-13-11-2022" class="nav-link" data-scroll-target="#zondag-13-11-2022">Zondag | 13-11-2022</a></li>
+  <li><a href="#zaterdag-12-11-2022" id="toc-zaterdag-12-11-2022" class="nav-link" data-scroll-target="#zaterdag-12-11-2022">Zaterdag | 12-11-2022</a></li>
+  <li><a href="#vrijdag-11-11-2022" id="toc-vrijdag-11-11-2022" class="nav-link" data-scroll-target="#vrijdag-11-11-2022">Vrijdag | 11-11-2022</a></li>
+  <li><a href="#donderdag-10-11-2022" id="toc-donderdag-10-11-2022" class="nav-link" data-scroll-target="#donderdag-10-11-2022">Donderdag | 10-11-2022</a></li>
+  <li><a href="#woensdag-09-11-2022" id="toc-woensdag-09-11-2022" class="nav-link" data-scroll-target="#woensdag-09-11-2022">Woensdag | 09-11-2022</a></li>
+  <li><a href="#dinsdag-08-11-2022" id="toc-dinsdag-08-11-2022" class="nav-link" data-scroll-target="#dinsdag-08-11-2022">Dinsdag | 08-11-2022</a></li>
+  <li><a href="#maandag-07-11-2022" id="toc-maandag-07-11-2022" class="nav-link" data-scroll-target="#maandag-07-11-2022">Maandag | 07-11-2022</a></li>
+  <li><a href="#zondag-06-11-2022" id="toc-zondag-06-11-2022" class="nav-link" data-scroll-target="#zondag-06-11-2022">Zondag <strong>|</strong> 06-11-2022</a></li>
+  <li><a href="#zaterdag-05-11-2022" id="toc-zaterdag-05-11-2022" class="nav-link" data-scroll-target="#zaterdag-05-11-2022">Zaterdag <strong>|</strong> 05-11-2022</a></li>
+  <li><a href="#vrijdag-04-11-2022" id="toc-vrijdag-04-11-2022" class="nav-link" data-scroll-target="#vrijdag-04-11-2022">Vrijdag | 04-11-2022</a></li>
+  <li><a href="#donderdag-03-11-2022" id="toc-donderdag-03-11-2022" class="nav-link" data-scroll-target="#donderdag-03-11-2022">Donderdag | 03-11-2022</a></li>
+  <li><a href="#woensdag-02-11-2022" id="toc-woensdag-02-11-2022" class="nav-link" data-scroll-target="#woensdag-02-11-2022">Woensdag | 02-11-2022</a></li>
+  <li><a href="#dinsdag-01-11-2022" id="toc-dinsdag-01-11-2022" class="nav-link" data-scroll-target="#dinsdag-01-11-2022">Dinsdag | 01-11-2022</a></li>
+  </ul></li>
+  <li><a href="#oktober-2022" id="toc-oktober-2022" class="nav-link" data-scroll-target="#oktober-2022">Oktober 2022</a>
+  <ul>
+  <li><a href="#maandag-31-10-2022" id="toc-maandag-31-10-2022" class="nav-link" data-scroll-target="#maandag-31-10-2022">Maandag | 31-10-2022</a></li>
+  <li><a href="#zondag-30-10-2022" id="toc-zondag-30-10-2022" class="nav-link" data-scroll-target="#zondag-30-10-2022">Zondag <strong>|</strong> 30-10-2022</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Logboek</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<div style="color: gray">
+<p>Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk; een mix van hoger onderwijs, studiesucces, data science en coderen in R.</p>
+</div>
+<section id="januari-2023" class="level3">
+<h3 class="anchored" data-anchor-id="januari-2023">Januari 2023</h3>
+<section id="vrijdag-13-01-2023" class="level4">
+<h4 class="anchored" data-anchor-id="vrijdag-13-01-2023">Vrijdag | 13-01-2023</h4>
+<ul>
+<li>Imputation: Artikel dat een aantal methoden voor imputatie vergelijkt. <a href="https://appsilon.com/imputation-in-r/">Imputation in R: Top 3 Ways for Imputing Missing Data</a>.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/paste-A3A45692.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+<ul>
+<li><p><strong>HHs</strong>: …</p></li>
+<li><p>VU: …</p></li>
+</ul>
+</section>
+<section id="donderdag-12-01-2023" class="level4">
+<h4 class="anchored" data-anchor-id="donderdag-12-01-2023">Donderdag | 12-01-2023</h4>
+<ul>
+<li><strong>HHs</strong>: Overleg BS, kennismaking AS, Nieuwjaarsreceptie, onderzoeksvoorstel CE</li>
+</ul>
+</section>
+<section id="woensdag-11-01-2023" class="level4">
+<h4 class="anchored" data-anchor-id="woensdag-11-01-2023">Woensdag | 11-01-2023</h4>
+<ul>
+<li><p><strong>VU</strong>: Voorbereiding onderzoek naar ADD</p></li>
+<li><p><strong>HHs</strong>: Kennismaking met EM, intro bij ITD, strategische sessie GIL</p></li>
+<li><p><strong>Motivatie</strong>: Over de <a href="https://decorrespondent.nl/14112/hoe-cijfers-de-motivatie-van-leerlingen-om-zeep-helpen/43213341346560-d7d80dce">invloed van cijfers op de intrinsieke motivatie van leerlingen</a>; intrinsieke motivatie neemt af door cijfers.</p></li>
+<li><p><strong>Synthetische data</strong>: <a href="https://github.com/faker-ruby/faker">faker</a> - een python library om synthetische persoonsgegevens te maken. Alternatief: <a href="https://github.com/faker-js/faker">faker-js</a>. Alternatief in R: <a href="https://cran.r-project.org/web/packages/charlatan/vignettes/charlatan.html">charlatan</a> (in meerdere talen, bevat ook de mogelijkheid om messy data te maken).</p></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/40263395-4318481e-5b44-11e8-92e5-3dcc1ce169b3.png" class="img-fluid figure-img" width="200"></p>
+</figure>
+</div>
+<ul>
+<li><strong>Publiciteit</strong>: Artikel op Scienceguide over mijn vierde artikel: <a href="https://www.scienceguide.nl/2023/01/succes-student-met-autisme-beter-te-voorspellen/">Succes student met autisme beter te voorspellen</a>.</li>
+</ul>
+</section>
+<section id="dinsdag-10-01-2023" class="level4">
+<h4 class="anchored" data-anchor-id="dinsdag-10-01-2023">Dinsdag | 10-01-2023</h4>
+<ul>
+<li><p><strong>Deep Learning en Learning Analytics</strong>: een vergelijkend onderzoek van deep learning en machine learning in Learning Analytics toont aan dat ML modellen even goed voorspellen en beter uitlegbaar zijn.</p>
+<ul>
+<li>Doleck, T., Lemay, D. J., Basnet, R. B., &amp; Bazelais, P. (2020). Predictive analytics in education: a comparison of deep learning frameworks. <em>Education and Information Technologies</em>, <em>25</em>(3), 1951–1963. doi: 10.1007/s10639-019-10068-4. In papers.</li>
+</ul></li>
+<li><p><strong>VU</strong>: Studiedag KLOP</p></li>
+<li><p><strong>HHs</strong>: Afscheid JK</p></li>
+<li><p><strong>Trends</strong>: <a href="https://www.warpnews.org/premium-content/kevin-kelly-the-case-for-optimism/">Kevin Kelly: The Case for Optimism.</a></p>
+<p><em>Ubiquitous AI</em> <strong>-</strong> Up until the industrial revolution anything that humans made, including cities and roads, had to be made with the energy of organic muscles (human or animal), which was drastically limited. With the advent of cheap artificial power, we could erect tall skyscrapers, vast continental railroads, immense factories, and mass manufacturing -- all way beyond what meat muscles could do. We have started to do the same with our natural thinking muscles, by seeding the world with artificial intelligences. A zoo of hundreds of different species of new types of mind will be working with humans to solve problems. These non-human minds (sometimes with bodies we call robots) will do work humans don’t want to do, or can’t do. Humans and AIs together will co-create new desires and new jobs. The long-term driver of progress -- automating physical jobs -- will continue, and then begin to take over non-physical chores as well. The three chief consequences of AI will be the liberation of humans from their unwanted jobs, the explosion of new services and formerly impossible products that are co-created with AIs, and new occupations and desirable tasks for humans. AIs and robots are designed for efficiency and productivity, while these millions of new human jobs are primarily tasks where inefficiency is tolerated. To excel in innovation, entrepreneurship, art, caring, hospitality, science and discovery, humans must try things that don’t work, embrace failures, encourage small talk and playfulness -- all inefficient. Efficiency is for robots. Ubiquitous AI is the most optimistic force we can imagine.</p></li>
+</ul>
+</section>
+<section id="maandag-09-01-2023" class="level4">
+<h4 class="anchored" data-anchor-id="maandag-09-01-2023">Maandag | 09-01-2023</h4>
+<ul>
+<li><p><strong>AI</strong>: Artikel van TED talks over de <a href="https://ideas.ted.com/many-of-us-thought-wed-be-riding-in-ai-driven-cars-by-now-what-happened/">problemen die er waren met volledig autonoom rijden</a> door Janelle Shane.</p>
+<ul>
+<li><p>Een probleem was het terugschakelen van de autonome functie naar de chauffeur. Deze had zo lang niets gedaan, dat een ingreep te laat kwam. Ook had AI niet geleerd alle mogelijkheden te herkennen (zoals een kangoeroe of een vrachtwagen van de zijkant).</p></li>
+<li><p><img src="images/ais-love-to-fall-1.jpg" class="img-fluid" width="600"></p>
+<p><img src="images/ais-love-to-fall-2.jpg" class="img-fluid" width="600"></p></li>
+<li><p>In het bijbehorende filmpje (<a href="https://www.youtube.com/watch?v=OhCzX0iLnOc&amp;ab_channel=TED">The danger of AI is weirder than you think</a>) gaat Shane erop in dat AI goed aangeleerd moet worden wat restricties (!) zijn, anders zal het op elke mogelijke manier voldoen aan de opdracht die we geven. “It’s entire world is the data that I gave it.” AI zelf heeft geen besef van wat goed of fout is; dit wordt gevoed (of niet) door de ontwerper/programmeur. Zo heeft een facebook algoritme als opdracht zoveel mogelijk kliks te genereren; negatieve content genereert meer kliks.</p></li>
+</ul></li>
+<li><p><strong>Autisme</strong>: Interview voor het blad Autisme van de NVA.</p></li>
+<li><p><strong>AI</strong>: Why we need to create AI that thinks in ways that we can’t even imagine (23 mei 2017)“AI could just as well stand for”alien intelligence.” We have no certainty we’ll contact extraterrestrial beings in the next 200 years, but we have almost 100 percent certainty that we’ll manufacture an alien intelligence by then.” - <a href="https://ideas.ted.com/why-we-need-to-create-ais-that-think-in-ways-that-we-cant-even-imagine/">Kevin Kelly - TED</a> betoogt dat we met AI andere vormen van intelligentie zullen ontwikkelen die we met menselijke intelligentie niet kunnen bedenken. Deze zijn gespecialiseerd op specifieke domeinen.</p>
+<ul>
+<li><p>Humans are for inventing new kinds of intelligences that biology could not evolve. Our job is to make machines that think different — to create alien intelligences.</p></li>
+<li><p>Artificial intelligence will help us better understand what we mean by intelligence in the first place. In the past, we would have said only a superintelligent AI could beat a human at Jeopardy! or recognize a billion faces. But once our computers did each of those things, we considered that achievement obviously mechanical and hardly worth the label of true intelligence. We label it “machine learning.” Every achievement in AI redefines that success as “not AI.”</p></li>
+<li><p>But we haven’t just been redefining what we mean by AI — we’ve been redefining what it means to be human.</p></li>
+<li><p>Bijbehorende TED talk: <a href="https://www.ted.com/talks/kevin_kelly_how_ai_can_bring_on_a_second_industrial_revolution">How AI can bring on a second Industrial Revolution</a> (dec 2016)</p>
+<ul>
+<li><p>We weten niet hoe een druppel precies van de berg afgaat, maar wel welke kant het opstroomt.</p></li>
+<li><p>1) We zullen varianten van cognition ontwikkelen op verschillende domeinen. Dit is nu ook al zo; bij mensen, maar ook bij dieren. Een eekhoorn heeft een fenomenaal geheugen voor noten. Op sommige domeinen zal dat worden, op andere niet. De vraag is of dit ook voor het onderwijsdomein zal gaan gelden. Zij worden niet afgeleid. We zullen zoveel mogelijk soorten ontwikkelen.</p></li>
+<li><p>2) De eerste industriële revolutie was artificial power. De tweede industriële revolutie wordt de toevoeging van AI daarin toe: “we’re going to cognify it”.</p></li>
+<li><p>3) Als we dit belichamen hebben we een robot. Deze zullen nieuwe zaken gaan doen, waarvan we nog niet wisten dat we die nodig hadden, net zoals dit is gedaan met automatisering. Mensen zijn heel goed in zaken die niet efficiënt zijn - zo leren we, door het maken van fouten. Efficiëntie is voor robots. Het beste wordt een hybride oplossing - hoe goed je met deze bots kan samenwerken.</p>
+<p><img src="images/download-08.jpg" class="img-fluid"></p></li>
+</ul></li>
+</ul></li>
+</ul>
+</section>
+<section id="zondag-08-01-2023" class="level4">
+<h4 class="anchored" data-anchor-id="zondag-08-01-2023">Zondag | 08-01-2023</h4>
+<ul>
+<li><p><strong>AI</strong>: De cursus <a href="https://onderwijs.ai-cursus.nl/">De AI-cursus voor onderwijs</a> van de AI-coalitie gevolgd.</p>
+<ul>
+<li><p><em>Track #1 | Onderwijsdilemma’s</em>.</p></li>
+<li><div>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="images/paste-7140319E.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+</div></li>
+<li><div>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="images/paste-F9A79809.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+</div></li>
+<li><p><em>Track #2 | Mogelijkheden van AI in het onderwijs</em>: Inge Molenaar: 1. Detecteren, 2. Interpreteren (kennis, motivatie, emotie), 3. Handelen (pedagogisch-didactisch).</p></li>
+<li><p><em>Track #3 | Hoe werkt AI in het onderwijs?</em> Over adaptiviteit: van stap-, naar taak-, naar curriculum-adaptiviteit.</p></li>
+<li><p><em>Track #4 | AI in je onderwijs, verwachtingen VO.</em> AI in je onderwijs, verwachtingen VO. “<a href="https://learnbeat.nl/">Learnbeat</a> en <a href="https://nl.bettermarks.com/">Bettermarks</a> zijn de meest bekende voorbeelden van software in het VO waarin AI wordt toegepast. Ook bij het pakket zoals Memrise zit AI achter de motorkap.” Koen Strauss - oprichter van Learnbeat komt aan het woord.</p></li>
+<li><div>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="images/paste-CDA1D2C0.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+</div></li>
+<li><p><em>Track #5 | Overzicht krijgen met dashboards.</em> Vier mogelijkheden: informeren, adviseren, begeleiden, voorschrijven van handelingen.</p></li>
+<li><p><em>Track #6 | De veranderende rol van de docent.</em> Legt de relatie tussen de rol van de leerkracht en het besturen van een auto (zie onder).</p></li>
+<li><p><img src="images/paste-E8058300.png" class="img-fluid" width="600"></p></li>
+<li><p><img src="images/paste-825A0C06.png" class="img-fluid" width="600"></p></li>
+<li><p>Mooi filmpje over het <a href="https://onderwijs.ai-cursus.nl/programmas/ai-voor-onderwijs/de-veranderende-rol-van-de-leraar/start">perspectief van de docent</a>.</p></li>
+<li><p><em>Track #7 | Uitdagingen met AI.</em> AI kan leiden tot meer kansengelijkheid: leerlingen kunnen in hun eigen tempo de lesstof volgen (wat leidt tot meer motivatie) en het pygmalion effect (dat een docent of ouders een student onbewust bevooroordelen) treedt niet op.</p></li>
+<li><p><img src="images/paste-5067AEE7.png" class="img-fluid"></p></li>
+<li><p>Bijdrage aan kansenongelijkheid: ongelijke verdeling van toegang tot digitale middelen, leerlingen die meer zelfsturing kan handelen leert ook sneller (verschillen worden groter), zwakkere leerlingen kunnen niet leren van de snellere leerling (cohesie in een klas neemt af), risico dat leerlingen geconfronteerd worden op basis van oude data (nadeel van profilering - recht om vergeten te kunnen worden).</p></li>
+<li><p><em>Track #8| Een kijkje in de toekomst en zelf aan de slag</em>.</p></li>
+<li><p><img src="images/paste-D85F476C.png" class="img-fluid" width="600"></p></li>
+<li><p>Aankondiging van het Nationaal Onderwijs Lab AI (platform voor onderwijs en wetenschap).</p></li>
+</ul></li>
+<li><p><strong>AI</strong>: Visualisatie van de EPRS, Europese Commissie van de mate van toepassing van AI op de weg.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/level5.jpg" class="img-fluid figure-img" width="500"></p>
+</figure>
+</div></li>
+<li><p><strong>AI in hoger onderwijs:</strong> Special van <a href="https://onlinelibrary-wiley-com.vu-nl.idm.oclc.org/toc/14653435/2022/57/4">European Journal of Education</a> (Vol 57, Issue 4) 2022 over AI in het onderwijs.</p></li>
+<li><p><strong>AI in onderwijs:</strong> Molenaar, I. (2022). Towards hybrid human‐AI learning technologies. <em>European Journal of Education</em>, <em>57</em>(4), 632–645. doi: 10.1111/ejed.12527 gelezen. In Papers.</p>
+<ul>
+<li><p><a href="https://www.ru.nl/bsi/research/group-pages/adaptive-learning-lab-all/ai-education/hybrid-human-ai-role-teacher-0/">Ilustraties</a> van Radboud Universiteit.</p>
+<ul>
+<li><p>Presentatie van het 6 kolommen model:</p></li>
+<li><p><img src="images/automation_model_en.jpg" class="img-fluid"></p></li>
+<li><p>Vragen: Is dit ook toepasbaar voor het hoger onderwijs? In welke mate is het onderscheid ‘stap, taak, curriculum’ voldoende? Hoort daar niet het 4e niveau ‘life long learning’ bij?</p></li>
+<li><p><img src="images/afbeelding2.png" class="img-fluid"></p></li>
+</ul></li>
+</ul></li>
+</ul>
+</section>
+<section id="zaterdag-07-01-2023" class="level4">
+<h4 class="anchored" data-anchor-id="zaterdag-07-01-2023">Zaterdag | 07-01-2023</h4>
+<ul>
+<li><strong>AI:</strong> <a href="https://quillbot.com/">QuilBot</a> - AI tool om parafraseringen te maken. Wordt gepresenteerd om tekst van ChatGPT aan te passen, zodat plagiaat-detectie door Google niet te doen is.,</li>
+<li><strong>AI en ChatGPT</strong>: Een video over het maken van <a href="https://www.youtube.com/watch?v=8I3NTE4cn5s">een website voor schoenen</a> met behulp van AI. Pretty impressive. Tools die gebruikt zijn: <a href="https://midjourney.com/showcase/recent/">Midjourney</a>, <a href="https://chat.openai.com/chat">ChatGPT</a> en <a href="https://www.editorx.com/">Editor X</a>.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/paste-015B21E6.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+<ul>
+<li><strong>Website</strong>: Gestart met een projectenpagina; geoefend met citaties en het toepassen van de APA style (via het <a href="https://github.com/citation-style-language">Citation Style Language</a> format) + het citeerbaar maken van een artikel.</li>
+<li><strong>Visualisatie</strong>: Gant chart met afgeronde hoeken: <a href="https://albert-rapp.de/posts/ggplot2-tips/11_rounded_rectangles/11_rounded_rectangles.html">Storytelling in ggplot using rounded rectangles</a> van Albert Rapp. Hij heeft een interessante <a href="https://albert-rapp.de/dataviz_portfolio.html">portfolio</a>.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/unnamed-chunk-21-1.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+<ul>
+<li><strong>Visualisatie</strong>: Dot plots voor het vergelijk van twee jaren: <a href="https://albert-rapp.de/posts/ggplot2-tips/15_alternative_paired_bars/15_alternative_paired_bars.html">Alternatives to paired bar charts</a>.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/unnamed-chunk-16-1.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+<ul>
+<li><strong>Visualisatie</strong>: Storytelling met ggplot: <a href="https://albert-rapp.de/posts/ggplot2-tips/10_recreating_swd_look/10_recreating_swd_look.html">Recreating the Storytelling with Data look with ggplot</a>.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/final.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+<ul>
+<li><strong>Visualisatie</strong>: <a href="https://github.com/rfordatascience/tidytuesday">TidyTuesday</a> website. Bevat een lijst met boeken om betere visualisaties te leren maken.</li>
+<li><strong>AI</strong>: Podcast De Technoloog | BNR van 13 december 2022: <a href="https://www.bnr.nl/podcast/de-technoloog/10497359/ook-de-natuurkunde-krijgt-hulp-van-kunstmatige-intelligentie">Ook de natuurkunde krijgt hulp van kunstmatige intelligentie</a> met Max Welling, hoogleraar machine learning aan de UvA.
+<ul>
+<li><p>Belangrijk is dat we werken aan vertrouwen in algoritmes, omdat het steeds moeilijker of al onmogelijk is om ze noch te begrijpen. Vergelijkbaar met het in een vliegtuig stappen; daar hebben we vertrouwen in omdat de certificering goed is.</p></li>
+<li><p>Kunnen we neurale netwerken ook inzetten voor het voorspellen van succes in het hoger onderwijs? Wat is daarvoor nodig. Welling noemt dit het 5e paradigma, waarbij simulaties een essentiële rol spelen.</p></li>
+</ul></li>
+<li><strong>Visualisatie</strong>: Het <a href="https://cran.r-project.org/web/packages/showtext/index.html">showtext package</a> maakt het mogelijk om externe fonts in R images te gebruiken.</li>
+<li><strong>Visualisatie</strong>: Het <a href="https://rstudio.github.io/thematic/index.html">thematic package</a> maakt het mogelijk om eenvoudig thema’s aan te passen voor ggplot / shiny op basis van algehele settings…</li>
+</ul>
+</section>
+<section id="vrijdag-06-01-2023" class="level4">
+<h4 class="anchored" data-anchor-id="vrijdag-06-01-2023">Vrijdag | 06-01-2023</h4>
+<ul>
+<li><strong>Website</strong>: Verder gewerkt aan de ‘over’ pagina en eerste opzet van het blog.</li>
+</ul>
+</section>
+<section id="donderdag-05-01-2023" class="level4">
+<h4 class="anchored" data-anchor-id="donderdag-05-01-2023">Donderdag | 05-01-2023</h4>
+<ul>
+<li><strong>Website</strong>: Geoefend met Quarto en het uitzoeken van een <a href="https://www.shutterstock.com/blog/color-palettes-for-websites">pallet</a>.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/Color-Palettes-for-Websites-Images-FoodBev3-Web.webp" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+<ul>
+<li><strong>CV</strong>: Georiënteerd op CV’s in Quarto. Het <a href="https://pkg.mitchelloharawild.com/vitae/">vitae</a> package lijkt interessant.</li>
+</ul>
+</section>
+<section id="woensdag-04-01-2023" class="level4">
+<h4 class="anchored" data-anchor-id="woensdag-04-01-2023">Woensdag | 04-01-2023</h4>
+<ul>
+<li><strong>fAIr</strong>: <a href="https://haas.berkeley.edu/equity/industry/playbooks/mitigating-bias-in-ai/">Mitigating Bias in Artificial Intelligence</a> is onderdeel van Haas School of Business (University of California, Berkeley) - Center for Equity, Gender &amp; Leadership. Hebben een <a href="https://haas.berkeley.edu/equity/industry/playbooks/mitigating-bias-in-ai/">playbook</a> ontwikkeld. Rapport opgenomen in papers: Smith, G., &amp; Rustagi, I. (2020). <em>Mitigating Bias in Artificial Intelligence</em> (p.&nbsp;62). Berkeley Haas Center for Equity, Gender and Leadership.</li>
+<li><strong>Netwerk analyse</strong>: <a href="https://cran.r-project.org/web/packages/nett/index.html">nnet</a> - Network Analysis and Community Detection</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/download-04.png" class="img-fluid figure-img"></p>
+</figure>
+</div>
+<ul>
+<li><strong>Clustering</strong>: <a href="https://cran.r-project.org/web/packages/tidyclust/readme/README.html">tidyclust</a> - The goal of tidyclust is to provide a tidy, unified interface to clustering models. The packages is closely modeled after the <a href="https://parsnip.tidymodels.org/">parsnip</a> package.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/paste-2546938C.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+<ul>
+<li><strong>Outliers</strong>: <a href="https://cran.r-project.org/web/packages/kfino/vignettes/HowTo.html">How to perform a kfino outlier detection</a> met het kfino package.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/download-05.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+<ul>
+<li><strong>Power</strong>: Berekenig van power met het <a href="https://cran.r-project.org/web/packages/pwrss/index.html">pwrss</a> package. Zie het <a href="https://cran.r-project.org/web/packages/pwrss/vignettes/examples.html">vignette</a> voor voorbeelden.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/pwrss.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+<ul>
+<li><strong>Heatmap</strong>: <a href="https://cran.r-project.org/package=funkyheatmap">funkyheatmap</a> package: Provides functions for generating heatmap-like visualizations for benchmark data frames, which can be fine-tuned with annotations for columns and rows.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/download-06.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+<ul>
+<li><strong>Visualisatie</strong>: <a href="https://cran.r-project.org/package=ggpcp">ggpcp</a> v0.2.0: Provides a Grammar of Graphics implementation of parallel coordinate plots that incorporates categorical variables into the plots in a principled manner.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/ggpcp.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+<ul>
+<li><strong>Reviews</strong>: Voor LAK23 en voor Psychology in the Schools.</li>
+</ul>
+</section>
+<section id="dinsdag-03-01-2023" class="level4">
+<h4 class="anchored" data-anchor-id="dinsdag-03-01-2023">Dinsdag | 03-01-2023</h4>
+<ul>
+<li><strong>GIS</strong>: Eerste kaartje van Den Haag gemaakt!</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/paste-AAA98F39.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+<ul>
+<li><strong>GIS</strong>: Korte cursus ggplot en sf gevolgd. <a href="https://r-spatial.org/r/2018/10/25/ggplot2-sf.html">Drawing beautiful maps programmatically with R, sf and ggplot2 — Part 1: Basics</a>, <a href="https://r-spatial.org/r/2018/10/25/ggplot2-sf-2.html">Drawing beautiful maps programmatically with R, sf and ggplot2 — Part 2: Layers</a> en <a href="https://r-spatial.org/r/2018/10/25/ggplot2-sf-3.html">Drawing beautiful maps programmatically with R, sf and ggplot2 — Part 3: Layouts</a></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/paste-C850E91A.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+<ul>
+<li><strong>fAIr</strong>: <a href="https://mostly.ai/blog/why-bias-in-ai-is-a-problem/">MOSTLY AI</a> - Bedrijf uit Oostenrijk dat gebruik maakt van datasynthetisatie om fair AI te realiseren.</li>
+<li><strong>fAIr</strong>: <a href="https://fairmlbook.org/">Fairness and Machine Learning - Limitations and Opportunities</a> van Solon Barocas, Moritz Hardt, Arvind Narayanan.</li>
+</ul>
+</section>
+<section id="maandag-02-01-2023" class="level4">
+<h4 class="anchored" data-anchor-id="maandag-02-01-2023">Maandag | 02-01-2023</h4>
+<ul>
+<li><strong>Google M</strong>L: <a href="https://www.youtube.com/watch?v=30y9zk5COqw&amp;list=PLIivdWyY5sqLsaG5hNms0D9aZRBE7DHBb&amp;index=4">Een game die met ML antwoorden genereert die nog niet van tevoren bekend zijn</a>. <a href="https://daleonai.com/semantic-ml">Semantic ML</a>.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/paste-D2F44C48.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+<ul>
+<li><strong>Neuroinclusive design</strong>: Ontwerp van <a href="https://cloud.google.com/blog/topics/training-certifications/cloud-skills-training-for-hot-tech-careers?utm_source=youtube&amp;utm_medium=unpaidsoc&amp;utm_campaign=CDR_ali_gcp_v-g65jz9n04_ThisWeekInCloud_121622&amp;utm_content=description">software voor neurodiverse gebruikers</a>.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/paste-E22E4023.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+<ul>
+<li><strong>Technische trends</strong>: <a href="https://cloud.google.com/blog/topics/inside-google-cloud/10-it-predictions-from-google-cloud-to-welcome-2023">10 IT-trends volgens Google</a></li>
+<li><strong>Visualisaties</strong>: Gebruik van <a href="https://ikashnitsky.github.io/2018/the-lancet-paper/">ternaire kleurcodering</a> om afwijking van een gemiddelde te laten zien. Package: <a href="https://github.com/jschoeley/tricolore">tricolore</a>.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/the-map.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+<ul>
+<li><strong>Open AI</strong>: Meerdere artikelen op NRC gelezen (opgeslagen in papers).</li>
+<li><strong>Parttree</strong>: Package om <a href="https://grantmcdermott.r-universe.dev/ui#view:parttree/parttree-intro.html">visualisaties te maken van tree based decisions</a>.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/download-03.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+</section>
+<section id="zondag-01-01-2023" class="level4">
+<h4 class="anchored" data-anchor-id="zondag-01-01-2023">Zondag | 01-01-2023</h4>
+<ul>
+<li><strong>Ggplot2</strong>: <a href="https://rstudio-conf-2022.github.io/ggplot2-graphic-design/">Ggplot2 cursus</a> gevolgd (<a href="https://rstudio-conf-2022.github.io/ggplot2-graphic-design/materials/01_introduction.html#/title-slide">intro</a> en <a href="https://rstudio-conf-2022.github.io/ggplot2-graphic-design/materials/02_concepts_pt1.html#/title-slide">dl 1</a> en <a href="https://rstudio-conf-2022.github.io/ggplot2-graphic-design/modules/d1-05_concepts_pt2.html">dl 2</a>) van <a href="https://www.cedricscherer.com/">Cédric Scherer</a>.</li>
+<li><strong>Ggplot2:</strong> <a href="https://github.com/thebioengineer/camcorder">camcorder</a> package om ggplot in R makkelijk te bewaren.</li>
+<li><strong>LinkedIn</strong>: Kenbaar gemaakt dat ik een nieuwe baan heb.</li>
+<li><strong>Twitter</strong>: Profiel aangepast.</li>
+<li><strong>Tensorflow</strong>: Kennis mee gemaakt vanuit video over de <a href="https://www.youtube.com/watch?v=SZorAJ4I-sA">technologie achter GPT</a>. Link naar Tensorflow (<a href="Classify text with BERT">Classify text with BERT</a>). R heeft een eigen versie voor R studio met bijbehorende <a href="https://tensorflow.rstudio.com/install/">website</a>.</li>
+<li><strong>AI</strong>: <a href="https://www.youtube.com/watch?v=ABr_HkO0eGk&amp;list=PLIivdWyY5sqLsaG5hNms0D9aZRBE7DHBb&amp;index=2">Bot om reacties op een chatfunctie te filteren op ongepast gedrag</a>. ‘I built an AI-powered moderation bot for Discord’. De api die erbij gebruikt is: <a href="perspectiveapi.com">perspective</a>.</li>
+</ul>
+</section>
+</section>
+<section id="december-2022" class="level3">
+<h3 class="anchored" data-anchor-id="december-2022">December 2022</h3>
+<section id="zaterdag-31-12-2022" class="level4">
+<h4 class="anchored" data-anchor-id="zaterdag-31-12-2022">Zaterdag | 31-12-2022</h4>
+<ul>
+<li><strong>fAIr</strong>: Boek aangeschaft over fair AI. Lobel, O. (2022). <em>The Equality Machine: Harnessing Digital Technology for a Brighter, More Inclusive Future</em>. Verder gelezen (circa helft)</li>
+</ul>
+</section>
+<section id="dinsdag-27-12-2022" class="level4">
+<h4 class="anchored" data-anchor-id="dinsdag-27-12-2022">Dinsdag | 27-12-2022</h4>
+<ul>
+<li><strong>Multiaccuracy boost</strong>: een methode om bias te corrigeren op minderheidsgroepen. Zie <a href="https://cran.r-project.org/web/packages/mcboost/vignettes/mcboost_basics_extensions.html">mcboost</a>.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/Pasted Graphic 1.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+<ul>
+<li><strong>Modelling</strong>: Gebruik het <a href="https://stacks.tidymodels.org/articles/basics.html">stacks package</a> om eenvoudig ensembles te maken. <a href="Hacking by stacking—how to get better {tidymodels} performance with {stacks}">Hacking by stacking—how to get better {tidymodels} performance with {stacks}</a></li>
+<li><strong>Kleur en kleurenblindheid</strong>: <a href="https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html">Viridis</a> colorscale. <a href="https://cran.r-project.org/package=viridis"><code>viridis</code></a>, and its companion package <a href="https://cran.r-project.org/package=viridisLite"><code>viridisLite</code></a> provide a series of color maps that are designed to improve graph readability for readers with common forms of color blindness and/or color vision deficiency. The color maps are also perceptually-uniform, both in regular form and also when converted to black-and-white for printing.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/download-02.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+<ul>
+<li><strong>Visualisatie</strong>: <a href="https://quantixed.org/2022/12/26/twitcher-ii-tweet-frequency-and-top-tweets/">Calendarheatmap</a>. Gebruikt om tweets te visualiseren. Heeft nog 2 andere visualisaties voor tweets: <a href="https://quantixed.org/2022/12/18/twitcher-tweet-frequency-over-the-years/">tweet frequency over the years</a>.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/paste-8C34FAF2.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+</section>
+<section id="maandag-26-12-2022" class="level4">
+<h4 class="anchored" data-anchor-id="maandag-26-12-2022">Maandag | 26-12-2022</h4>
+<ul>
+<li><strong>fAIr</strong>: Boek aangeschaft over fair AI. Lobel, O. (2022). <em>The Equality Machine: Harnessing Digital Technology for a Brighter, More Inclusive Future</em>. PublicAffairs.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/paste-D6D8C1B1.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+<ul>
+<li><strong>SIG AI</strong>: Jaarplan gelezen.</li>
+<li><strong>Statistiek</strong>: <a href="https://statsandr.com/blog/files/overview-statistical-tests-statsandr.pdf">Keuzes voor testen.</a></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/overview-statistical-tests-statsandr.svg" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+<ul>
+<li><strong>Google Analytics</strong>: <a href="https://statsandr.com/blog/review-of-2022/">Google Analytics in R: Review of 2022</a></li>
+<li><strong>Visualisatie</strong>: <a href="https://mjskay.github.io/ggdist/">ggdist: Visualizations of distributions and uncertainty</a></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/halfeye_dotplot-1.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+<ul>
+<li><strong>Blog:</strong> Met <a href="https://www.youtube.com/watch?v=WZt4H-ogH3s">distill, github en netlify</a> kan je een blog maken (video) of met <a href="https://ivelasq.quarto.pub/building-a-blog-with-quarto/">quarto</a>.</li>
+<li><strong>Artikel</strong>: Baarsma, B., Haar, B. T., Wijnands, B., Blom, F., Wijers, H., Winter, J., … Veeken, R. V. der. (2021). <em>De datagedreven toekomst.nl</em> (pp.&nbsp;1–56). Denkwerk. Retrieved from Denkwerk website: https://denkwerk.online/rapporten/de-datagedreven-toekomstnl-februari-2021/. Hoofdstukken 5-7 gelezen.</li>
+<li><strong>Artikel</strong>: Baarsma, B., Haar, B. T., Wijnands, B., Blom, F., Wijers, H., Winter, J., … Veeken, R. V. der. (2021). <em>De online wereld.nl: hoe we grip terugpakken op onze online wereld</em> (pp.&nbsp;1–64). Denkwerk. Retrieved from Denkwerk website: https://denkwerk.online/rapporten/de-online-wereldnl-februari-2021/. Gelezen; met name interessant is het idee van de s-curve.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/paste-80E776BE.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+</section>
+<section id="zondag-25-12-2022" class="level4">
+<h4 class="anchored" data-anchor-id="zondag-25-12-2022">Zondag | 25-12-2022</h4>
+<ul>
+<li><strong>Artikel</strong>: Baarsma, B., Haar, B. T., Wijnands, B., Blom, F., Wijers, H., Winter, J., … Veeken, R. V. der. (2021). <em>De datagedreven toekomst.nl</em> (pp.&nbsp;1–56). Denkwerk. Retrieved from Denkwerk website: https://denkwerk.online/rapporten/de-datagedreven-toekomstnl-februari-2021/. Tot en met hoofdstuk 4 gelezen.</li>
+<li><strong>Data pipeline</strong>: <a href="https://books.ropensci.org/targets/">Targets package</a> om meerdere stappen achter elkaar te automatiseren en te kunnen herhalen. Zie voor een voorbeeld: <a href="https://ritsokiguess.site/blogg/posts/2022-12-19-a-journey-with-targets/">A journey with Targets</a>. <a href="https://docs.ropensci.org/targets/#examples">ROpenSci</a>. Uitgeprobeerd: te complex.</li>
+</ul>
+</section>
+<section id="zaterdag-24-12-2022" class="level4">
+<h4 class="anchored" data-anchor-id="zaterdag-24-12-2022">Zaterdag | 24-12-2022</h4>
+<ul>
+<li><strong>Text Analysis</strong>: Hoofdstuk 2 en 3 van <a href="https://www.tidytextmining.com/index.html" title="A Tidy Approach">Text Mining with R</a>: A Tidy Approach doorgenomen: <a href="https://www.tidytextmining.com/sentiment.html">2 Sentiment analysis with tidy data</a> en <a href="https://www.tidytextmining.com/tfidf.html#tfidf">3 Analyzing word and document frequency: tf-idf</a></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/tmwr_0201.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+<ul>
+<li><strong>MacOS</strong>: Een goede installatie van een nieuwe Mac: <a href="https://ivelasq.rbind.io/blog/macos-rig/index.html">Setting up macOS as an R data science rig in 2023</a>.</li>
+<li><strong>ChatGPT</strong>: <a href="https://medium.com/syncedreview/openais-instructgpt-leverages-rl-from-human-feedback-to-better-align-language-models-with-user-18f1f686c170">Uitleg</a> van de modellering.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/0_aJhiSpFyBQaVqDF1.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+<ul>
+<li><strong>ChatGPT</strong>: Goede uitleg van de onderliggende werking. <a href="https://blog.ephorie.de/create-texts-with-a-markov-chain-text-generator-and-what-this-has-to-do-with-chatgpt?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=create-texts-with-a-markov-chain-text-generator-and-what-this-has-to-do-with-chatgpt">Create Texts with a Markov Chain Text Generator… and what this has to do with ChatGPT!</a></li>
+</ul>
+</section>
+<section id="vrijdag-23-12-2022" class="level4">
+<h4 class="anchored" data-anchor-id="vrijdag-23-12-2022">Vrijdag | 23-12-2022</h4>
+<ul>
+<li><strong>Coding</strong>: <a href="https://appsilon.com/rhino-r-software-engineering/">Rhino</a> - een package om gemodulariseerde/objectgeöriënteerde Shiny code te ontwikkelen; het gebruikt daarvoor het <a href="https://github.com/klmr/box">box</a> package.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/rhino-logo-icon.svg" class="img-fluid figure-img"></p>
+</figure>
+</div>
+</section>
+<section id="donderdag-22-12-2022" class="level4">
+<h4 class="anchored" data-anchor-id="donderdag-22-12-2022">Donderdag | 22-12-2022</h4>
+<ul>
+<li><strong>Promotie A4</strong>: proof drukversie verbeterd.</li>
+</ul>
+</section>
+<section id="zondag-18-12-2022" class="level4">
+<h4 class="anchored" data-anchor-id="zondag-18-12-2022">Zondag | 18-12-2022</h4>
+<ul>
+<li><strong>Visualisatie</strong>: Mooie visualisatie over Messi van The xG Philosophy.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/FkNFeqVWQAI0ZgP.jpg" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+<ul>
+<li><strong>Model calibration</strong>: Nieuw package, <a href="https://www.tidyverse.org/blog/2022/11/model-calibration/">probably</a>, in tidymodels om modellen te calibreren. <em>The goal of model calibration is to ensure that the estimated class probabilities are consistent with what would naturally occur.</em></li>
+<li><strong>Spatial:</strong> Een <a href="https://nrennie.rbind.io/blog/2022-12-17-r-packages-for-visualising-spatial-data/">overzicht</a> van verschillende packages op basis van de UK.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/ggplot2.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+</section>
+<section id="donderdag-15-12-2022" class="level4">
+<h4 class="anchored" data-anchor-id="donderdag-15-12-2022">Donderdag | 15-12-2022</h4>
+<ul>
+<li><a href="https://github.com/VerbalExpressions/RVerbalExpressions">RVerbalExpressions</a> - The goal of <code>RVerbalExpressions</code> is to make it easier to construct regular expressions using grammar and functionality inspired by <a href="https://github.com/VerbalExpressions">VerbalExpressions</a>. Usage of <code>%&gt;%</code> is encouraged to build expressions in a chain like fashion.</li>
+</ul>
+</section>
+<section id="zondag-04-12-2022" class="level4">
+<h4 class="anchored" data-anchor-id="zondag-04-12-2022">Zondag | 04-12-2022</h4>
+<ul>
+<li><strong>Databricks</strong>: <a href="https://tomaztsql.wordpress.com/2020/12/01/advent-of-2020-day-1-what-is-azure-databricks/">Azure platform om data te verwerken</a>.</li>
+</ul>
+</section>
+</section>
+<section id="november-2022" class="level3">
+<h3 class="anchored" data-anchor-id="november-2022">November 2022</h3>
+<section id="dinsdag-29-11-2022" class="level4">
+<h4 class="anchored" data-anchor-id="dinsdag-29-11-2022">Dinsdag | 29-11-2022</h4>
+<ul>
+<li><strong>Tidy</strong>: <a href="https://cran.r-project.org/web/packages/tidyfit/index.html">tidyfit: Regularized Linear Modeling with Tidy Data</a></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/download.jpg" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+<ul>
+<li><strong>Tables:</strong> <a href="https://cran.r-project.org/web/packages/ExclusionTable/vignettes/ExclusionTable_vignette.html">{ExclusionTable} a package for keeping track of exclusions and inclusions</a></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/paste-0725F03D.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+</section>
+<section id="zaterdag-26-11-2022" class="level4">
+<h4 class="anchored" data-anchor-id="zaterdag-26-11-2022">Zaterdag | 26-11-2022</h4>
+<ul>
+<li><strong>Blended learning:</strong> <a href="https://www.youtube.com/watch?v=iz3qA-LEm9c">7 tips voor het maken van effectieve kennisclips</a></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/paste-7CD0C90F.png" class="img-fluid figure-img" width="800"></p>
+</figure>
+</div>
+</section>
+<section id="zondag-21-11-2022" class="level4">
+<h4 class="anchored" data-anchor-id="zondag-21-11-2022">Zondag | 21-11-2022</h4>
+<ul>
+<li><strong>Corona</strong>: artikel over achterstand in het po. <a href="https://www.nrc.nl/nieuws/2022/11/17/onderzoek-wijst-uit-de-leervertraging-door-de-schoolsluitingen-loopt-op-a4148607">Onderzoek wijst uit: de leervertraging door de schoolsluitingen loopt op.</a> Veldhuis, P. (2022, November 18). Onderzoek wijst uit: de leervertraging door de schoolsluitingen loopt op - NRC. Retrieved November 20, 2022, from https://www.nrc.nl/nieuws/2022/11/17/onderzoek-wijst-uit-de-leervertraging-door-de-schoolsluitingen-loopt-op-a4148607.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/paste-8EEBD440.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+<ul>
+<li><strong>Gelijke kansen:</strong> Inaugurele rede van Carla Haelermans. Haerlemans, C. (2022). <em>Computer says no! Over technologie en ongelijkheid in het onderwijs</em>. doi: 10.26481/spe.20220930ch. Contact mee opgenomen via LinkedIn.</li>
+<li><strong>Autisme</strong>: Rebuttal 3 voor A4 afgerond en naar Sander verstuurd.</li>
+</ul>
+</section>
+<section id="zaterdag-19-11-2022" class="level4">
+<h4 class="anchored" data-anchor-id="zaterdag-19-11-2022">Zaterdag | 19-11-2022</h4>
+<ul>
+<li><strong>Imputatie</strong>: alternatief package voor multiple imputation: <a href="https://journal.r-project.org/articles/RJ-2021-080/">Multiple Imputation and Synthetic Data Generation with NPBayesImputeCat</a>.</li>
+<li><strong>Imputatie en weighting</strong>: <a href="https://journal.r-project.org/articles/RJ-2021-073/">MatchThem: Matching and Weighting after Multiple Imputation</a></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/paste-27A64497.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+<ul>
+<li><strong>Reproducible Research:</strong> <a href="https://journal.r-project.org/articles/RJ-2022-021/">Advancing Reproducible Research by Publishing R Markdown Notebooks as Interactive Sandboxes Using the learnr Package</a></li>
+<li><strong>Timeseries</strong>: <a href="https://github.com/earowang/tsibbletalk">tsibbletalk</a> - package om timeseries te koppelen aan meerdere plots. Zie ook artikel: <a href="https://journal.r-project.org/articles/RJ-2021-050/">Conversations in Time: Interactive Visualization to Explore Structured Temporal Data</a>.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/tourism-linking.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+<ul>
+<li><strong>Data exploratie (EDA)</strong>: <a href="https://sciencegraph.github.io/brinton/index.html">brinton</a> package om in 1x alle mogelijke visualisaties van een variabele te zien. Zie ook <a href="https://journal.r-project.org/articles/RJ-2021-018/">A Graphical EDA Tool with ggplot2: brinton</a><strong>.</strong></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/wideplot_esoph.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+<ul>
+<li><strong>Data wrangling:</strong> <a href="https://luisdva.github.io/rstats/mash-colnames/">Fixing broken and irregular column headers</a> met <a href="https://cran.r-project.org/web/packages/unheadr/vignettes/unheadr-vignette.html">unheadr</a> package.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/mash.png" class="img-fluid figure-img" width="600"></p>
+</figure>
+</div>
+<ul>
+<li><strong>Tidymodels</strong>: hoofdstuk 10 - <a href="https://www.tmwr.org/resampling.html">Resampling for Evaluating Performance</a>. Behandelt bias - idee voor inauguratie - zouden we met resampling binnen het onderwijs kunnen werken, bijv. met klassen? Dat geeft minder bias. Onderscheid tussen low bias models (random forest) en high bias models (lm). De low bias doet het slechter bij een test set, omdat het - zonder sampling - altijd de perfecte verdeling voor de trainingset kan nabootsen. Met x-fold en stratificatie lossen we dit probleem op. Idee &gt; dit kan het onderwijs leren van ML. Je zou op die manier studentengroepen kunnen indelen. Een goede fold is 10; repeats worden uitgevoerd om de noise te reduceren (standaard errors). Een alternatief is bootstrapping (sampling met replacement). Bij tijdsseries kan je gebruik van maken van rolling forecasts resampling. Tijdswinst is te behalen met parallel processing.</li>
+</ul>
+</section>
+<section id="vrijdag-18-11-2022" class="level4">
+<h4 class="anchored" data-anchor-id="vrijdag-18-11-2022">Vrijdag | 18-11-2022</h4>
+<ul>
+<li><strong>Visualisaties</strong>: <a href="https://davidhodge931.r-universe.dev/ui#view:ggblanket/ggblanket.html">ggblanket</a> package - een wrapper om ggplot met een eenvoudiger interface.</li>
+<li><strong>Visualisaties</strong>: <a href="https://statisticsnz.r-universe.dev/ui#view:simplevis/simplevis.html">simplevis</a> package om de stijl van visualisaties te vereenvoudigen.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/download.png" class="img-fluid figure-img" width="800"></p>
+</figure>
+</div>
+<ul>
+<li><strong>Tijdseries</strong>: <a href="https://reconverse.r-universe.dev/ui#view:grates/grates.html">grates</a> package om tijdsintervallen eenvoudig te kunnen indelen en viusaliseren.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/download-01.png" class="img-fluid figure-img" width="800"></p>
+</figure>
+</div>
+</section>
+<section id="donderdag-17-11-2022" class="level4">
+<h4 class="anchored" data-anchor-id="donderdag-17-11-2022">Donderdag | 17-11-2022</h4>
+<ul>
+<li><strong>Autisme</strong>: A4 commentaar van de editor verwerkt.</li>
+</ul>
+</section>
+<section id="woensdag-16-11-2022" class="level4">
+<h4 class="anchored" data-anchor-id="woensdag-16-11-2022">Woensdag | 16-11-2022</h4>
+<ul>
+<li><p><strong>Text analysis</strong>: Hoofdstuk 2 gelezen van Supervised Machine Learning for Text Analysis in R - <a href="https://smltar.com/tokenization.html">Tokenization</a>. Gebruik voor tokenization de packages <a href="https://cran.r-project.org/web/packages/tokenizers/vignettes/introduction-to-tokenizers.html">tokenizers</a> (<a href="https://smltar.com/tokenization.html#ref-Mullen18">Mullen et al.&nbsp;2018</a>) and <a href="https://cran.r-project.org/web/packages/spacyr/vignettes/using_spacyr.html">spaCy</a> (<a href="https://smltar.com/tokenization.html#ref-spacy2">Honnibal et al.&nbsp;2020</a>). Bevat code om tekst uit hoofdstukken te nesten (2.2). Dit kan je eventueel gebruiken om zinnen te scheiden die ‘hostile’ zijn of niet.</p></li>
+<li><p><strong>Benchmarking</strong>: gebruik het <a href="https://r-lib.r-universe.dev/ui#package:bench">bench</a> package om benchmarking uit te voeren:</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>bench<span class="sc">::</span><span class="fu">mark</span>(<span class="at">check =</span> <span class="cn">FALSE</span>, <span class="at">iterations =</span> <span class="dv">10</span>,</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>  <span class="st">`</span><span class="at">corpus</span><span class="st">`</span> <span class="ot">=</span> corpus<span class="sc">::</span><span class="fu">text_tokens</span>(hcandersen_en<span class="sc">$</span>text),</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>  <span class="st">`</span><span class="at">tokenizers</span><span class="st">`</span> <span class="ot">=</span> tokenizers<span class="sc">::</span><span class="fu">tokenize_words</span>(hcandersen_en<span class="sc">$</span>text),</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>  <span class="st">`</span><span class="at">text2vec</span><span class="st">`</span> <span class="ot">=</span> text2vec<span class="sc">::</span><span class="fu">word_tokenizer</span>(hcandersen_en<span class="sc">$</span>text),</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>  <span class="st">`</span><span class="at">quanteda</span><span class="st">`</span> <span class="ot">=</span> quanteda<span class="sc">::</span><span class="fu">tokenize_word</span>(hcandersen_en<span class="sc">$</span>text),</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>  <span class="st">`</span><span class="at">base R</span><span class="st">`</span> <span class="ot">=</span> <span class="fu">strsplit</span>(hcandersen_en<span class="sc">$</span>text, <span class="st">"</span><span class="sc">\\</span><span class="st">s"</span>)</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>)</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="co">#&gt; # A tibble: 5 × 6</span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="co">#&gt;   expression      min   median `itr/sec` mem_alloc `gc/sec`</span></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="co">#&gt;   &lt;bch:expr&gt; &lt;bch:tm&gt; &lt;bch:tm&gt;     &lt;dbl&gt; &lt;bch:byt&gt;    &lt;dbl&gt;</span></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="co">#&gt; 1 corpus       75.9ms     81ms     11.9     4.58MB     1.33</span></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="co">#&gt; 2 tokenizers   96.2ms    104ms      9.54    1.01MB     2.38</span></span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a><span class="co">#&gt; 3 text2vec     78.5ms     82ms     11.9    15.61MB     1.33</span></span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a><span class="co">#&gt; 4 quanteda    163.2ms    172ms      5.69     8.7MB     1.42</span></span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a><span class="co">#&gt; 5 base R      294.1ms    302ms      3.15   10.51MB     2.10</span></span></code><button title="Kopieer naar klembord" class="code-copy-button"><i class="bi"></i></button></pre></div></li>
+<li><p><strong>Text analysis</strong>: Een Nederlandse taallijst voor tokenization is gemaakt door de KU-Leuven: <a href="https://github.com/iPieter/RobBERT">RobBERT</a>.</p></li>
+</ul>
+</section>
+<section id="dinsdag-15-11-2022" class="level4">
+<h4 class="anchored" data-anchor-id="dinsdag-15-11-2022">Dinsdag | 15-11-2022</h4>
+<ul>
+<li><p><strong>Tidymodels</strong>: <a href="https://www.tidyverse.org/blog/2022/10/parsnip-checking-1-0-2/%5D">Improvements to model specification checking in tidymodels</a> - artikel over de manier waarop tidymodels het wisselen tussen verschillende implementaties van een model mogelijk maakt met <a href="https://www.tidyverse.org/tags/parsnip/">parsnip</a> en hoe - door de foutmeldingen - duidelijk wordt gemaakt wat je aanvullend moet doen om het werkend te krijgen.</p></li>
+<li><p><strong>Tidymodels</strong>: <a href="https://www.tidyverse.org/blog/2022/09/brulee-0-2-0/">brulee 0.2.0</a> - goed voorbeeld van een recipe aan de hand van het brulee package.</p>
+<blockquote class="blockquote">
+<p>“brulee contains several basic modeling functions that use the torch package infrastructure, such as: neural networks, linear regression, logistic regression, and multinomial regression.”</p>
+</blockquote></li>
+<li><p><strong>Tidymodels</strong>: <a href="https://www.tidyverse.org/blog/2022/09/bundle-0-1-0/">bundel</a> - package om een model te bouwen en te bundelen inclusief referenties, zodat je dat portable maakt.</p>
+<div>
+<blockquote class="blockquote">
+<p>The bundle package provides a consistent interface to capture all information needed to serialize a model, situate that information within a portable object, and restore it for use in new settings.</p>
+</blockquote>
+</div></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/diagram_04.png" class="img-fluid figure-img" width="800"></p>
+</figure>
+</div>
+<ul>
+<li><strong>Tidymodels</strong>: <a href="https://www.tidyverse.org/blog/2022/08/censored-0-1-0/">censored</a> - parsnip extensie voor survival analyses.</li>
+<li><strong>Tidymodels</strong>: <a href="https://www.tidyverse.org/blog/2022/10/tidymodels-2022-q3/#a-big-upgrade-for-agua">agua</a> - package om <a href="https://cran.r-project.org/web/packages/h2o/index.html">h2o</a> functionaliteit te kunnen gebruiken.</li>
+<li>Tidymodels: <a href="https://www.tidyverse.org/blog/2022/06/spatialsample-0-2-0/">spatialsample</a> - package om samples op basis van GIS te organiseren en visualiseren.</li>
+<li><strong>Tidymodels</strong>: <a href="https://www.tidyverse.org/blog/2022/06/bonsai-0-1-0/">bonsai</a> - parsnip extensie voor tree models.</li>
+<li><strong>Text analysis</strong>: hoofdstuk 1 gelezen van Supervised Machine Learning for Text Analysis in R - <a href="https://smltar.com/language.html">Language and modeling</a>.</li>
+<li><strong>Weighting</strong>: Blog van Tidyverse over de ondersteuning van <a href="https://www.tidyverse.org/blog/2022/05/case-weights/">case weights</a>.</li>
+</ul>
+</section>
+<section id="maandag-14-11-2022" class="level4">
+<h4 class="anchored" data-anchor-id="maandag-14-11-2022">Maandag | 14-11-2022</h4>
+<ul>
+<li><strong>Tidymodels</strong>: hoofdstuk 8 over <a href="https://www.tmwr.org/recipes.html">Feature Engineering with recipes</a> afgerond.</li>
+<li><strong>Balans</strong>: <a href="https://themis.tidymodels.org/">themis</a> - package om disbalans op te lossen.</li>
+<li><strong>Balans</strong>: Zie ook het artikel over het <a href="https://jair.org/index.php/jair/article/view/10302/24590">SMOTE</a> algoritme (Synthetic Minority Over-sampling Technique): Chawla, N. V., Bowyer, K. W., Hall, L. O., &amp; Kegelmeyer, W. P. (2002). SMOTE: Synthetic Minority Over-sampling Technique. <em>Journal of Artificial Intelligence Research</em>, <em>16</em>, 321–357. doi: 10.1613/jair.953.</li>
+</ul>
+</section>
+<section id="zondag-13-11-2022" class="level4">
+<h4 class="anchored" data-anchor-id="zondag-13-11-2022">Zondag | 13-11-2022</h4>
+<ul>
+<li><p><strong>Survival analyses</strong>: <a href="https://github.com/FJRubio67/ShortCourseParamSurvival">cursus</a> om survival analyses te leren.</p></li>
+<li><p><strong>Labels</strong>: <a href="https://emilyriederer.netlify.app/post/column-name-contracts/">Column Names as Contracts</a> - het belang van labels. Bijbehorend het <a href="https://emilyriederer.github.io/convo/index.html">convo</a> package.</p></li>
+<li><p><strong>Datavalidatie</strong>: <a href="https://rich-iannone.github.io/pointblank/">pointblank</a> - package om datavalidatie makkelijk op te stellen en uit te voeren. Zie voor een toepassing <a href="https://emilyriederer.netlify.app/post/column-name-contracts/">Column Names as Contracts</a>.</p></li>
+<li><p><strong>Datastraat en datateams</strong>: <a href="https://emilyriederer.netlify.app/post/team-of-packages/">Building a team of internal R packages</a></p></li>
+<li><p><strong>Causal statitstics</strong>: <a href="https://emilyriederer.netlify.app/post/causal-design-patterns/">Causal design patterns for data analysts</a> en <a href="https://emilyriederer.netlify.app/post/resource-roundup-causal/">boekenlijst over causal inference</a>.</p></li>
+<li><p><strong>Tools</strong>: <a href="https://paletton.com/">paletton.com</a> om palettes samen te stellen; <a href="https://imagecolorpicker.com/">imagecolorpicker.com</a> om vanaf een foto de dominante kleuren af te leiden.</p></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/Scherm­afbeelding 2022-11-13 om 11.03.01.png" class="img-fluid figure-img" width="800"></p>
+</figure>
+</div>
+<ul>
+<li><strong>Responsible AI</strong>: <a href="https://github.com/BetaAndBit/RML">The Hitchhiker’s Guide to Responsible Machine Learning</a> gelezen.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/paste-9E3013B1.png" class="img-fluid figure-img" width="800"></p>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/paste-8735582C.png" class="img-fluid figure-img" width="800"></p>
+</figure>
+</div>
+<ul>
+<li><strong>Responsible AI</strong>: <a href="https://modeloriented.github.io/DALEX/articles/vignette_titanic.html">DALEX</a> uitproberen aan de hand van de Titanic data</li>
+</ul>
+</section>
+<section id="zaterdag-12-11-2022" class="level4">
+<h4 class="anchored" data-anchor-id="zaterdag-12-11-2022">Zaterdag | 12-11-2022</h4>
+<ul>
+<li><strong>Visualisaties</strong>: <a href="https://cararthompson.github.io/nhsr2022_level-up-your-plots/level-up-your-plots_nhsr.html#/title-slide">Level op your plots</a> - ggplot met annotaties (<a href="https://www.cararthompson.com/talks/nhsr2022-level-up/">site</a>)</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/unnamed-chunk-69-1.png" class="img-fluid figure-img" width="800"></p>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/annotated_penguins.png" class="img-fluid figure-img" width="800"></p>
+</figure>
+</div>
+<ul>
+<li><strong>Text &amp; reporting</strong>: <a href="https://www.cararthompson.com/shinyapps/2022-10-05-verbaliser/">VerbaliseR</a>: package om teksten op te zetten en rekening te houden met enkelvoud en meervoud.</li>
+<li><strong>Kleur</strong>: <a href="https://www.cararthompson.com/shinyapps/2022-01-11-monochromer/">MonochromeR</a>: package om kleurpalettes in monochroom op te bouwen.</li>
+<li><strong>Reporting</strong>: <a href="https://github.com/ddsjoberg/gtsummary">gtsummary</a> package om standaard summary tabellen te maken en het bijbehorende <a href="https://www.danieldsjoberg.com/gtsummary/articles/gallery.html">vignette</a> met voorbeelden van tabellen. Zie ook <a href="https://journal.r-project.org/articles/RJ-2021-053/">Reproducible Summary Tables with the gtsummary Package</a>.</li>
+<li><strong>Datastraat</strong>: <a href="https://www.danieldsjoberg.com/starter/articles/create_project.html">starter</a>: package om een project te starten met default files.</li>
+<li><strong>Labels</strong>: <a href="https://www.pipinghotdata.com/posts/2022-09-13-the-case-for-variable-labels-in-r/">The case for variable labels in R</a> - uitleg van labels in data, tabellen en vizs.</li>
+</ul>
+</section>
+<section id="vrijdag-11-11-2022" class="level4">
+<h4 class="anchored" data-anchor-id="vrijdag-11-11-2022">Vrijdag | 11-11-2022</h4>
+<ul>
+<li><strong>Explainable AI</strong>: Gebruik het <a href="https://github.com/ModelOriented/rSAFE">RSafe</a> package om een black box model om te zetten naar een white box model. Zie ook <a href="https://medium.com/responsibleml/simplify-your-model-supervised-assisted-feature-extraction-for-machine-learning-ee5433ad5613">Simplify your model: Supervised Assisted Feature Extraction for Machine Learning</a>. Nog lezen: Gosiewska, A., Gacek, A., Lubon, P., &amp; Biecek, P. (2019). SAFE ML: Surrogate Assisted Feature Extraction for Model Learning. <em>arXiv</em>. doi: 10.48550/arxiv.1902.11035</li>
+<li><strong>Explainable AI</strong>: Methode om <a href="https://medium.com/@sthanikamsanthosh1994/explainable-ai-part-1-partial-dependence-plots-permutation-feature-importance-5d08bcb0e044">feature selection te permuteren</a> om de beste features te selecteren.</li>
+<li><strong>Explainable AI</strong>: Gebruik van <a href="https://medium.com/@sthanikamsanthosh1994/explainable-ai-part-2-shapley-values-shap-f2a547f79695">Shapley</a> values om de bijdrage van een feature aan een voorspelling te begrijpen.</li>
+<li><strong>Explainable AI</strong>: Boek: <a href="https://christophm.github.io/interpretable-ml-book/">Interpretable Machine Learning</a>, A Guide for Making Black Box Models Explainable</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/cutout.png" class="img-fluid figure-img" width="500"></p>
+</figure>
+</div>
+</section>
+<section id="donderdag-10-11-2022" class="level4">
+<h4 class="anchored" data-anchor-id="donderdag-10-11-2022">Donderdag | 10-11-2022</h4>
+<ul>
+<li><strong>HHs</strong>: Lectorale rede van Lampros</li>
+</ul>
+</section>
+<section id="woensdag-09-11-2022" class="level4">
+<h4 class="anchored" data-anchor-id="woensdag-09-11-2022">Woensdag | 09-11-2022</h4>
+<ul>
+<li><strong>Open data</strong>: website met <a href="https://ropengov.org/">open data op nationaal niveau</a> en mogelijkheid om <a href="https://ropengov.org/2021/06/regions-cran-release/">regio’s</a> met elkaar te vergelijken in Europa.</li>
+<li><strong>SQL</strong>: <a href="https://r-dbi.r-universe.dev/ui#packages">r-universe/r-dbi</a>: Verzameling packages om databases te benaderen</li>
+</ul>
+</section>
+<section id="dinsdag-08-11-2022" class="level4">
+<h4 class="anchored" data-anchor-id="dinsdag-08-11-2022">Dinsdag | 08-11-2022</h4>
+<ul>
+<li><strong>Tidymodels</strong>: hoofdstuk 8 (<a href="https://www.tmwr.org/recipes.html">Feature Engineering with recipes</a>) afgerond, maar was ingewikkeld - nog een keer lezen.</li>
+</ul>
+</section>
+<section id="maandag-07-11-2022" class="level4">
+<h4 class="anchored" data-anchor-id="maandag-07-11-2022">Maandag | 07-11-2022</h4>
+<ul>
+<li><strong>Tidymodels</strong>: hoofdstuk 7 (<a href="https://www.tmwr.org/workflows.html">A Model Workflow</a>) afgerond.</li>
+<li><strong>Imputatie</strong>: <a href="http://statistikat.github.io/VIM/articles/VIM.html">VIM package</a> (zie ook de visualisaties).</li>
+</ul>
+</section>
+<section id="zondag-06-11-2022" class="level4">
+<h4 class="anchored" data-anchor-id="zondag-06-11-2022">Zondag <strong>|</strong> 06-11-2022</h4>
+<ul>
+<li><strong>Visualisaties</strong>: <a href="https://r-graphics.org/">R graphics cookbook</a> - werkt ggplot2 uit</li>
+<li><strong>Missingness</strong>: Package om missende waarden te analyseren: <a href="https://naniar.njtierney.com/articles/getting-started-w-naniar.html">naniar</a></li>
+<li><strong>Validatie</strong>: <a href="https://data-cleaning.github.io/validate/">Datavalidatie Cookbook</a> van Mark van der Loo (<a href="https://cran.r-project.org/web/packages/validate/index.html">validate</a> package)</li>
+<li><strong>Bias</strong>: <a href="fairmodels:%20a%20Flexible%20Tool%20for%20Bias%20Detection,%20Visualization,%20and%20Mitigation%20in%20Binary%20Classification%20Models">fairmodels</a>: a Flexible Tool for Bias Detection, Visualization, and Mitigation in Binary Classification Models - interessant artikel over het modelleren van fairness om bias tegen te gaan: Wiśniewski &amp; Biecek, “The R Journal: fairmodels: a Flexible Tool for Bias Detection, Visualization, and Mitigation in Binary Classification Models”, The R Journal, 2022. Idee voor een vervolgonderzoek naar bias in hoger onderwijs (vergelijken met analyses op veroordeelden). Dit in verband brengen met studentenwelzijn - subsidieaanvraag bij NRO?</li>
+<li><strong>Explanatory Model Analysis</strong>: in het verlengde van fairmodels is er een groep van packages om modellen beter uit te leggen (<a href="https://github.com/ModelOriented/DrWhy">DrWhy</a>) met een bijbehorend boek: <a href="https://ema.drwhy.ai/">Explanatory Model Analysis</a>.</li>
+<li><strong>Responsible AI</strong>: methode om van een blackbox model alsnog naar een explainable model te komen: <a href="https://medium.com/responsibleml/simplify-your-model-supervised-assisted-feature-extraction-for-machine-learning-ee5433ad5613">Simplify your model: Supervised Assisted Feature Extraction for Machine Learning</a>. Zie ook het <a href="https://betaandbit.github.io/RML/">stripboek</a> en de bijbehorende <a href="https://mi2datalab.github.io/ResponsibleML-UseR2022/">tutorial</a> van de UseR2022 conferentie.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/paste-B363BE1D.png" class="img-fluid figure-img" width="437"></p>
+</figure>
+</div>
+<ul>
+<li><strong>Tools:</strong> Student feedback: <a href="https://www.studentpulse.io/">Student Pulse</a> (<a href="https://www.linkedin.com/in/gormerik/">Gorm Eriksen</a>)</li>
+<li><strong>Drift</strong>: het probleem dat modellen na Covid anders presteren heet <a href="https://towardsdatascience.com/drift-in-machine-learning-e49df46803a">drift</a>. Om dit te berekenen gebruik het <a href="https://modeloriented.github.io/drifter/">drifter</a> package.</li>
+<li><strong>Data cleaning</strong>: stringr::str_squish - verwijdert leading en trailing spaces</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/0e4df3af-8bca-4f5e-9945-a3859d56c534_rw_3840-01.png" class="img-fluid figure-img" width="528"></p>
+</figure>
+</div>
+<ul>
+<li><strong>Tidymodels</strong>: hoofdstuk 3 (<a href="https://www.tmwr.org/base-r.html">A Review of R Modeling Fundamentals</a>), hoofdstuk 4 (<a href="https://www.tmwr.org/ames.html">The Ames Housing Data</a>), hoofdstuk 5 (<a href="https://www.tmwr.org/splitting.html">Spending our Data</a>) en hoofdstuk 6 (<a href="https://www.tmwr.org/models.html">Fitting Models with parsnip</a>) afgerond.</li>
+<li><strong>Coding</strong>: package <a href="https://conflicted.r-lib.org/">conflicted</a> om conflicterende functies te ordenen en de voorkeur te geven aan een bepaald package.</li>
+</ul>
+</section>
+<section id="zaterdag-05-11-2022" class="level4">
+<h4 class="anchored" data-anchor-id="zaterdag-05-11-2022">Zaterdag <strong>|</strong> 05-11-2022</h4>
+<ul>
+<li><strong>3D visualisatie</strong>: Presentatie over <a href="https://www.youtube.com/watch?v=hRKx-obmFx8&amp;list=PL9HYL-VRX0oTOwqzVtL_q5T8MNrzn0mdH&amp;index=24">3D animatie</a> van een roller coaster door data</li>
+<li><strong>Visualisaties</strong>: <a href="https://uwdata.github.io/visualization-curriculum/intro.html">Visualisaties in python</a>.</li>
+<li><strong>Samenwerking</strong>: <a href="https://www.openscapes.org/">Openscapes</a> - Samenwerkingsmethode voor data science teams</li>
+<li><strong>Quarto</strong>: Video over de <a href="https://www.youtube.com/watch?v=p7Hxu4coDl8">mogelijkheden van Quarto</a></li>
+<li><strong>VU - autisme</strong>: Gewerkt aan rebuttal 2 voor A4 (submission naar Autism).</li>
+<li><strong>Data cleaning</strong>: <a href="https://certe-medical-epidemiology.r-universe.dev/ui#package:cleaner">cleaner</a> - package om data te checken en cleanen.</li>
+<li><strong>Visualisaties</strong>: <a href="https://r-charts.com/">R-charts com</a> - verzamelwebsite met plots via ggplot</li>
+<li><strong>Illustraties</strong>: <a href="https://allisonhorst.com/allison-horst">Allison Horst</a> - open source tekeningen bij data science en populaire packages.</li>
+</ul>
+</section>
+<section id="vrijdag-04-11-2022" class="level4">
+<h4 class="anchored" data-anchor-id="vrijdag-04-11-2022">Vrijdag | 04-11-2022</h4>
+<ul>
+<li><strong>Textmining</strong>: boek over <a href="https://smltar.com/">Textmining</a></li>
+<li><strong>Browzine</strong>: laatste <a href="https://browzine.com/libraries/655/subjects">updates van journals</a> die je volgt (dienst van De HHs)</li>
+</ul>
+</section>
+<section id="donderdag-03-11-2022" class="level4">
+<h4 class="anchored" data-anchor-id="donderdag-03-11-2022">Donderdag | 03-11-2022</h4>
+<ul>
+<li><p><strong>Studiesucces</strong>: <a href="https://www.ou.nl/-/twee-gratis-praktijkgidsen-voor-effectief-studeren-voor-student-en-docent">Praktijkgidsen OU voor effectief studeren</a> (thinkfest) - #studiestrategie</p></li>
+<li><p><strong>Student Agency</strong>: Onderzoek van Jeanine Haenen onder studenten bij faculteit x? Misschien kunnen Student Agenda meenemen in Machine Learning modellen (thinkfest).</p>
+<p><img src="images/Hhs.jpeg" class="img-fluid" width="478"></p></li>
+</ul>
+</section>
+<section id="woensdag-02-11-2022" class="level4">
+<h4 class="anchored" data-anchor-id="woensdag-02-11-2022">Woensdag | 02-11-2022</h4>
+<ul>
+<li><strong>Quarto</strong>: <a href="https://quarto.org/docs/gallery/">Gallery</a> bekeken en presentaties met <a href="https://revealjs.com/">reveal.js</a>.</li>
+<li><strong>Missingness</strong>: Artikel over missing data gelezen (pp 151-156). Little, T. D., Jorgensen, T. D., Lang, K. M., &amp; Moore, E. W. G. (2014). On the Joys of Missing Data. <em>Journal of Pediatric Psychology</em>, <em>39</em>(2), 151–162. doi: 10.1093/jpepsy/jst048
+<ul>
+<li>UITZOEKEN: p 154: Wat is het verschil tussen inclusive en non-inclusive implementation van MI of FIML?</li>
+</ul></li>
+<li><strong>Tidymodels</strong>: Hoofdstuk 3 en 4 gelezen van <a href="https://www.tmwr.org/">Tidy modeling with R</a>.</li>
+</ul>
+</section>
+<section id="dinsdag-01-11-2022" class="level4">
+<h4 class="anchored" data-anchor-id="dinsdag-01-11-2022">Dinsdag | 01-11-2022</h4>
+<ul>
+<li><strong>Autisme</strong>: Positieve uitslag op rebuttal voor A4 in Autism!</li>
+<li><strong>Simulaties</strong>: <a href="https://cran.r-project.org/web/packages/simstudy/index.html">simstudy</a> - package om simulatiedata te maken. Idee: data van de HHs simuleren. Zie als voorbeeld <a href="https://www.rdatagen.net/post/2022-11-01-modeling-secular-trend-in-crt-using-gam/">Modeling the secular trend in a cluster randomized trial using very flexible models</a></li>
+<li><strong>Workflow</strong>: <a href="https://www.fharrell.com/post/rflow/"><strong>R Workflow</strong></a>- een opzet voor een R workflow met een verdere uitwerking in een boek: <strong>R Workflow:</strong> <a href="https://hbiostat.org/rflow/">R Workflow for Reproducible Data Analysis and Reporting</a>.</li>
+</ul>
+</section>
+</section>
+<section id="oktober-2022" class="level3">
+<h3 class="anchored" data-anchor-id="oktober-2022">Oktober 2022</h3>
+<section id="maandag-31-10-2022" class="level4">
+<h4 class="anchored" data-anchor-id="maandag-31-10-2022">Maandag | 31-10-2022</h4>
+<ul>
+<li><p>Vervolglessen gedaan in <strong>QGIS</strong>: kaartlagen</p></li>
+<li><p>Begin gemaakt met studie naar <strong>factoren die van invloed zijn op gelijke kansen</strong>. - Badou, M., &amp; Day, M. (2021). <a href="https://www.gelijke-kansen.nl/documenten/publicaties/2021/10/05/verkennend-onderzoek-naar-factoren-die-samenhangen-met-kansengelijkheid"><em>Kansengelijkheid in het onderwijs. Verkennend onderzoek naar factoren die samenhangen met onderwijs(on)gelijkheid</em></a> (p.&nbsp;34). Gelijke kansen alliantie.</p></li>
+<li><p><a href="https://vincentarelbundock.github.io/countrycode/">Countrycode package</a>: package voor het vertalen van <strong>countrycodes</strong> naar hun naam.</p></li>
+<li><p><strong>Workflows</strong>: <a href="https://tidymodels.r-universe.dev/ui#package:workflowsets">Workflowsets</a>: onderdeel van de <strong>tidy models</strong>; met name de MAE diagram.</p>
+<p><img src="https://github.com/tidymodels/workflowsets/raw/HEAD/man/figures/README-plot-1.svg" class="img-fluid" width="800"></p></li>
+<li><p>Boek: <a href="https://www.tmwr.org/">Tidy modeling with R</a>. Interessant - lezen.</p></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://www.tmwr.org/images/cover.png" class="img-fluid figure-img" width="344"></p>
+<p></p><figcaption class="figure-caption">Tidy Modeling with R</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="zondag-30-10-2022" class="level4">
+<h4 class="anchored" data-anchor-id="zondag-30-10-2022">Zondag <strong>|</strong> 30-10-2022</h4>
+<ul>
+<li>Dit <strong>logboek</strong> is bedoeld om bij te houden welke ideeën ik heb voor mijn lectoraat. Het is ook bedoeld voor mijzelf om <a href="https://quarto.org/docs/get-started/hello/rstudio.html">Quarto</a> aan te leren.</li>
+<li>In de week van 24 oktober 2022 ben ik begonnen mijzelf weer in te werken in het vakgebied, na ongeveer 2 jaar tijd in mijn andere baan als directeur OKC gewerkt te hebben.</li>
+<li>Ik heb een aantal bookmarks verzameld aan de hand van <strong>R-packages</strong>. Daar zitten meerdere interessante packages bij. Ik zie met name mooie kansen voor GIS, visualisaties (in afbeeldingen en tabellen), rapportages en boeken in Quarto.</li>
+</ul>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Gekopieerd!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Gekopieerd!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">Gepubliceerd. met <a href="https://quarto.org/">Quarto</a> 1.2.280 | © 2023 <a href="./">Hapax Analytics</a>, <a href="./over.html">Theo Bakker</a> | <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></div>   
+  </div>
+</footer>
+
+
+
+</body></html>

@@ -1,0 +1,58 @@
+---
+title: "Fair Machine Learning & AI in relatie tot studiedata"
+lang: nl
+categories: [Fair, AI, Machine Learning]
+fields: [date, reading-time]
+format:
+    html:
+        toc: true
+        toc-depth: 4
+bibliography: ../../citations/references.bib
+csl: ../../citations/apa.csl
+
+description: Fair AI en Machine Learning in relatie tot het gebruik van studiedata.
+date: 1/7/2023
+author:
+  - name: Theo Bakker 
+    url: https://hapax-analytics.com/over
+    affiliation: The Hague University of Applied Sciences
+    affiliation-url: https://hhs.nl
+citation:
+  url: https://example.com/summarizing-output
+---
+
+Ik ben gefascineerd door **eerlijkheid** (*fairness*) in relatie tot Machine Learning en AI in het hoger onderwijs. Het begrip is op meerdere manieren relevant: Is de verzameling van data wel eerlijk? Doen we voldoende recht aan de studenten van wie we studiedata onderzoeken? Wat vertelt studiedata over hoe eerlijk we als onderwijsinstellingen handelen? Zijn algoritmes wel eerlijk? Is het gebruik van voorspelmodellen door docenten, begeleiders of beleidsmedewerkers wel eerlijk?
+
+![](/images/paste-422F626A.png)
+
+In mijn promotieonderzoek [@tbakker2022] heb ik met behulp van een statistisch methode, **propensity score weighting** [@rosenbaum1984], de data van studenten met en zonder autisme met elkaar in balans kunnen brengen. Dit helpt om beter te begrijpen welke verschillen er tussen groepen daadwerkelijk zijn en daar begeleiding en beleid op af te kunnen stemmen. Ook helpt uitgebalanceerd onderzoek bij het herwaarderen van (voor)oordelen. Dit soort correcties op data zou een standaard aanpak moeten zijn bij het onderzoeken van (minderheids)groepen studenten in het hoger onderwijs. Zo bleek in mijn onderzoek na balancering van studiedata van studenten met autisme hun studievoortgang vrijwel even goed te zijn als dat van hun studiegenoten, maar dat een betere voorbereiding op toetsing wel een aandachtspunt was.
+
+### Wat is eerlijk?
+
+Gaat het bij het begrip 'eerlijk' om gelijke kansen aan de start van de studie of ook tijdens de studie? [@fishkin2014b]
+
+### The Equality Machine (Orly Lobel)
+
+Samenvatting van **The Equality Machine** [@Lobel2022].
+
+#### Hoofdstuk 1: Why We Need an Equality Machine
+
+AI zorgt vaak voor meer ongelijkheid, door data van mindere kwaliteit tot en met het repliceren van de biases die er bestaan in onze maatschappij.
+
+"Our starting point: despite its risks and flaws, digitization can and must become a powerful force for societal good---for fairness, inclusion, economic growth, expanded opportunities, innovation, and, above all else, equality."
+
+Hiervoor zijn welbewuste keuzes nodig, toezicht en beleid. Technologie is ambivalent, zowel een belofte als een bedreiding. Supreme en dom. Technologie kan ongelijkheden versterken of juist uitwissen. Technologie hoeft - om het beter te kunnen doen - niet perfect te zijn, maar het beter kunnen doen dan onze huidige systemen. Onderzoek hiernaar moet vergelijkend en relatief zijn, niet absoluut. Het doel moet voortgang zijn, niet perfectie.
+
+Als de toepassing van technologie faalt, kunnen we juist zien dat we het beter kunnen doen. Iets wat me verborgen gebreken in onze maatschappij niet te doen is. We kunnen succes opschalen en leren door te experimenteren.
+
+Gelijkheid moet onderdeel uitmaken van elke digitale vooruitgang. Algoritmes repliceren fouten uit het verleden, tenzij we ze expliciet corrigeren. We kunnen nagaan hoe concurrerende doelen - zoals accuraatheid en eerlijkheid, gelijkheid en privacy, en efficiëntie en inclusie - win-win doelen worden. Hiervoor moeten we actief de technologie selecteren die een betere maatschappij bouwen.
+
+Hiervoor moeten we meer data verzamelen, data verbeteren. Informatie verzamelen die ertoe doet. Om bias te verwijderen, moeten we eerst bias ontdekken. De juiste data is de beste 'desinfecteerder' en digitale verlichting de beste sociale gelijkmaker.
+
+AI en technologie moet gezien worden als een publiek goed. Technologie moet niet gezien worden als het werk van programmeurs en computer wetenschappers, maar als het werk van psychologen, ethici, beleidsmakers, economen, historici, kunstenaars, antropologen, sociologen, gezondheidswetenschappers, etc.
+
+Technologie heeft al eeuwen lang onze identiteit en maatschappij veranderd, maar nog nooit eerder was de reconfiguratie daarvan zo snel en accuut als in onze tijd. "With great computing power, comes great responsibility."
+
+#### Hoofdstuk 2 - Behind the hiring curtain
+
+...

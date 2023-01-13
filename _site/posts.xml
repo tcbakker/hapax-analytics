@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Hapax Analytics</title>
+<link>https://www.hapax-analytics.nl/posts.html</link>
+<atom:link href="https://www.hapax-analytics.nl/posts.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<image>
+<url>https://www.hapax-analytics.nl/images/_site/logo-hapax-v3.png</url>
+<title>Hapax Analytics</title>
+<link>https://www.hapax-analytics.nl/posts.html</link>
+<height>144</height>
+<width>144</width>
+</image>
+<generator>quarto-1.2.280</generator>
+<lastBuildDate>Thu, 05 Jan 2023 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Post With Code</title>
+  <dc:creator>Theo Bakker</dc:creator>
+  <link>https://www.hapax-analytics.nl/posts/post-with-code/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>This is a post with executable code.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="dv" style="color: #AD0000;">1</span> <span class="sc" style="color: #5E5E5E;">+</span> <span class="dv" style="color: #AD0000;">1</span></span></code></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] 2</code></pre>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>nieuws</category>
+  <category>code</category>
+  <category>analyse</category>
+  <guid>https://www.hapax-analytics.nl/posts/post-with-code/index.html</guid>
+  <pubDate>Thu, 05 Jan 2023 23:00:00 GMT</pubDate>
+  <media:content url="https://www.hapax-analytics.nl/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Welkom op mijn blog</title>
+  <dc:creator>Theo Bakker</dc:creator>
+  <link>https://www.hapax-analytics.nl/posts/welcome/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>Dit is de eerste post op mijn blog. Welkom!</p>
+<p><img src="https://www.hapax-analytics.nl/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+
+
+
+ ]]></description>
+  <category>nieuws</category>
+  <guid>https://www.hapax-analytics.nl/posts/welcome/index.html</guid>
+  <pubDate>Mon, 02 Jan 2023 23:00:00 GMT</pubDate>
+  <media:content url="https://www.hapax-analytics.nl/posts/welcome/thumbnail.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

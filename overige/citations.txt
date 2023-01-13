@@ -1,0 +1,12 @@
+@book{10.1093/acprof:oso/9780199812141.001.0001,
+    author = {Fishkin, Joseph},
+    title = "{Bottlenecks: A New Theory of Equal Opportunity}",
+    publisher = {Oxford University Press},
+    year = {2014},
+    month = {02},
+    abstract = "{Equal opportunity is a powerful idea with broad appeal. Yet the most attractive existing conceptions of equal opportunity cannot be achieved. As long as families are free to raise their children differently, no two people's opportunities will be equal; nor is it possible to disentangle someone's abilities or talents from her background advantages and disadvantages.  Moreover, different people need different opportunities, confounding most ways of defining “equal.”
+This book proposes an entirely new way of thinking about the project of equal opportunity. Instead of focusing on the chimera of literal equalization, it argues for broadening the range of opportunities open to people at every stage in life, in part by loosening bottlenecks in the opportunity structure—the narrow places through which people must pass in order to pursue many life paths that open out on the other side. A bottleneck might be a test like the SAT, a credential requirement like a college degree, or a skill like speaking English. It might be membership in a favored caste or racial group. Reducing the severity of such bottlenecks is one piece of what this book calls opportunity pluralism: building a more open and pluralistic opportunity structure in which people have more of a chance, throughout their lives, to pursue paths they choose for themselves, rather than those dictated by limited opportunities. The book then applies this approach to contemporary egalitarian policy problems: class and access to education, workplace flexibility and work/family conflict, and antidiscrimination law.}",
+    isbn = {9780199812141},
+    doi = {10.1093/acprof:oso/9780199812141.001.0001},
+    url = {https://doi.org/10.1093/acprof:oso/9780199812141.001.0001},
+}

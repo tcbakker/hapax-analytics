@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/projecten.html",
+    "items": [
+      "/projecten/fair-ml-ai/fair-ml-ai-introductie.html",
+      "/projecten/ai-in-hoger-onderwijs/ai-in-hoger-onderwijs.html"
+    ]
+  }
+]
