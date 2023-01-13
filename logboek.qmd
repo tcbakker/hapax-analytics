@@ -23,6 +23,8 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk; een mix v
 
 -   **VU**: Correspondentie promotie.
 
+-   **Git**: Initiële commit gemaakt naar Github repo.
+
 #### Donderdag \| 12-01-2023
 
 -   **HHs**: Overleg BS, kennismaking AS, Nieuwjaarsreceptie, onderzoeksvoorstel CE
