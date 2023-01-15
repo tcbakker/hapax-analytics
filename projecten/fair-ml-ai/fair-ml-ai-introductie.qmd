@@ -1,6 +1,7 @@
 ---
 title: "Fair Machine Learning & AI in relatie tot studiedata"
 lang: nl
+language: ../../custom-language.yml
 categories: [Fair, AI, Machine Learning]
 fields: [date, reading-time]
 format:
@@ -15,7 +16,7 @@ date: 1/7/2023
 author:
   - name: Theo Bakker 
     url: https://hapax-analytics.com/over
-    affiliation: The Hague University of Applied Sciences
+    affiliation: De Haagse Hogeschool
     affiliation-url: https://hhs.nl
 citation:
   url: https://example.com/summarizing-output

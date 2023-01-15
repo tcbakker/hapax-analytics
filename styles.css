@@ -82,6 +82,31 @@ body {
   background-position-y: 180px;
 }
 
+.logo-wrapper {
+    display: grid;
+    grid-template-columns: 200px 20px 200px;
+}
+
+.logo-hhs {
+    width:200px;
+    height:70px;
+    margin:0;
+    padding:0;
+    background-image: url("images/_site/hhs_nl_groen_hex.png");
+    background-size: 200px;
+    background-repeat: no-repeat;
+}
+
+.logo-vu {
+    width:200px;
+    height:70px;
+    margin:0;
+    padding:0;
+    background-image: url("images/_site/logo-vu.png");
+    background-size: 200px;
+    background-repeat: no-repeat;
+}
+
 /* headers */
 h1, h2, h3, h4 {
     color: #31525B;

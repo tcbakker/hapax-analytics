@@ -17,7 +17,7 @@ website:
   image: images/_site/logo-hapax-v3.png
   favicon: images/_site/logo-hapax-v3.png
   navbar:
-    title: Hapax Analytics
+    title: Hapax Learning Analytics
     subtitle: Analytics in het hoger onderwijs
     logo: images/_site/logo-hapax-v3.png
     logo-alt: Hapax Analytics

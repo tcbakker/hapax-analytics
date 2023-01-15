@@ -8,10 +8,69 @@ format:
 ---
 
 ::: {style="color: gray"}
-Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk; een mix van hoger onderwijs, studiesucces, data science en coderen in R.
+Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix van hoger onderwijs, studiesucces, data science en coderen in R.
 :::
 
 ### Januari 2023
+
+#### Zondag \| 15-01-2023
+
+-   **Statistiek:** Easystats uitgeprobeerd: [reports package](https://easystats.github.io/report/). Geeft goede samenvattingen in het Engels (in lopende tekst, tabellen). Daarnaast: [correlation](https://easystats.github.io/correlation/),
+
+![](images/workflow.png){width="600"}
+
+-   **Add-inns**:
+    -   [Esquisse](https://cran.r-project.org/web/packages/esquisse/readme/README.html) - Add-in voor R om ggplot afbeeldingen snel te kunnen maken.
+    -   [ViewPipeSteps](https://github.com/daranzolin/ViewPipeSteps) - Add-in om de verschillende stappen in een pipe opdracht te visualiseren of printen.
+-   **Visualisaties**: [Cheat theme sheet voor ggplot](https://statsandr.com/blog/best-rstudio-addins-in-rstudio-or-how-to-make-your-coding-life-easier_files/ggplot_theme_system_cheatsheet.pdf).
+
+![](images/paste-D598871B.png){fig-align="center" width="600"}
+
+-   **Tutorial**: [Bayesian statistics](https://easystats.github.io/bayestestR/articles/bayestestR.html) gevolgd met het bayestestR package van easystats.
+
+    
+
+
+`Table: Summary of Posterior Distribution
+
+|Parameter    | Median|      95% CI |  pd |         ROPE | % in ROPE| Rhat |    ESS |
+|:------------|------:|:------------|:----|:-------------|---------:|:-----|:-------|
+|(Intercept)  |   4.30|[4.14, 4.46] |100% |[-0.10, 0.10] |        0%|1.000 |3521.00 |
+|Petal.Length |   0.41|[0.37, 0.45] |100% |[-0.10, 0.10] |        0%|1.000 |3384.00 |`
+
+-   **Statistiek**: [Bayesian statistiek](https://www.bayesianspectacles.org/) - website van de UvA over bayesiaanse statistiek.
+
+    -   Zie met name de uitleg over een herberekening van de onderbouwing van de cognifitieve dissonantie theorie van Festinger uitgevoerd in JASP: Ly, A., Raj, A., Etz, A., Marsman, M., Gronau, Q. F., & Wagenmakers, E.-J. (2018). Bayesian Reanalyses From Summary Statistics: A Guide for Academic Consumers. *Advances in Methods and Practices in Psychological Science*, *1*(3), 367--374. doi: 10.1177/2515245918779348 (in papers)
+
+        ![](images/LetsPokeAPizza.jpg){fig-align="center" width="600"}
+
+    -   De analyse van dit artikel herhaald in JASP aan de hand van de [uitleg](https://www.bayesianspectacles.org/lets-poke-a-pizza-a-new-cartoon-to-explain-the-strength-of-evidence-in-a-bayes-factor/).
+
+![](images/paste-4B480DD2.png){fig-align="center" width="600"}
+
+-   **Website**: Verder gewerkt aan mogelijkheden om de namen en logo's van De HHs en VU goed weer te geven.
+
+#### Zaterdag \| 14-01-2023
+
+-   **Future trends:** [Why the Future Doesn't Need Us](https://www.wired.com/2000/04/joy-2/). Dystopisch artikel over de toekomst van de mensheid in relatie tot robotica, nano-technologie, bio-engineering (GNR technologie - genetics, nano, robots) uit 2000.
+    -   Waarom we eventueel een dystopische toekomst niet merken is omdat het zich gradueel voltrekt en we eraan wennen. Nieuw is dat ze voor een brede groep ontwikkelaars ter beschikking komen i.t.t. de ontwikkeling van kernwapens of kernenergie. Ontwikkelingen zullen rond 2030 samenkomen.
+    -   We moeten ons de vraag stellen hoe we het beste met deze nieuwe technologieën kunnen co-existeren.
+    -   Overige technologieën: bio-engineering (cloning, ontwikkeling nieuwe planten, voorkomen of genezen van ziektes, overwinnen van ouderdom door genetic engineering), nano-technologie (assemblers). Het risico vormt "the power of destructive self-replication in genetics, nanotechnology, and robotics (GNR)" die niet in handen van overheden is maar van commerciële bedrijven.
+    -   Hij put er hoop uit dat we in staat zijn geweest andere technologieën die bedreigend zijn aan banden te leggen of ervoor kiezen ze niet te ontwikkelen (zoals biologische wapens).
+-   **AI**: [Stop Tinkering with AI](https://hbr.org/2023/01/stop-tinkering-with-ai). Artikel van Davenport en Mittal over 10 randvoorwaarden voor een succesvolle implementatie van AI.
+    -   1\) Know What You Want to Accomplish (Standaardisatie van informatie), 2) Work with an Ecosystem of Partners, 3) Master Analytics, 4) Create a Modular, Flexible IT Architecture, 5) Integrate AI into Existing Workflows, 6) Build Solutions Across the Organization, 7) Create an AI Governance and Leadership Structure, 8) Develop and Staff Centers of Excellence, 9) Invest Continually, 10) Always Seek New Sources of Data.
+-   **Statistiek**: [easystats](https://easystats.github.io/easystats/) package maakt snelle samenvattingen van data eenvoudig ([easystats: Quickly investigate model performance](https://www.youtube.com/watch?v=Bi8sHIo3s1Y&ab_channel=BusinessScience)). Is eigenlijk een verzameling van packages om snel te kunnen modelleren.
+
+![](images/logo.png){fig-align="center" width="50"}
+
+-   **Sample size**: [minsample package.](https://cran.r-project.org/web/packages/minsample2/vignettes/Intro_to_minsample2.html) "This package helps the user to determine the minimum sample size required to attain the pre-fixed precision level."
+-   **Visualisatie**: mooie visualisatie van de NOS over de [ontwikkeling van de wereldbevolking](https://app.nos.nl/op3/8-miljard-mensen/#/).
+
+![](images/paste-93BD7A39.png){fig-align="center" width="600"}
+
+-   **Voorspellingen van succes:** Alyahyan, E., & Düştegör, D. (2020). Predicting academic success in higher education: literature review and best practices. *International Journal of Educational Technology in Higher Education*, *17*(1), 3. doi: 10.1186/s41239-020-0177-7. Uitstekend samenvattend paper over mogelijkehden voor het bouwen van voorspellende modellen. Misschien goed om te gebruiken in **inaugurele rede**. In papers.
+
+![](images/paste-0EB6AA37.png){fig-align="center" width="600"}
 
 #### Vrijdag \| 13-01-2023
 
@@ -19,10 +78,8 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk; een mix v
 
 ![](images/paste-A3A45692.png){fig-align="center" width="600"}
 
--   **HHs**: Onderzoeksvoorstel Learning Analytics CE. Kennismaking met GE.
-
+-   **HHs**: Onderzoeksvoorstel Learning Analytics CE. Kennismaking met GE. Onderzoeksopzet Brightspace. Git.
 -   **VU**: Correspondentie promotie.
-
 -   **Git**: Initiële commit gemaakt naar Github repo.
 
 #### Donderdag \| 12-01-2023
@@ -32,16 +89,14 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk; een mix v
 #### Woensdag \| 11-01-2023
 
 -   **VU**: Voorbereiding onderzoek naar ADD
-
 -   **HHs**: Kennismaking met EM, intro bij ITD, strategische sessie GIL
-
 -   **Motivatie**: Over de [invloed van cijfers op de intrinsieke motivatie van leerlingen](https://decorrespondent.nl/14112/hoe-cijfers-de-motivatie-van-leerlingen-om-zeep-helpen/43213341346560-d7d80dce); intrinsieke motivatie neemt af door cijfers.
-
 -   **Synthetische data**: [faker](https://github.com/faker-ruby/faker) - een python library om synthetische persoonsgegevens te maken. Alternatief: [faker-js](https://github.com/faker-js/faker). Alternatief in R: [charlatan](https://cran.r-project.org/web/packages/charlatan/vignettes/charlatan.html) (in meerdere talen, bevat ook de mogelijkheid om messy data te maken).
 
 ![](images/40263395-4318481e-5b44-11e8-92e5-3dcc1ce169b3.png){fig-align="center" width="200"}
 
 -   **Publiciteit**: Artikel op Scienceguide over mijn vierde artikel: [Succes student met autisme beter te voorspellen](https://www.scienceguide.nl/2023/01/succes-student-met-autisme-beter-te-voorspellen/).
+-   **ChatGPT**: [Student bouwt tool om plagiaat met ChatGPT te herkennen](https://www.emerce.nl/nieuws/student-bouwt-app-die-plagiaat-chatgpt-detecteert).
 
 #### Dinsdag \| 10-01-2023
 
@@ -60,7 +115,6 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk; een mix v
 #### Maandag \| 09-01-2023
 
 -   **AI**: Artikel van TED talks over de [problemen die er waren met volledig autonoom rijden](https://ideas.ted.com/many-of-us-thought-wed-be-riding-in-ai-driven-cars-by-now-what-happened/) door Janelle Shane.
-
     -   Een probleem was het terugschakelen van de autonome functie naar de chauffeur. Deze had zo lang niets gedaan, dat een ingreep te laat kwam. Ook had AI niet geleerd alle mogelijkheden te herkennen (zoals een kangoeroe of een vrachtwagen van de zijkant).
 
     -   ![](images/ais-love-to-fall-1.jpg){width="600"}
@@ -68,11 +122,8 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk; een mix v
         ![](images/ais-love-to-fall-2.jpg){width="600"}
 
     -   In het bijbehorende filmpje ([The danger of AI is weirder than you think](https://www.youtube.com/watch?v=OhCzX0iLnOc&ab_channel=TED)) gaat Shane erop in dat AI goed aangeleerd moet worden wat restricties (!) zijn, anders zal het op elke mogelijke manier voldoen aan de opdracht die we geven. "It's entire world is the data that I gave it." AI zelf heeft geen besef van wat goed of fout is; dit wordt gevoed (of niet) door de ontwerper/programmeur. Zo heeft een facebook algoritme als opdracht zoveel mogelijk kliks te genereren; negatieve content genereert meer kliks.
-
 -   **Autisme**: Interview voor het blad Autisme van de NVA.
-
 -   **AI**: Why we need to create AI that thinks in ways that we can't even imagine (23 mei 2017)"AI could just as well stand for"alien intelligence." We have no certainty we'll contact extraterrestrial beings in the next 200 years, but we have almost 100 percent certainty that we'll manufacture an alien intelligence by then." - [Kevin Kelly - TED](https://ideas.ted.com/why-we-need-to-create-ais-that-think-in-ways-that-we-cant-even-imagine/) betoogt dat we met AI andere vormen van intelligentie zullen ontwikkelen die we met menselijke intelligentie niet kunnen bedenken. Deze zijn gespecialiseerd op specifieke domeinen.
-
     -   Humans are for inventing new kinds of intelligences that biology could not evolve. Our job is to make machines that think different --- to create alien intelligences.
 
     -   Artificial intelligence will help us better understand what we mean by intelligence in the first place. In the past, we would have said only a superintelligent AI could beat a human at Jeopardy! or recognize a billion faces. But once our computers did each of those things, we considered that achievement obviously mechanical and hardly worth the label of true intelligence. We label it "machine learning." Every achievement in AI redefines that success as "not AI."

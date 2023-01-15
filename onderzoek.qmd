@@ -9,14 +9,14 @@ format:
 
 ## De Haagse Hogeschool
 
-### Hoe gaan we met het lectoraat Learning Technology & Analytics impact maken?
+### Hoe maakt het lectoraat Learning Technology & Analytics impact?
 
 -   De **beoogde impact** van het lectoraat is het bevorderen van gelijke kansen voor studenten in het hoger onderwijs om zichzelf te kunnen ontwikkelen tot wat de maatschappij van hen vraagt.
 -   Er zijn vier **onderzoekslijnen**: 1) learning, 2) student en 3) institutional analytics + 4) onderzoek studieverloop en -succes van studenten met een ondersteuningsbehoefte.
--   We willen **impact** maken door ons binnen elke onderzoekslijn te richten op a) selectie van relevante studiedata, b) methoden van analyse, c) praktijktoepassing van oplossingen, mate van adoptie en effectmeting, en d) communicatie en disseminatie.
+-   Het lectoraat maakt **impact** door zich binnen elke onderzoekslijn te richten op a) selectie van relevante studiedata, b) methoden van analyse, c) praktijktoepassing van oplossingen, mate van adoptie en effectmeting, en d) communicatie en disseminatie.
 -   **Ik draag bij aan de doelen** van het kenniscentrum [Global & Inclusive Learning](https://www.dehaagsehogeschool.nl/onderzoek/kenniscentra/details/kenniscentrum-global-and-inclusive-learning) door mijn collega's te vinden op onderliggende waarden, wederzijdse nieuwsgierigheid en complementariteit in ons onderzoek.
 
-{{< fa solid download >}} Download de [Basispresentatie Learning Technology & Analytics](downloads/LTA_HHs_20211210_v3.1.pdf).
+{{< fa solid download >}} Download de Basispresentatie Learning Technology & Analytics.
 
 ### Vier onderzoekslijnen
 
