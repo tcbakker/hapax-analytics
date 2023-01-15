@@ -15,7 +15,9 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 
 #### Zondag \| 15-01-2023
 
--   Test: 2010
+-   **Website**:
+    -   Verder gewerkt aan mogelijkheden om de namen en logo's van De HHs en VU goed weer te geven.
+    -   Publicatie via Github naar Netlify.
 -   **Statistiek:** Easystats uitgeprobeerd: [reports package](https://easystats.github.io/report/). Geeft goede samenvattingen in het Engels (in lopende tekst, tabellen). Daarnaast: [correlation](https://easystats.github.io/correlation/),
 
 ![](images/workflow.png){width="600"}
@@ -48,8 +50,6 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
     -   De analyse van dit artikel herhaald in JASP aan de hand van de [uitleg](https://www.bayesianspectacles.org/lets-poke-a-pizza-a-new-cartoon-to-explain-the-strength-of-evidence-in-a-bayes-factor/).
 
 ![](images/paste-4B480DD2.png){fig-align="center" width="600"}
-
--   **Website**: Verder gewerkt aan mogelijkheden om de namen en logo's van De HHs en VU goed weer te geven.
 
 #### Zaterdag \| 14-01-2023
 
