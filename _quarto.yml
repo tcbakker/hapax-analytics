@@ -69,3 +69,6 @@ editor: visual
 
 filters:
   - lua/quarto-version.lua
+
+execute:
+  freeze: auto
