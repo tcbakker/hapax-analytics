@@ -15,6 +15,7 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 
 #### Zondag \| 15-01-2023
 
+-   Test: 2010
 -   **Statistiek:** Easystats uitgeprobeerd: [reports package](https://easystats.github.io/report/). Geeft goede samenvattingen in het Engels (in lopende tekst, tabellen). Daarnaast: [correlation](https://easystats.github.io/correlation/),
 
 ![](images/workflow.png){width="600"}
