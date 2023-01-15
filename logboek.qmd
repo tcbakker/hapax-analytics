@@ -18,6 +18,7 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 -   **Website**:
     -   Verder gewerkt aan mogelijkheden om de namen en logo's van De HHs en VU goed weer te geven.
     -   Publicatie via Github naar Netlify.
+    -   Test 2107
 -   **Statistiek:** Easystats uitgeprobeerd: [reports package](https://easystats.github.io/report/). Geeft goede samenvattingen in het Engels (in lopende tekst, tabellen). Daarnaast: [correlation](https://easystats.github.io/correlation/),
 
 ![](images/workflow.png){width="600"}
@@ -681,3 +682,4 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 -   Dit **logboek** is bedoeld om bij te houden welke ideeën ik heb voor mijn lectoraat. Het is ook bedoeld voor mijzelf om [Quarto](https://quarto.org/docs/get-started/hello/rstudio.html) aan te leren.
 -   In de week van 24 oktober 2022 ben ik begonnen mijzelf weer in te werken in het vakgebied, na ongeveer 2 jaar tijd in mijn andere baan als directeur OKC gewerkt te hebben.
 -   Ik heb een aantal bookmarks verzameld aan de hand van **R-packages**. Daar zitten meerdere interessante packages bij. Ik zie met name mooie kansen voor GIS, visualisaties (in afbeeldingen en tabellen), rapportages en boeken in Quarto.
+
