@@ -1,7 +1,7 @@
 ---
 title: "Home"
 lang: nl
-reference-location: margin
+# reference-location: margin
 format:
     html:
         toc: false
@@ -10,8 +10,12 @@ format:
 
 Dit is de persoonlijke website van [Theo Bakker](/over.html), lector Learning Technology & Analytics bij [De Haagse Hogeschool](https://hhs.nl) en universitair docent bij de [Vrije Universiteit Amsterdam](https://vu.nl).
 
+::: column-margin
+![](Theo%20Bakker_HHs_klein_smal.png){width="400"}
+:::
+
 ::: logo-wrapper
-::: logo-hhs
+::: {.logo-hhs onclick="location.href='https://www.hhs.nl'"}
  
 :::
 
@@ -19,13 +23,9 @@ Dit is de persoonlijke website van [Theo Bakker](/over.html), lector Learning Te
  
 :::
 
-::: logo-vu
+::: {.logo-vu onclick="location.href='https://www.vu.nl'"}
  
 :::
-:::
-
-::: column-margin
-![](Theo%20Bakker_HHs_klein_smal.png){width="400"}
 :::
 
 De naam Hapax Learning Analytics komt van het Griekse 'hapax legomenon' (ἅπαξ λεγόμενον): "één keer uitgesproken"[^1]. Een uitdrukking die aangeeft dat een woord in oude geschriften zoals de Bijbel slechts één keer voorkomt - een unieke situatie en interessant verschijnsel. Juist het gegeven dat het uniek is, kan extra betekenis geven.

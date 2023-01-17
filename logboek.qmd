@@ -13,12 +13,26 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 
 ### Januari 2023
 
+#### Dinsdag \| 17-01-2023
+
+-   **Statistiek**: Verwerkt gewerkt aan easystats.
+    -   [Effect size](https://easystats.github.io/effectsize/). Handig is dat je ook een interpretatie kan uitvragen op basis van verschillende "rules of thumb".
+
+    -   [Parameters](https://easystats.github.io/parameters/) biedt mogelijkheden om de parameters van modellen te printen. Met de functie select_parameters() worden automatisch de beste parameters gekozen afhankelijk van het model dat is gebruikt.
+
+    -   [Performance](https://easystats.github.io/performance/). Heel interessante en handige functionaliteit om assumpties te testen en modellen te vergelijken.
+
+![](images/figure_workflow.png){fig-align="center" width="600"}
+
+![](images/unnamed-chunk-14-1.png){fig-align="center" width="600"}
+
+![](images/unnamed-chunk-20-1.png){fig-align="center" width="600"}
+
 #### Zondag \| 15-01-2023
 
 -   **Website**:
     -   Verder gewerkt aan mogelijkheden om de namen en logo's van De HHs en VU goed weer te geven.
     -   Publicatie via Github naar Netlify.
-    -   Test 2107
 -   **Statistiek:** Easystats uitgeprobeerd: [reports package](https://easystats.github.io/report/). Geeft goede samenvattingen in het Engels (in lopende tekst, tabellen). Daarnaast: [correlation](https://easystats.github.io/correlation/),
 
 ![](images/workflow.png){width="600"}
@@ -32,15 +46,12 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 
 -   **Tutorial**: [Bayesian statistics](https://easystats.github.io/bayestestR/articles/bayestestR.html) gevolgd met het bayestestR package van easystats.
 
-    
+\`Table: Summary of Posterior Distribution
 
-
-`Table: Summary of Posterior Distribution
-
-|Parameter    | Median|      95% CI |  pd |         ROPE | % in ROPE| Rhat |    ESS |
-|:------------|------:|:------------|:----|:-------------|---------:|:-----|:-------|
-|(Intercept)  |   4.30|[4.14, 4.46] |100% |[-0.10, 0.10] |        0%|1.000 |3521.00 |
-|Petal.Length |   0.41|[0.37, 0.45] |100% |[-0.10, 0.10] |        0%|1.000 |3384.00 |`
+| Parameter    | Median | 95% CI         | pd   | ROPE            | \% in ROPE | Rhat  | ESS     |
+|:--------|--------:|:--------|:--------|:--------|--------:|:--------|:--------|
+| (Intercept)  |   4.30 | \[4.14, 4.46\] | 100% | \[-0.10, 0.10\] |         0% | 1.000 | 3521.00 |
+| Petal.Length |   0.41 | \[0.37, 0.45\] | 100% | \[-0.10, 0.10\] |         0% | 1.000 | 3384.00 |
 
 -   **Statistiek**: [Bayesian statistiek](https://www.bayesianspectacles.org/) - website van de UvA over bayesiaanse statistiek.
 
@@ -682,4 +693,3 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 -   Dit **logboek** is bedoeld om bij te houden welke ideeën ik heb voor mijn lectoraat. Het is ook bedoeld voor mijzelf om [Quarto](https://quarto.org/docs/get-started/hello/rstudio.html) aan te leren.
 -   In de week van 24 oktober 2022 ben ik begonnen mijzelf weer in te werken in het vakgebied, na ongeveer 2 jaar tijd in mijn andere baan als directeur OKC gewerkt te hebben.
 -   Ik heb een aantal bookmarks verzameld aan de hand van **R-packages**. Daar zitten meerdere interessante packages bij. Ik zie met name mooie kansen voor GIS, visualisaties (in afbeeldingen en tabellen), rapportages en boeken in Quarto.
-

@@ -95,6 +95,7 @@ body {
     background-image: url("images/_site/hhs_nl_groen_hex.png");
     background-size: 200px;
     background-repeat: no-repeat;
+    cursor: pointer;
 }
 
 .logo-vu {
@@ -105,6 +106,7 @@ body {
     background-image: url("images/_site/logo-vu.png");
     background-size: 200px;
     background-repeat: no-repeat;
+    cursor: pointer;
 }
 
 /* headers */
