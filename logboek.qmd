@@ -13,6 +13,56 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 
 ### Januari 2023
 
+#### Woensdag \| 18-01-2023
+
+-   **Fairness**: [Seminar Fairness in Machine Learning and Operations Research](https://www.vvsor.nl/operations-research/news/seminar-fairness-in-machine-learning-and-operations-research/) bijgewoond (van de VVSOR).
+    -   *Lezing 1 - An overview  of fairness in machine learning, and insights from insurance practice* *- Rogier Emmen - ORTEC*
+
+        -   Gebruik features van een model om de variabele waarvoor je wil corrigeren te voorspellen.
+        -   Fairness measures: demographic parity (same amount of observations each), equal opportunity (same true positive proportions), equalized odds (same true and false positives proportions).
+        -   TB: Discriminations - to be able to discriminate is important in machine learning. It is inherent to the technique.
+        -   Suggestie voor een artikel: Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). A Survey on Bias and Fairness in Machine Learning. *ACM Computing Surveys*, *54*(6), 1--35. doi: 10.1145/3457607 (in papers)
+
+    -   *Lezing 2 - Oops and optimality - Vincent Warmerdam*
+
+        -   Geeft voorbeelden van de chickens dataset (lijkt sterk op uitvalsgrafieken)
+        -   Gebruik bij modelleren verschillende seeds en combinaties van cross validation.
+        -   Zelden worden constraints toegevoegd aan modellen. Gebruik die wel (geeft voorbeeld van vectoren).
+        -   Er is trade-off tussen fairness en accuracy.
+        -   Zie website [FairLearn](https://fairlearn.org/) om fairness beter te verwerken in algoritmes.
+        -   Personal notes: indrukwekkend persoonlijk verhaal (anecdotisch materiaal helpt om een punt duidelijk te maken).
+        -   [Deon](https://deon.drivendata.org/): an ethics checklist for data scientists ("command line tool that allows you to easily add an ethics checklist to your data science projects").
+
+    -   *Lezing 4 - Fairness in forensic science - Marjan Sjerps (NFI/UvA)*
+
+        -   Eerst blind vergelijken (net als vrouwe justitia). Daarna pas de envelop openen met de contextuele informatie
+
+        -   Objectifying interpretation of evidence (niet termen 'zwak' of 'sterk' maar een nummer) - likely ratio framework
+
+        -   Zie slide 11 - met de LR worden de rollen gescheiden. De rechter bepaalt op basis van de beschikbare informatie de priors, dan volgt de onafhankelijke LR van de forensic expert, waarna de rechter de posteriors kan bepalen.
+
+        -   Vervolgvragen van de rechter: kunnen we deze getallen vertrouwen en wat was de methode?
+
+        -   Dit is te ondervangen met een validatie studie (Van Es et al, 2017)
+
+    -   *Vijfde lezing - How OR can help understand fairness trade-offs in complex practical problems - Thomas Breugem - Tilburg University*
+
+        -   Health Delivery 1. Family planning in Africa
+            -   Vertical fairness - varying treatment for varying needs
+
+            -   Probleem: donororganisatie willen dat het aantal kwetsbare clienten dat geholpen wordt toeneemt, maar dat staat op gespannen voet met OR (optimalisatie)
+
+            -   Heeft een model gemaakt dat de trade-off berekent tussen high-impact en volume
+        -   Railway Crew planning 2. Train crew planning
+            -   Vraag: is attractiveness (van een rooster) gelijk aan fairness?
+
+            -   Is equality desirable?
+
+            -   Be careful not to overoptimize fairness
+
+            -   Questionable whether fair rosters are desirable for all employees
+-   **Trends**: Trendverkenning studiedata van SURF doorgenomen. Akcaova, G., Baten, D., Poot, G., & Vermaas, K. (2023). *Trendverkenning studiedata: een exploratie van opkomende waarden & behoeften rondom studiedata* (pp. 1--49). SURF.
+
 #### Dinsdag \| 17-01-2023
 
 -   **Statistiek**: Verwerkt gewerkt aan easystats.
@@ -91,18 +141,10 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 
 ![](images/paste-A3A45692.png){fig-align="center" width="600"}
 
--   **HHs**: Onderzoeksvoorstel Learning Analytics CE. Kennismaking met GE. Onderzoeksopzet Brightspace. Git.
--   **VU**: Correspondentie promotie.
 -   **Git**: Initiële commit gemaakt naar Github repo.
-
-#### Donderdag \| 12-01-2023
-
--   **HHs**: Overleg BS, kennismaking AS, Nieuwjaarsreceptie, onderzoeksvoorstel CE
 
 #### Woensdag \| 11-01-2023
 
--   **VU**: Voorbereiding onderzoek naar ADD
--   **HHs**: Kennismaking met EM, intro bij ITD, strategische sessie GIL
 -   **Motivatie**: Over de [invloed van cijfers op de intrinsieke motivatie van leerlingen](https://decorrespondent.nl/14112/hoe-cijfers-de-motivatie-van-leerlingen-om-zeep-helpen/43213341346560-d7d80dce); intrinsieke motivatie neemt af door cijfers.
 -   **Synthetische data**: [faker](https://github.com/faker-ruby/faker) - een python library om synthetische persoonsgegevens te maken. Alternatief: [faker-js](https://github.com/faker-js/faker). Alternatief in R: [charlatan](https://cran.r-project.org/web/packages/charlatan/vignettes/charlatan.html) (in meerdere talen, bevat ook de mogelijkheid om messy data te maken).
 
@@ -116,10 +158,6 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 -   **Deep Learning en Learning Analytics**: een vergelijkend onderzoek van deep learning en machine learning in Learning Analytics toont aan dat ML modellen even goed voorspellen en beter uitlegbaar zijn.
 
     -   Doleck, T., Lemay, D. J., Basnet, R. B., & Bazelais, P. (2020). Predictive analytics in education: a comparison of deep learning frameworks. *Education and Information Technologies*, *25*(3), 1951--1963. doi: 10.1007/s10639-019-10068-4. In papers.
-
--   **VU**: Studiedag KLOP
-
--   **HHs**: Afscheid JK
 
 -   **Trends**: [Kevin Kelly: The Case for Optimism.](https://www.warpnews.org/premium-content/kevin-kelly-the-case-for-optimism/)
 
