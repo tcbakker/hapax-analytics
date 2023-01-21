@@ -11,7 +11,7 @@ format:
 Dit is de persoonlijke website van [Theo Bakker](/over.html), lector Learning Technology & Analytics bij [De Haagse Hogeschool](https://hhs.nl) en universitair docent bij de [Vrije Universiteit Amsterdam](https://vu.nl).
 
 ::: column-margin
-![](Theo%20Bakker_HHs_klein_smal.png){width="400"}
+![](/images/_site/Theo%20Bakker_HHs_klein_smal.png){width="400"}
 :::
 
 ::: logo-wrapper
