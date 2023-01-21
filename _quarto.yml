@@ -14,7 +14,7 @@ website:
   site-url: https://hapax-la.netlify.app/
   search:
     algolia:
-      index-name: prod_HAPAX
+      index-name: netlify_0c9e5e1b-80f3-4e63-9067-9e5d56fdc7c1_main_all
       application-id: VST6K5ZVS2
       search-only-api-key: b3ee25c09137dfab42531877f950403b
       analytics-events: true
