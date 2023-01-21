@@ -25,6 +25,8 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 
 ![](images/paste-21AF87F4.png){fig-align="center" width="600"}
 
+-   **Website**: Integratie met Netlify en zoekmachine [Algolia](https://www.algolia.com/).
+
 #### Vrijdag \| 20-01-2023
 
 -   **Visualisaties**: Demo van de OU voor een process mining dashboard met Qliksense en add-on [Vizlib](https://home.vizlib.com/vizlib-library-for-qlik-sense/).
