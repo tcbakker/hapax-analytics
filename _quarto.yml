@@ -9,7 +9,16 @@ project:
 
 website:
   title: "Hapax Analytics"
+  image: images/_site/logo-hapax-v3.png
+  favicon: images/_site/logo-hapax-v3.png
   site-url: "https://www.hapax-analytics.nl"
+  search:
+    algolia:
+      index-name: prod_HAPAX
+      application-id: VST6K5ZVS2
+      search-only-api-key: b3ee25c09137dfab42531877f950403b
+      analytics-events: true
+      show-logo: true
   open-graph:
     locale: nl_NL
     site-name: Hapax Analytics
@@ -17,8 +26,6 @@ website:
 #    type: express
 #    style: headline
 #    palette: light
-  image: images/_site/logo-hapax-v3.png
-  favicon: images/_site/logo-hapax-v3.png
   navbar:
     title: Hapax Learning Analytics
     subtitle: Analytics in het hoger onderwijs
