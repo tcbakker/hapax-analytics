@@ -38,6 +38,7 @@ Mijn onderzoekslijn inclusion analytics heeft betrekking op bias en fairness in 
 -   wat zijn voorbeelden uit de praktijk van het onderwijs?
 -   wat kunnen we doen om bias te reduceren en fairness te verhogen?
 -   wat zijn daarvan de voordelen en de trade-offs?
+-   next steps
 
 ### Wat is eerlijk?
 
