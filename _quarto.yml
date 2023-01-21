@@ -11,7 +11,7 @@ website:
   title: "Hapax Learning Analytics 1539"
   image: images/_site/logo-hapax-v3.png
   favicon: images/_site/logo-hapax-v3.png
-  site-url: https://hapax-la.netlify.app/
+  site-url: https://hapax-analytics.nl/
   search:
     algolia:
       index-name: "netlify_0c9e5e1b-80f3-4e63-9067-9e5d56fdc7c1_main_all"
