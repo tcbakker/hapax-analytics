@@ -11,7 +11,7 @@ website:
   title: "Hapax Analytics"
   image: images/_site/logo-hapax-v3.png
   favicon: images/_site/logo-hapax-v3.png
-  site-url: "https://hapax-la.netlify.app/"
+  site-url: https://hapax-la.netlify.app/
   search:
     algolia:
       index-name: prod_HAPAX
