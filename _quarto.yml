@@ -8,7 +8,7 @@ project:
     browser: true
 
 website:
-  title: "Hapax Learning Analytics"
+  title: "Hapax Learning Analytics 1538"
   image: images/_site/logo-hapax-v3.png
   favicon: images/_site/logo-hapax-v3.png
   site-url: https://hapax-la.netlify.app/
