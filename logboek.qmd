@@ -25,7 +25,7 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 
 ![](images/paste-21AF87F4.png){fig-align="center" width="600"}
 
--   **Website**: Integratie met Netlify en zoekmachine [Algolia](https://www.algolia.com/)...
+-   **Website**: Integratie met Netlify en zoekmachine [Algolia](https://www.algolia.com/). Domeinnaam hapax-anlaytics.nl gekocht.
 
 #### Vrijdag \| 20-01-2023
 
