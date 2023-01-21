@@ -25,4 +25,3 @@ citation:
 Met de opkomst van AI zoals in [ChatGPT](https://chat.openai.com/) komt de vraag op wat dit betekent voor het hoger onderwijs. De Nederlandse AI Coalitie heeft een introductie-cursus ontwikkeld over AI in het onderwijs, die zich richt op het primair en voortgezet onderwijs. In dit onderzoeksproject wil ik me richten op AI in het hoger onderwijs. In welke mate wordt het al toegepast? Wat zijn de trends? Wat kansen en bedreigingen? Hoe kunnen we AI for good verder ontwikkelen?
 
 ![](images/paste-B05F792E.png){fig-align="center"}
-

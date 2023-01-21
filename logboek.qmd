@@ -8,10 +8,33 @@ format:
 ---
 
 ::: {style="color: gray"}
-Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix van hoger onderwijs, studiesucces, data science en coderen in R.
+Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix van hoger onderwijs, neurodiversiteit, inclusie, studiesucces, data science en coderen in R.
 :::
 
 ### Januari 2023
+
+#### Zaterdag \| 21-01-2023
+
+-   **Learning Technology**: [The Most Persistent Myth](https://www.youtube.com/watch?v=GEmuEWjHr5c) **- "**The job of the teacher is to guide the social process of learning." - een video n.a.v. het blog van Nynke Kruiderink over de invloed van technologie op onderwijs.
+-   **Learning Design**: Naar aanleiding van een presentatie van Bart Rienties: verbeter het lesontwerp van een cursus ondersteund door data - mogelijk met behulp van [Balanced Design Planning](https://learning-design.eu/en/index). Mogelijke literatuur:
+
+![](images/paste-65C2A512.png){fig-align="center" width="600"}
+
+-   **Synthetic data**: Met [uncovr](https://www.foyi.co.nz/)/[conjurer](https://cran.r-project.org/web/packages/conjurer/vignettes/industry_example.html) is het mogelijk om vanuit een model de achterliggende data te genereren (van bedrijf FOYI). Zie [How to generate data from a model -- Part 1](https://r-posts.com/how-to-generate-data-from-a-model-part-1/) en [Part 2](https://r-posts.com/how-to-generate-data-from-a-model-part-2/).
+-   **Sport**: Fascinerend filmpje ([How Hidden Technology Transformed Bowling](https://www.youtube.com/watch?v=aFPJf-wKTd0)) over de interactie tussen een bowlingbal (materiaal en zwaartepunt), de baan (de mate van olie op de baan) en de pins (de hoek waarin de pins geraakt worden). Je zou dit kunnen zien als een manier om over studenten na te denken hoe zij door hun studie gaan; dit verschilt per student afhankelijk van de persoonlijke eigenschappen, de conditie en interactie met de baan, de pins (wat is het doel) en de bowler (de docent).
+
+![](images/paste-21AF87F4.png){fig-align="center" width="600"}
+
+#### Vrijdag \| 20-01-2023
+
+-   **Visualisaties**: Demo van de OU voor een process mining dashboard met Qliksense en add-on [Vizlib](https://home.vizlib.com/vizlib-library-for-qlik-sense/).
+-   **HHs**: Gewerkt aan onze nieuwe Gedragscode Privacy & Ethiek Studiedata.
+-   **VU**: Voorbereidingen voor onderzoek naar studenten met ADD/ADHD.
+
+#### Donderdag \| 19-01-2023
+
+-   **SURF SIG Learning Analytics**: Bijeenkomst bijgewoond en deelgenomen aan de Studiedata Informatiehub werksessie in het kader van de [digitaliseringsimpuls](https://digitaliseringsimpuls.nl/).
+-   **Fairness**: Begonnen aan Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). A Survey on Bias and Fairness in Machine Learning. *ACM Computing Surveys*, *54*(6), 1--35. doi: 10.1145/3457607
 
 #### Woensdag \| 18-01-2023
 
