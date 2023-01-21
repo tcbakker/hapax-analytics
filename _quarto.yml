@@ -14,9 +14,9 @@ website:
   site-url: https://hapax-analytics.nl/
   search:
     algolia:
-      index-name: "netlify_0c9e5e1b-80f3-4e63-9067-9e5d56fdc7c1_main_all"
-      application-id: VST6K5ZVS2
-      search-only-api-key: b3ee25c09137dfab42531877f950403b
+      index-name: "prod_HAPAX"
+      application-id: N8SA7BJ9QB
+      search-only-api-key: afb7d64f07000cfd1371bcae30733bb9
       analytics-events: true
       show-logo: true
   open-graph:
