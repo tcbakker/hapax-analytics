@@ -15,8 +15,8 @@ website:
   search:
     algolia:
       index-name: "prod_HAPAX"
-      application-id: N8SA7BJ9QB
-      search-only-api-key: afb7d64f07000cfd1371bcae30733bb9
+      application-id: 2S4FDCPAPR
+      search-only-api-key: 8d5f1276e334be27323ffd8e570fcb40
       analytics-events: true
       show-logo: true
   open-graph:

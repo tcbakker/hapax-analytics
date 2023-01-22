@@ -1,7 +1,4 @@
 [[plugins]]
-        package = "@netlify/plugin-sitemap"
-          [plugins.inputs]
-          buildDir = "."
-        #package = "@algolia/netlify-plugin-crawler"
-        #  [plugins.inputs]
-        #  customDomain = "hapax-analytics.nl"
+package = "@algolia/netlify-plugin-crawler"
+  [plugins.inputs]
+  branches = ['main']
