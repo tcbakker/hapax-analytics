@@ -15,9 +15,9 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 
 #### Donderdag \| 26-01-2023
 
--   **Learning Design**:
+-   **Learning Design**: Divjak, B., Grabar, D., Svetec, B., & Vondra, P. (2022). Balanced Learning Design Planning: Concept and Tool. *Journal of Information and Organizational Sciences*, *46*(2), 361--375. [https://doi.org/10.31341/jios.46.2.6](https://doi.org/10.31341/jios.46.2.6https://doi.org/10.31341/jios.46.2.6). Uitwerking van concepten achter tooling om LD te combineren met LA. Zie ook [https://learning-design.eu/en/index](https://learning-design.eu/en/indexhttps://learning-design.eu/en/index).
 
-    -   Divjak, B., Grabar, D., Svetec, B., & Vondra, P. (2022). Balanced Learning Design Planning: Concept and Tool. *Journal of Information and Organizational Sciences*, *46*(2), 361--375. [https://doi.org/10.31341/jios.46.2.6](https://doi.org/10.31341/jios.46.2.6https://doi.org/10.31341/jios.46.2.6). Uitwerking van concepten achter tooling om LD te combineren met LA. Zie ook [https://learning-design.eu/en/index](https://learning-design.eu/en/indexhttps://learning-design.eu/en/index).
+-   **Multiple testing**: Gebruik het [wildwrwolf](https://s3alfisc.github.io/blog/post/2023-01-25-fast-romano-wolf-multiple-testing-corrections-for-fixest/) package om te corrigeren voor multiple testing op basis van Romano-Wolf. Andere mogelijk methoden: Westfall & Young met het [wildwyoung](https://github.com/s3alfisc/wildwyoung) package. Beide van Alexander Fischer.
 
 #### Woensdag \| 25-01-2023
 
