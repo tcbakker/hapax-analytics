@@ -13,13 +13,39 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 
 ### Januari 2023
 
+#### Woensdag \| 25-01-2023
+
+-   **Fairness**:
+    -   [Overzicht van een aantal Fairness frameworks](https://www.linkedin.com/pulse/overview-some-available-fairness-frameworks-packages-murat-durmus/).
+    -   Eerste hoofdstuk van [FairLearn](https://fairlearn.org/) User Guide doorgenomen: [Fairness in Machine Learning](https://fairlearn.org/v0.8/user_guide/fairness_in_machine_learning.html).
+        -   Geeft een aantal 'harms' die kunnen optreden: allocation harm (het verschillend toewijzen van resources / voordelen) en quality-of-service harm (de kwaliteit van dienstverlening verschilt), stereotyping harms (zoekresultaten die stereotype voorbeelden geven) en erasure harms (groepen worden uitgesloten van resultaten omdat er geen data over is). De 1e twee zijn het best te meten.
+
+#### Dinsdag \| 24-01-2023
+
+-   **Causality**: Webinar gevolgd van de KNAW over causaliteit: [Causaliteit in economie, informatica, logica en taalkunde](https://www.knaw.nl/bijeenkomsten/causaliteit-economie-informatica-logica-en-taalkunde).
+    -   *Stanford - Guido Imbeans*
+
+    -   <div>
+
+        ![](images/paste-5102E647.png)
+
+        </div>
+
+    -   Randomized Controlled Trials (efficacy of honey to improve sleep quality); voor complexe projecten is dit niet mogelijk (de treatment kan toch indirect de control groep beïnvloeden - *spillover*). Does not work for observational studies.
+
+    -   *UvA - Sara Maglicacane*
+
+    -   ![](images/paste-41AF478E.png)
+-   **Learning Analytics**: Basisartikel over de lay of the land voor Learning Analytics.
+-   **Implementatie**: Kennisgemaakt met Arun Rampersad die een heel interessant model heeft gemaakt over de ontwikkeling en implementatie van data oplossingen: zie "[Zicht op](“Zicht%20op%20Algoritmen”)[Algoritmen](https://www.datadirigent.academy/courses/zicht-op-algoritmen)".
+
+![](images/paste-D7D479B4.png){fig-align="center" width="600"}
+
 #### Zondag \| 22-01-2023
 
 -   **Fairness**:
     -   Verder gewerkt aan artikel van Mehrabi. Collectie aangelegd van artikelen over fairness.
-
-    -   Zou, J., & Schiebinger, L. (2018). AI can be sexist and racist --- it\'s time to make it fair. *Nature*, *559*(7714), 324--326. doi: 10.1038/d41586-018-05707-8. Gelezen. Een aantal mooie praktijkvoorbeelden van biases (foto van de Indische bruid) en mogelijkheden om die tegen te gaan.
-
+    -   Zou, J., & Schiebinger, L. (2018). AI can be sexist and racist --- it's time to make it fair. *Nature*, *559*(7714), 324--326. doi: 10.1038/d41586-018-05707-8. Gelezen. Een aantal mooie praktijkvoorbeelden van biases (foto van de Indische bruid) en mogelijkheden om die tegen te gaan.
     -   Verma, S., & Rubin, J. (2018). Fairness Definitions Explained. *2018 IEEE/ACM International Workshop on Software Fairness (FairWare)*, 1--7. doi: 10.23919/fairware.2018.8452913. Aan begonnen. Uitwerking van het begrip fairness naar verschillende statistisch modellen aan de hand van de German Credit Database.
 
 #### Zaterdag \| 21-01-2023

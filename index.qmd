@@ -28,8 +28,8 @@ Dit is de persoonlijke website van [Theo Bakker](/over.html), lector Learning Te
 :::
 :::
 
-De naam Hapax Learning Analytics komt van het Griekse 'hapax legomenon' (ἅπαξ λεγόμενον): "één keer uitgesproken"[^1]. Een uitdrukking die aangeeft dat een woord in oude geschriften zoals de Bijbel slechts één keer voorkomt - een unieke situatie en interessant verschijnsel. Juist het gegeven dat het uniek is, kan extra betekenis geven.
+De naam die ik heb gekozen voor deze site -- Hapax Analytics -- komt van het Griekse 'hapax legomenon' (ἅπαξ λεγόμενον): "één keer uitgesproken"[^1]. Een uitdrukking die aangeeft dat een woord in oude geschriften zoals de Bijbel slechts één keer voorkomt - een unieke situatie en interessant verschijnsel. Juist het gegeven dat het uniek is, kan extra betekenis geven.
 
 [^1]: https://en.wikipedia.org/wiki/Hapax_legomenon
 
-In Machine Learning worden dit soort woorden en situaties buiten beschouwing gelaten, terwijl ik deze juist interessant vind. Bij het onderzoeken van data moeten we ons volgens mij altijd afvragen wat uniek is en de moeite waard naar boven te tillen.
+In Machine Learning worden dit soort woorden en situaties als outliers buiten beschouwing gelaten, terwijl ik deze juist interessant vind. Bij het onderzoeken van data moeten we ons volgens mij altijd afvragen wat uniek is en met behulp van analytics technieken de moeite waard naar boven te tillen.

@@ -8,15 +8,15 @@ project:
     browser: true
 
 website:
-  title: "Hapax Learning Analytics"
+  title: "Hapax Analytics"
   image: images/_site/logo-hapax-v3.png
   favicon: images/_site/logo-hapax-v3.png
   site-url: https://hapax-analytics.nl/
   search:
     algolia:
       index-name: "prod_HAPAX"
-      application-id: 2S4FDCPAPR
-      search-only-api-key: 8d5f1276e334be27323ffd8e570fcb40
+      application-id: EIZMHIKZAP
+      search-only-api-key: bf138bbf5ec11025f0114f0358fa5822
       analytics-events: true
       show-logo: true
   open-graph:
