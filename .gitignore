@@ -1,7 +1,17 @@
 .Rproj.user
 .Rhistory
+.Rhistoryt
 .RData
 .Ruserdata
+.DS_Store
+
+ssh-add
+ssh-add.pub
 
 /.quarto/
 /_site/
+/_*.local
+/.venv/
+/.condaenv/
+*_cache/
+/env/

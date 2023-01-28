@@ -42,13 +42,13 @@ website:
         href: index.qmd
       # - href: posts.qmd
       #  text: Blog
-      - href: onderzoek.qmd
+      - href: docs/onderzoek/onderzoek.qmd
         text: Onderzoek
-      - href: projecten.qmd
+      - href: docs/projecten/projecten.qmd
         text: Projecten
-      - href: logboek.qmd
+      - href: docs/logboek/logboek.qmd
         text: Logboek
-      - href: over.qmd
+      - href: docs/over/over.qmd
         text: Over
     right:
       - text: "{{< fa brands linkedin >}}"
@@ -76,7 +76,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: css/styles.css
     toc: true
 
 editor: visual

@@ -1,0 +1,27 @@
+---
+title: "AI in het hoger onderwijs"
+lang: nl
+language: ../../custom-language.yml
+categories: [AI, Hoger onderwijs]
+fields: [date, reading-time]
+format:
+    html:
+        toc: true
+        toc-depth: 4
+bibliography: ../../citations/references.bib
+csl: ../../citations/apa.csl
+
+description: "AI in het hoger onderwijs: trends, bottlenecks, mogelijke toepassingen"
+date: 1/8/2023
+author:
+  - name: Theo Bakker 
+    url: https://hapax-analytics.com/over
+    affiliation: De Haagse Hogeschool
+    affiliation-url: https://hhs.nl
+citation:
+  url: https://example.com/summarizing-output
+---
+
+Met de opkomst van AI zoals in [ChatGPT](https://chat.openai.com/) komt de vraag op wat dit betekent voor het hoger onderwijs. De Nederlandse AI Coalitie heeft een introductie-cursus ontwikkeld over AI in het onderwijs, die zich richt op het primair en voortgezet onderwijs. In dit onderzoeksproject wil ik me richten op AI in het hoger onderwijs. In welke mate wordt het al toegepast? Wat zijn de trends? Wat kansen en bedreigingen? Hoe kunnen we AI for good verder ontwikkelen?
+
+![](images/paste-B05F792E.png){fig-align="center"}

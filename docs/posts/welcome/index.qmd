@@ -1,0 +1,13 @@
+---
+title: "Welkom op mijn blog"
+lang: nl
+author: "Theo Bakker"
+date: "2023-01-03"
+categories: [nieuws]
+---
+
+Dit is de eerste post op mijn blog. Welkom!
+
+![](thumbnail.jpg)
+
+Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.

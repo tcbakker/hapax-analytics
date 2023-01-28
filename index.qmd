@@ -1,7 +1,6 @@
 ---
 title: "Home"
 lang: nl
-# reference-location: margin
 format:
     html:
         toc: false

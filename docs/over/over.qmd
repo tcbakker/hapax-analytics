@@ -1,0 +1,194 @@
+---
+title: "Over Theo Bakker"
+lang: nl
+format:
+    html:
+        toc: true
+        toc-depth: 4
+---
+
+Mijn naam is Theo Bakker. Ik ben lector Learning Technology & Analytics bij [De Haagse Hogeschool](https://www.dehaagsehogeschool.nl/) en universitair docent bij de [Vrije Universiteit Amsterdam](https://vu.nl/nl). Ik ben 52 jaar oud en ben getrouwd; ik heb twee kinderen en woon in Amsterdam.
+
+![](images/Theo_Bakker_HHs_klein.jpg){.use-border .preview-image fig-alt="Theo Bakker" fig-align="center"}
+
+## Contact
+
+Dr. Theo C. Bakker [\|]{.pipe} [t.c.bakker\@hhs.nl](mailto:t.c.bakker@hhs.nl) [\|]{.pipe} [t.c.bakker\@vu.nl](mailto:t.c.bakker@vu.nl) [\|]{.pipe} +31 (0)6-2563 7172 [\|]{.pipe} Windroosplein 138, 1018 ZW Amsterdam, Nederland.
+
+{{< fa brands linkedin >}} [linkedin.com/in/theobakker](https://www.linkedin.com/in/theobakker/) [\|]{.pipe} {{< fa brands twitter >}} [@tcbakker](https://twitter.com/tcbakker) [\|]{.pipe} {{< fa brands mastodon >}} [@tcbakker](https://fosstodon.org/@tcbakker) [\|]{.pipe} {{< ai orcid >}} [0000-0002-0735-9636](https://orcid.org/0000-0002-0735-9636) [\|]{.pipe} {{< ai google-scholar >}} [Google Scholar](https://scholar.google.nl/citations?user=uIPLxPMAAAAJ&hl=nl&oi=sra) [\|]{.pipe} {{< ai researchgate >}} [researchgate.net/profile/Theo-Bakker-4](https://www.researchgate.net/profile/Theo-Bakker-4) [\|]{.pipe} {{< fa brands github >}} [github.com/tcbakker](https://github.com/tcbakker)
+
+## Profiel
+
+Analytisch en hands-on onderzoeker, spreker en manager met een passie voor hoger onderwijs, onderzoek naar studiedata, organisatie van onderwijs, studiesucces en gelijke kansen. Rijke ervaring in trajecten voor verbetering van studiesucces, onderwijsorganisaties, *student journeys* en bekostiging. Gespecialiseerd in evidence based onderwijsbeleid en data science, informatiestrategie en ICT, en *sense making*. Wetenschappelijke specialisatie in analyses van administratieve studiedata en het studieverloop en studiesucces van studenten met autisme in het bijzonder.
+
+Circa 240 lezingen over Student Analytics in de afgelopen 10 jaar; 6 publicaties, een proefschrift (8 juni 2022) en 16 presentaties/interviews over het studieverloop en studiesucces van autistische studenten in het hoger onderwijs in de afgelopen 5 jaar; 1 publicatie over effecten van COVID-19 op de motivatie van studenten.
+
+**Levensmotto**: *"Daar waar je passie en de behoeften van de wereld elkaar ontmoeten, daar ligt je roeping" -- toegeschreven aan Aristoteles*
+
+## Onderwijs
+
+### Opleidingen
+
+***2022** PhD in Klinische Ontwikkelingspsychologie, Faculteit der Gedrags- en Bewegingswetenschappen, Vrije Universiteit Amsterdam, gepromoveerd 8 juni 2022*
+
+-   Proefschrift: "[Study Progression and Success of Autistic Students in Higher Education, A Longitudinal, Propensity Score-Weighted Population Study](https://research.vu.nl/en/publications/study-progression-and-success-of-autistic-students-in-higher-educ)"
+-   Promotoren: Prof. Dr. S. Begeer, Prof. Dr. S. Bhulai; copromotoren: Prof. Dr. M. Meeter, Prof. Dr. L. Krabbendam
+
+***2016** MMC in Executive Master Management Consulting, Vrije Universiteit Amsterdam*
+
+***2010** MSc in Informatiekunde, Faculteit der Natuurkunde, Wiskunde & Informatica, Universiteit van Amsterdam*
+
+-   Cum Laude afgestudeerd
+-   Scriptie: "Zingeving aan gebruik van informatiesystemen door medewerkers in organisaties"
+-   Begeleiders: Drs. T. Abcouwer, Drs. J. Truijens
+
+***1994** MA in Theologie, Faculteit der Godgeleerdheid, Universiteit Utrecht*
+
+-   Specialisme: Judaïca en Didactiek; Erasmus uitwisseling Leo Baeck College Londen
+-   Scriptie: "Pirke de Rabbi Eliëzer - Perek 25. Een literaire analyse of Een rechtvaardiging van Loth in Sodom"
+-   Begeleider: Prof. Dr. P.W. van Boxel
+
+***1988** Ongedeeld VWO met Latijn en Grieks, Streeklyceum Ede*
+
+-   Latijn, Grieks, Nederlands, Engels, Duits, Frans, Geschiedenis
+
+### Cursussen & Trainingen
+
+***2013 -- heden** Coursera & Datacamp & In company trainingen*
+
+-   MOOCs en trainingen over Big Data, Data Science en Machine Learning
+
+***2019** Leiderschap VU*
+
+-   In company training voor leidinggevenden
+
+***2009** Professional Managerial Development program UvA*
+
+-   Intern managementprogramma Universiteit van Amsterdam
+
+***2003** PRINCE2*
+
+-   In company training PRINCE2 Foundation
+
+## Werkervaring
+
+### Huidige betrekkingen
+
+**Lector Learning Technology & Analytics\
+***2023 - heden, De Haagse Hogeschool*
+
+-   Onderzoek naar het succes van studenten op 3 niveaus: in het onderwijs (*learning analytics*), in hun gehele studieverloop binnen De Haagse Hogeschool (*student analytics*), in de regio Haaglanden (*institutional analytics*) met speciale aandacht voor de mate van inclusiviteit (*inclusion analytics*).
+
+**Universitair Docent\
+***2023 - heden, Vakgroep Klinische Ontwikkelingspsychologie, Faculteit der Gedrags- en Bewegingswetenschappen, Vrije Universiteit Amsterdam*
+
+-   Onderzoek naar het studieverloop en het studiesucces van neurodiverse studenten (autisme en ADD/ADHD) in vergelijking tot studenten met andere functiebeperkingen of geen functiebeperkingen.
+
+### Voormalige betrekkingen
+
+**Directeur van de dienst Onderwijs, Kennis & Communicatie\
+***2021 -- 2022, De Haagse Hogeschool*
+
+-   Als directeur van Onderwijs, Kennis & Communicatie (ca 225 fte) richtte ik mij op de ontwikkeling van de slagkracht, wendbaarheid en innovatie van de dienstverlening voor studenten, docenten, onderzoekers en medewerkers. Ik was eindverantwoordelijk voor de algehele dienstverlening van de dienst en de kwaliteit daarvan.
+
+**Buitenpromovendus\
+***2017 -- 2022, Vakgroep Klinische Ontwikkelingspsychologie, Faculteit der Gedrags- en Bewegingswetenschappen, Vrije Universiteit Amsterdam - Gepromoveerd 8 juni 2022.*
+
+-   Promotieonderzoek naar het studieverloop en het studiesucces van studenten met autisme in vergelijking tot studenten met andere functiebeperkingen of geen functiebeperkingen. Naast mijn fulltime baan heb ik in 4,5 jaar tijd dit promotieonderzoek uitgevoerd.
+
+**Zelfstandig ondernemer (Higher Edge Consultancy)\
+***2015 -- 2021*
+
+-   Opdrachten in het (hoger) onderwijs voor het opzetten van data science capabilities en data science teams (ROC Nijmegen, Onderwijsinspectie) en projectmanagement en ICT-advies (verbetering cursusadministratie van 7 Centra voor Kunst & Cultuur).
+
+**Strategisch beleidsadviseur studiesucces, teamleider VU Analytics\
+***2015 -- 2021, Vrije Universiteit Amsterdam*
+
+-   Strategische projecten: Ontwikkeling Student Analytics en team VU Analytics, visie op studentbegeleiding VU, instroom- en wervingsbeleid (bachelor, premaster en master), internationale opleidingen, aansluitingsbeleid, Code of Practice Privacy & Ethiek conform de AVG, bekostiging VU (met als resultaat wijziging bekostiging voor tweede kans studenten), valorisatie Student Analytics, prognoses op instroom en beleidseffecten van Corona op het hoger onderwijs.
+-   Studiesuccestrajecten: Pilots met Learning Analytics en studentbegeleiding, curriculum-analyses, onderzoek naar BSA, studie-uitval en -vertraging, ontwikkeling van het Beste Bachelorspel (bordspel ter verbetering van onderwijsbeleidsvorming), Plan for Succes (Comenius Senior Fellow voor interventies op vertraging van tweedejaarsstudenten).
+-   Lezingen: Circa 190 presentaties binnen en buiten de VU over Student Analytics.
+
+**Aanvoerder Zone Studiedata, Versnellingsagenda OCW/VSNU/VH/SURF\
+***2018 -- 2021, detachering vanuit Vrije Universiteit Amsterdam*
+
+-   Trekker van de zone studiedata voor het versnellen van het veilig en betrouwbaar benutten van studiedata in het hoger onderwijs. Stimuleren van data science teams in 10 onderwijs-instellingen en optimale, landelijke randvoorwaarden voor data science (referentiekader privacy en ethiek studiedata, statistisch handboek onderwijsdata, Nationaal Cohortonderzoek hoger onderwijs, kennissite [www.doe-meer-met-studiedata.nl](https://doe-meer-met-studiedata.nl/), simulatiedataset voor wetenschappelijk onderzoek).
+
+**Senior-Manager Onderwijs (eminence profiel)\
+***2012 -- 2015, Deloitte Consulting*
+
+-   Accountmanagement: acquisitie opdrachten in het hoger onderwijs
+-   Strategische projecten: informatiestrategie, procesketens, managementinformatie, projectinrichting/programmamanagement (TU/e); benchmark volwassenheid van onderwijslogistiek (SURF)
+-   Studiesuccestrajecten: analyses met Student Analytics (o.a. VU, UvA, Hogeschool Leeuwarden), processen (VU, HvA)
+-   Lezingen: ruim 50 lezingen bij conferenties (SURF, DAIR, DEUG, EEHEB) en studiedagen van onderwijsinstellingen
+
+**Informatiemanager Onderwijs**\
+*2009 -- 2012, Universiteit van Amsterdam*
+
+-   Projectleider implementatie nieuw Student Informatie Systeem voor 250 medewerkers en 35.000 studenten (PRINCE2 projectvoering, aansturing 25 projectmedewerkers, implementatie bij 7 faculteiten, verandermanagement) -- budget €5,2 miljoen.
+-   Auteur informatiestrategie 2011-2014; beleidsadvies aan College van Bestuur.
+-   Deelname aan UvA-brede commissie studiesucces, boven nominaal studeren, intakeprocedures en studentenportal, adviesgroep inschrijvingen.
+
+**Stafmedewerker ICT & Onderwijs**\
+*2004 -- 2009, Universiteit van Amsterdam (Faculteit der Geesteswetenschappen)*
+
+-   Lokaal projectleider implementatie nieuw Student Informatie Systeem (analyse werkprocessen, kennismanagement, projectplanning) en beleidsadviezen DB.
+-   Ontwikkeling strategymap bedrijfsvoering voor instellingsplan UvA 2011-2014 ('Oog voor talent') en beleidsontwikkeling bezuinigingen Shared Service Centers UvA.
+-   Systeemintegratie geautomatiseerde cursusadministratie & cijferregistratie, inschrijving van (buitenlandse) masterstudenten en online intake voor propedeusestudenten.
+
+**Accountmanager Internet & Database publishing\
+***2002 -- 2004, Joh. Enschedé Amsterdam (JEA)*
+
+-   Commerciële acquisitie opdrachten in database publishing naar internet en drukwerk.
+-   Advies aan klanten en prospects, offertes en functionele ontwerpen.
+
+**Internet Project Engineer & zelfstandig ondernemer\
+***1998 -- 2002*
+
+-   2001-2002 - Algemeen directeur van internetbedrijf NetConsorts (15 medewerkers); projectvoering voor Universiteit Utrecht, hbo-raad, Gemeente Amsterdam en AVRO; aansturing 10 programmeurs.
+-   2000 - Freelance webmaster Universiteit Utrecht corporate website en trainer.
+-   1998-1999 - Webmaster Faculteit Theologie, Universiteit Utrecht; projectmedewerker implementatie OSIRIS (Student Informatiesysteem UU).
+
+**Docent Levensbeschouwing**\
+*1995 -- 1998, Comenius College, Hilversum*
+
+**Onderzoeker**\
+*1994 -- 1995, Universiteit Utrecht (Faculteit Theologie)*
+
+-   Onderzoek naar het gebruik van multimedia door docenten levensbeschouwing.
+
+### Onbezoldigde nevenwerkzaamheden
+
+-   2020 -- 2021 -- Lid Expertgroep Autisme & Onderwijs, Nederlandse Vereniging voor Autisme
+-   2018 -- 2020 -- Lid Gemeenschappelijke Medezeggenschapsraad Stichting Openbaar Primair Onderwijs "Samen Tussen Amstel en IJ (STAIJ)"
+-   2015 -- 2018 -- Lid Medezeggenschapsraad 8e Montessorischool Zeeburg, Amsterdam
+-   2014 -- 2017 -- Bestuurslid Stichting Meer dan Gewenst, stichting voor roze wensouders
+
+## Publicaties
+
+### Wetenschappelijke publicaties (peer reviewed)
+
+-   **Bakker, T.**, Krabbendam, L., Bhulai, S., Meeter, M., & Begeer, S. (2023). Predicting Academic Success of Autistic Students in Higher Education. *Autism, online first,* <https://doi.org/10.1177/13623613221146439>*.*
+-   **Bakker, T. C.** (2022). Study Progression and Success of Autistic Students, A Longitudinal, Propensity Score-Weighted Population Study. PhD Thesis, <https://doi.org/10.5463/thesis.1>.
+-   Meeter, M., Bele, T., Den Hartogh, C., **Bakker, T.**, De Vries, R., Plak, S. (2021). College students' motivation and study results after COVID-19 stay-at-home orders. [Pre-print](https://psyarxiv.com/kn6v9/download?format=pdf).
+-   **Bakker, T.**, Krabbendam, L., Bhulai, S., Meeter, M., & Begeer, S. (2022). Study Progression and Degree Completion of Autistic Students in Higher Education: A Longitudinal Study. *Higher Education, March 2022*, <https://doi.org/10.1007/s10734-021-00809-1>.
+-   **Bakker, T. C.**, Krabbendam, L., Bhulai, S., & Begeer, S. (2020). First-Year Progression and Retention of Autistic Students in Higher Education: A Propensity Score-Weighted Population Study. *Autism in Adulthood, June 2020*, <http://doi.org/10.1089/aut.2019.0053>.
+-   **Bakker, T.**, Krabbendam, L., Bhulai, S., & Begeer, S. (2019). Background and enrollment characteristics of students with autism in higher education. *Research in autism spectrum disorders*, *67*, 101424, [https://doi.org/10.1016/j.rasd.2019.101424](https://doi.org/10.1016/j.rasd.2019.101424https://doi.org/10.1016/j.rasd.2019.101424).
+
+### Wetenschappelijke presentaties & interviews
+
+-   **Bakker, T.**, Krabbendam, L., Bhulai, S., Meeter, M., & Begeer, S.: Poster presentatie: Predicting Student Success of Autistic Students in Higher Education. International Meeting for Autism Research (INSAR): Austin, Texas, USA (11-14 mei 2022)
+-   **Bakker, T.**: Mondelinge presentatie: Het studieverloop en studiesucces van autistische studenten in het hoger onderwijs: VU, Amsterdam (9 april 2022)
+-   **Bakker, T.**, Krabbendam, L., Bhulai, S., Meeter, M., & Begeer, S.: Poster presentatie: Het voorspellen van studiesucces van autistische studenten in het hoger onderwijs. 21e Nationaal Autisme Congres: online (18 maart 2022)
+-   **Bakker, T.** (2021): Mondelinge presentatie: Students with Autism in Higher Education. Ph.D. Netwerk De Haagse Hogeschool: online (11 november 2021)
+-   **Bakker, T.** (2021): Mondelinge presentatie: Students with Autism in Higher Education. Expertisecentrum Inclusief Onderwijs (ECIO): online (7 oktober 2021)
+-   **Bakker, T.** (2021): Mondelinge presentatie: First-Year Progression and Retention of Autistic Students in Higher Education. Nederlands Autisme Register (NAR): online (10 februari 2021)
+-   **Bakker, T.** (2020): Mondelinge presentatie: Students' Transitions into and Retention through College of Students with Autism. College Autism Network Virtual Association of Scholars (CANVAS): online (29 oktober 2020)
+-   **Bakker, T.** (2020): Mondelinge presentatie: First-Year Progression and Retention of Autistic Students in Higher Education. Dutch Society for Developmental Psychology - Utrecht Centre for Child and Adolescent Studies (VNOP-CAS) Research Days 2020: online (20 oktober 2020)
+-   **Bakker, T.** (2020): Mondelinge presentatie: Studenten met autism in hoger onderwijs. Network Student Psychologen & Decanen Vrije Universiteit Amsterdam: Amsterdam (14 januari 2020)
+-   **Bakker, T.** (2019): Interview: De universiteit is bij uitstek de plek om te floreren. *Autisme Magazine*, 2019 (03), 31-32. Nederlandse Vereniging voor Autisme (NVA)
+-   **Bakker, T.** (2019). Mondelinge presentatie: Propensity Score Weighting: Toepassing in promotieonderzoek T. Bakker 'Studenten met autism in hoger onderwijs'. Seminar van de Dutch Association for Institutional Research (DAIR): Doorn (7 november 2019)
+-   **Bakker, T.** (2019): Mondelinge presentatie: Enrollment Characteristics of Students with Autism Spectrum Disorder in Higher Education. College Autism Network Virtual Association of Scholars (CANVAS): online (22 januari 2019)
+-   **Bakker, T.** (2019): Mondelinge presentatie: Enrollment Characteristics of Students with Autism Spectrum Disorder in Higher Education. Network Student Psychologen & Decanen Vrije Universiteit Amsterdam: Amsterdam (8 januari 2019)
+-   **Bakker, T.**, Krabbendam, L., Bhulai, S., Begeer, S. (2018): Poster presentatie: Transition of Students with Autism Spectrum Disorder to Higher Education. International Meeting for Autism Research (INSAR): Rotterdam (10 mei 2018)
+-   **Bakker, T.** (2018). Mondelinge presentatie: Transition Characteristics of Students with Autism Spectrum Disorder from Secondary Education to Higher Education. International Conference 'Higher education for students with disabilities: ensuring compliance with the UN Convention': Utrecht (20 november 2018)
+-   **Bakker, T.** (2018). Mondelinge presentatie: Enrollment Characteristics of Students with Autism Spectrum Disorder from Secondary Education to Higher Education. Higher education for students with disabilities: ensuring compliance with the UN Convention. Autism lectures: Amsterdam (12 november 2018)

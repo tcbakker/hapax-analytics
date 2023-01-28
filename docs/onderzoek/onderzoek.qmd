@@ -1,0 +1,41 @@
+---
+title: "Onderzoek"
+lang: nl
+format:
+    html:
+        toc: true
+        toc-depth: 4
+---
+
+## De Haagse Hogeschool
+
+### Hoe maakt het lectoraat Learning Technology & Analytics impact?
+
+-   De **beoogde impact** van het lectoraat is het bevorderen van gelijke kansen voor studenten in het hoger onderwijs om zichzelf te kunnen ontwikkelen tot wat de maatschappij van hen vraagt.
+-   Er zijn vier **onderzoekslijnen**: 1) learning, 2) student en 3) institutional analytics + 4) onderzoek studieverloop en -succes van studenten met een ondersteuningsbehoefte.
+-   Het lectoraat maakt **impact** door zich binnen elke onderzoekslijn te richten op a) selectie van relevante studiedata, b) methoden van analyse, c) praktijktoepassing van oplossingen, mate van adoptie en effectmeting, en d) communicatie en disseminatie.
+-   **Ik draag bij aan de doelen** van het kenniscentrum [Global & Inclusive Learning](https://www.dehaagsehogeschool.nl/onderzoek/kenniscentra/details/kenniscentrum-global-and-inclusive-learning) door mijn collega's te vinden op onderliggende waarden, wederzijdse nieuwsgierigheid en complementariteit in ons onderzoek.
+
+{{< fa solid download >}} Download de [Basispresentatie Learning Technology & Analytics](../../downloads/LTA_HHs_20211210_v3.1.pdf).
+
+### Vier onderzoekslijnen
+
+Om zicht te krijgen op de ontwikkeling van studenten in hun onderwijs onderzoeken we studiedata in drie onderzoekslijnen (*learning, student en institutional analytics*) en een integrale lijn voortzetten op onderzoek naar studenten met een ondersteuningsbehoefte (*inclusion analytics*).
+
+![](images/lta-onderzoekslijnen.png){fig-align="center" width="600"}
+
+### Methodische impact
+
+Binnen elke onderzoekslijn richten we ons op A) selectie van relevante studiedata, B) methoden van analyse, C) praktijktoepassing van oplossingen, mate van adoptie en effectmeting en D) communicatie en disseminatie.
+
+Met name de selectie van relevante studiedata en de adoptie en effectmeting zijn nog beperkt ontwikkelde gebieden van onderzoek in learning analytics.
+
+![](images/ds-wiel.png){fig-align="center" width="600"}
+
+## Vrije Universiteit Amsterdam
+
+### Drie onderzoekslijnen
+
+In het onderzoek van de Vrije Universiteit breiden we het eerdere promotie-onderzoek naar het [studieverloop en studiesucces van studenten met autisme](https://research.vu.nl/en/publications/study-progression-and-success-of-autistic-students-in-higher-educ) uit binnen de vakgroep Klinische Ontwikkelingspsychologie van de Faculteit der Gedrags- en Bewegingswetenschappen.
+
+We zullen een vergelijkbaar onderzoek herhalen voor studenten met ADD/ADHD en daarnaast het succes van studenten met autisme onderzoeken na het derde studiejaar. Tot slot zal ik een bijdrage leveren aan onderzoek naar hoger onderwijs binnen het [Nederlands Autisme Register (NAR)](https://www.nederlandsautismeregister.nl/).
