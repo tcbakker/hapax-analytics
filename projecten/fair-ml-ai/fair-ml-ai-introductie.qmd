@@ -18,8 +18,6 @@ author:
     url: https://hapax-analytics.com/over
     affiliation: De Haagse Hogeschool
     affiliation-url: https://hhs.nl
-citation:
-  url: https://example.com/summarizing-output
 ---
 
 Ik ben gefascineerd door **eerlijkheid** (*fairness*) en **vooroordelen** (*bias*) in relatie tot Machine Learning en AI in het hoger onderwijs. Het begrip fairness is op meerdere manieren relevant: Is de verzameling van data wel eerlijk? Doen we voldoende recht aan de studenten van wie we studiedata onderzoeken? Wat vertelt studiedata over hoe eerlijk we als onderwijsinstellingen handelen? Zijn algoritmes wel eerlijk? Is het gebruik van voorspelmodellen door docenten, begeleiders of beleidsmedewerkers wel eerlijk?

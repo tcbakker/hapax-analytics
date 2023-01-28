@@ -13,11 +13,31 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 
 ### Januari 2023
 
+#### Vrijdag \| 27-01-2023
+
+-   **Fairness**: Opiniestuk over dataminimalisatie. Schipper, M. (n.d.). Voor- en nadelen data: Moeten we meer of minder verzamelen voor een eerlijkere samenleving? --- Lilith. Retrieved January 27, 2023, from Voor- en nadelen data: Moeten we meer of minder verzamelen voor een eerlijkere samenleving? --- Lilith website: [https://www.lilithmag.nl/blog/voor-en-nadelen-data](https://www.lilithmag.nl/blog/voor-en-nadelen-datahttps://www.lilithmag.nl/blog/voor-en-nadelen-data). Bevat een aantal interessante voorbeelden van afwegingen.
+-   **Fairness**: [Performing a Fairness Assessment](https://fairlearn.org/v0.8/user_guide/assessment/perform_fairness_assessment.html) doorgenomen (Fairlearn).
+-   **Statistiek**: Mooie [uitleg over de confusion matrix](https://developers.google.com/machine-learning/crash-course/classification/true-false-positive-negative) aan de hand van Aesops fabel over 'The boy who cried "Wolf"'
+
+![](images/paste-937745D3.png){fig-align="center" width="600"}
+
+-   **Fairness**: Mooi, handzaam boekje over data science en AI voor leken van stichting [Sense about Science](https://senseaboutscience.org/). Riley, E. (2019). *Data Science: A Guide for Society* (p. 19). London: Sense about Science. Retrieved from Sense about Science website: <https://senseaboutscience.org/wp-content/uploads/2019/06/SaS-DataScienceGuide-V8-SinglePages.pdf>
+
+![](images/paste-D807B580.png){fig-align="center" width="600"}
+
+-   **Visualisaties**: [Headliner](https://rjake.github.io/headliner/articles/intro.html) package om dynamische teksten te genereren voor ggplot.
+
+![](images/facts_vs_insights.png){fig-align="center" width="600"}
+
+-   **Machine Learning**: Gratis training van Google: [Google Machine Learning Education](https://developers.google.com/machine-learning).
+
 #### Donderdag \| 26-01-2023
 
 -   **Learning Design**: Divjak, B., Grabar, D., Svetec, B., & Vondra, P. (2022). Balanced Learning Design Planning: Concept and Tool. *Journal of Information and Organizational Sciences*, *46*(2), 361--375. [https://doi.org/10.31341/jios.46.2.6](https://doi.org/10.31341/jios.46.2.6https://doi.org/10.31341/jios.46.2.6). Uitwerking van concepten achter tooling om LD te combineren met LA. Zie ook [https://learning-design.eu/en/index](https://learning-design.eu/en/indexhttps://learning-design.eu/en/index).
 
 -   **Multiple testing**: Gebruik het [wildwrwolf](https://s3alfisc.github.io/blog/post/2023-01-25-fast-romano-wolf-multiple-testing-corrections-for-fixest/) package om te corrigeren voor multiple testing op basis van Romano-Wolf. Andere mogelijk methoden: Westfall & Young met het [wildwyoung](https://github.com/s3alfisc/wildwyoung) package. Beide van Alexander Fischer.
+
+-   **Fairness**: Discussie-avond bijgewoond over [Racisme in data en digitalisering](https://dezwijger.nl/programma/racisme-in-data-en-digitalisering) van Pakhuis de Zwijger.
 
 #### Woensdag \| 25-01-2023
 

@@ -11,7 +11,11 @@ website:
   title: "Hapax Analytics"
   image: images/_site/logo-hapax-v3.png
   favicon: images/_site/logo-hapax-v3.png
+  open-graph:
+    locale: nl_NL
+    site-name: Hapax Analytics
   site-url: https://hapax-analytics.nl/
+  page-navigation: true
   search:
     algolia:
       index-name: "prod_HAPAX"
@@ -19,18 +23,20 @@ website:
       search-only-api-key: bf138bbf5ec11025f0114f0358fa5822
       analytics-events: true
       show-logo: true
-  open-graph:
-    locale: nl_NL
-    site-name: Hapax Analytics
+  page-footer:
+    border: true
+    background: light
+    left: "Gepubliceerd. met [Quarto](https://quarto.org/) <?quarto.version?> | &copy; 2023 [Hapax Analytics](/), [Theo Bakker](/over.html) | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
   cookie-consent: false
 #    type: express
 #    style: headline
 #    palette: light
   navbar:
-    title: Hapax Learning Analytics
+    title: Hapax Analytics
     subtitle: Analytics in het hoger onderwijs
     logo: images/_site/logo-hapax-v3.png
     logo-alt: Hapax Analytics
+    collapse-below: lg
     left:
       - text: Home
         href: index.qmd
@@ -64,10 +70,8 @@ website:
         href: index_posts.xml
         aria-label: RSS Feed
     pinned: true
-  page-footer:
-    border: true
-    background: light
-    left: "Gepubliceerd. met [Quarto](https://quarto.org/) <?quarto.version?> | &copy; 2023 [Hapax Analytics](/), [Theo Bakker](/over.html) | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+  # sidebar:
+  # - id: projecten
 
 format:
   html:
