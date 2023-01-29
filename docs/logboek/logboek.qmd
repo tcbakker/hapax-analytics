@@ -13,6 +13,19 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 
 ### Januari 2023
 
+#### Zondag \| 29-01-2023
+
+-   **Coding**: [Best practice in coding](https://gilesd-j.com/2023/01/28/spaghetti-code-dieting-tips/) - gebruik van prefixes bij variabelen.
+    -   For data: *dta\_*
+    -   Temporary files: *tmp\_*
+    -   Statistical summaries: *sum\_*
+    -   Models (such as lm models): *mod\_*
+    -   Custom functions: *fn\_*
+    -   Plots and visualization: *plt\_*
+    -   Lookup and referecne tables: *lkp\_*
+    -   Results and Analysis: *rlt\_*
+    -   Consistency and accuracy checks: *chk\_*
+
 #### Zaterdag \| 28-01-2023
 
 -   **Explainable AI**: Shapley values:
