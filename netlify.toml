@@ -3,3 +3,5 @@ package = "@algolia/netlify-plugin-crawler"
   [plugins.inputs]
   branches = ["*"]
 package = "@quarto/netlify-plugin-quarto"
+  [plugins.inputs]
+  cmd = render
