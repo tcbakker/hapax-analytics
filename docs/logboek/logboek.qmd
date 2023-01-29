@@ -25,6 +25,21 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
     -   Lookup and referecne tables: *lkp\_*
     -   Results and Analysis: *rlt\_*
     -   Consistency and accuracy checks: *chk\_*
+-   **Website**: Verder gewerkt aan de Over pagina.
+-   **Slimme AI**:
+    -   [Waarom ChatGPT geen racistische viespeuk is? Dankzij een stel Kenianen, voor twee dollar per uur](https://decorrespondent.nl/14173/waarom-chatgpt-geen-racistische-viespeuk-is-dankzij-een-stel-kenianen-voor-twee-dollar-per-uur/43400133709240-425a3e3e). Over het wegwerken van negatieve sentimenten in data door microworker/ghost workers.
+    -   [Achter veel 'kunstmatige intelligentie' zit slechtbetaalde, onzichtbare en menselijke arbeid.](https://decorrespondent.nl/13822/achter-veel-kunstmatige-intelligentie-zit-slechtbetaalde-onzichtbare-en-menselijke-arbeid/42325312081360-23cab82f) Een eerder artikel over het corrigeren van beelden en geluiden + de oorsprong van de term "Mechanical Turk".
+-   **Fairness in werkgeverschap:** [Wie denkt er aan jou als je baas een algoritme is?](https://www.youtube.com/watch?v=3oppQtdt-l0) - interview met Claartje ter Hoeven, onderzoekerster bij de EUR naar microworkers / ghost workers, over platformwerkers.
+-   **Learning Design:**
+    -   Geweldige [TED-talk van Sir Ken Robinson](https://www.youtube.com/watch?v=wX78iKhInsc). Knelpunten in het onderwijsssyteem (No Child Left Behind).
+    -   Drie zaken drijven ons leren:
+        -   1\) diversity versus conformity (10% van de kinderen heeft ADD - they are 'suffering' from childhood). Kunt spreekt talenten aan, die anders niet aangeraakt worden (are left untouched).
+
+        -   2\) curiosity (engine of achievement) versus compliance - docenten staan centraal (facility learning); het verschil in de taak en de achievement (de taak = engagement, het resultaat = de achievement) - testing is in de plaats gekomen van learning (zou ondersteunend moeten zijn); it should support learning, it should not obstruct it.
+
+        -   3\) Human life is inherently creative (imagining alternatives and possibilities) versus standardisation.
+
+        -   Noodzaak: aandacht voor het individuele kind, investering in docenten, verantwoordelijk neerleggen bij de school om het gedaan te krijgen
 
 #### Zaterdag \| 28-01-2023
 
@@ -222,7 +237,7 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 \`Table: Summary of Posterior Distribution
 
 | Parameter    | Median | 95% CI         | pd   | ROPE            | \% in ROPE | Rhat  | ESS     |
-|:--------|--------:|:--------|:--------|:--------|--------:|:--------|:--------|
+|:-------------|-------:|:---------------|:-----|:----------------|-----------:|:------|:--------|
 | (Intercept)  |   4.30 | \[4.14, 4.46\] | 100% | \[-0.10, 0.10\] |         0% | 1.000 | 3521.00 |
 | Petal.Length |   0.41 | \[0.37, 0.45\] | 100% | \[-0.10, 0.10\] |         0% | 1.000 | 3384.00 |
 
