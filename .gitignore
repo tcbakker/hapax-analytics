@@ -4,6 +4,7 @@
 .RData
 .Ruserdata
 .DS_Store
+hapax-learning-analytics.Rproj
 
 ssh-add
 ssh-add.pub
