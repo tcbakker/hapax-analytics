@@ -16,13 +16,13 @@ website:
     site-name: Hapax Analytics
   site-url: https://hapax-analytics.nl/
   page-navigation: true
-  search:
-    algolia:
-      index-name: "prod_HAPAX"
-      application-id: EIZMHIKZAP
-      search-only-api-key: bf138bbf5ec11025f0114f0358fa5822
-      analytics-events: true
-      show-logo: true
+  # search:
+    # algolia:
+    #   index-name: "prod_HAPAX"
+    #   application-id: EIZMHIKZAP
+    #   search-only-api-key: bf138bbf5ec11025f0114f0358fa5822
+    #   analytics-events: true
+    #   show-logo: true
   page-footer:
     border: true
     background: light
