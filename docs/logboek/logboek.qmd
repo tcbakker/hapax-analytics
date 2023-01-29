@@ -48,7 +48,7 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
         -   ![](images/unnamed-chunk-13-1.png){width="600"}
 -   **Bias**: [The Trouble with Bias - NIPS 2017 Keynote - Kate Crawford](https://www.youtube.com/watch?v=fMym_BKWQzk).
 -   **Bias**: Bias-Variance tradeoff. Zie [An Introduction to Bias-Variance Tradeof](http://cse.iitkgp.ac.in/~saptarshi/courses/ml2020s/ML-14-bias-variance.pdf) en [Bias and Variance with Real-Life Examples](https://www.naukri.com/learning/articles/bias-and-variance/)**.**
--   **Website**: Herstructurering opbouw naar analogie van de Quarto website.
+-   **Website**: Herstructurering opbouw naar analogie van de Quarto website. test
 
 #### Vrijdag \| 27-01-2023
 
