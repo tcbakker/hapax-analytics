@@ -22,7 +22,7 @@ author:
 
 Ik ben gefascineerd door **eerlijkheid** (*fairness*) en **vooroordelen** (*bias*) in relatie tot Machine Learning en AI in het hoger onderwijs. Het begrip fairness is op meerdere manieren relevant: Is de verzameling van data wel eerlijk? Doen we voldoende recht aan de studenten van wie we studiedata onderzoeken? Wat vertelt studiedata over hoe eerlijk we als onderwijsinstellingen handelen? Zijn algoritmes wel eerlijk? Is het gebruik van voorspelmodellen door docenten, begeleiders of beleidsmedewerkers wel eerlijk?
 
-![](/images/paste-422F626A.png)
+![](images/fairness-pionnen.jpg){fig-align="center"}
 
 In mijn promotieonderzoek [@tbakker2022] heb ik met behulp van een statistisch methode, **propensity score weighting** [@rosenbaum1984], de data van studenten met en zonder autisme met elkaar in balans kunnen brengen. Dit helpt om beter te begrijpen welke verschillen er tussen groepen daadwerkelijk zijn en daar begeleiding en beleid op af te kunnen stemmen. Ook helpt uitgebalanceerd onderzoek bij het herwaarderen van (voor)oordelen. Dit soort correcties op data zou een standaard aanpak moeten zijn bij het onderzoeken van (minderheids)groepen studenten in het hoger onderwijs. Zo bleek in mijn onderzoek na balancering van studiedata van studenten met autisme hun studievoortgang vrijwel even goed te zijn als dat van hun studiegenoten, maar dat een betere voorbereiding op toetsing wel een aandachtspunt was.
 
