@@ -40,6 +40,11 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
         -   3\) Human life is inherently creative (imagining alternatives and possibilities) versus standardisation.
 
         -   Noodzaak: aandacht voor het individuele kind, investering in docenten, verantwoordelijk neerleggen bij de school om het gedaan te krijgen
+-   **Visualisaties**:
+    -   Interessante post om Quarto te gebruiken om [afbeeldingen in het juiste format en dpi](https://nrennie.rbind.io/blog/2022-08-16-designing-tidytuesday-visualisations-for-mobile-with-quarto/) te maken.
+
+    -   Gebruik het [geomtextpath](https://cran.rstudio.com/web/packages/geomtextpath/vignettes/aesthetics.html) package om teksten een speciale vorm te geven en voor [Curved Text in Polar Co-ordinates](https://cran.rstudio.com/web/packages/geomtextpath/vignettes/curved_polar.html).\
+        ![](images/download-11.png){width="600"}\
 
 #### Zaterdag \| 28-01-2023
 
@@ -237,7 +242,7 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 \`Table: Summary of Posterior Distribution
 
 | Parameter    | Median | 95% CI         | pd   | ROPE            | \% in ROPE | Rhat  | ESS     |
-|:-------------|-------:|:---------------|:-----|:----------------|-----------:|:------|:--------|
+|:--------|--------:|:--------|:--------|:--------|--------:|:--------|:--------|
 | (Intercept)  |   4.30 | \[4.14, 4.46\] | 100% | \[-0.10, 0.10\] |         0% | 1.000 | 3521.00 |
 | Petal.Length |   0.41 | \[0.37, 0.45\] | 100% | \[-0.10, 0.10\] |         0% | 1.000 | 3384.00 |
 
@@ -506,7 +511,7 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 #### Zondag \| 01-01-2023
 
 -   **Ggplot2**: [Ggplot2 cursus](https://rstudio-conf-2022.github.io/ggplot2-graphic-design/) gevolgd ([intro](https://rstudio-conf-2022.github.io/ggplot2-graphic-design/materials/01_introduction.html#/title-slide) en [dl 1](https://rstudio-conf-2022.github.io/ggplot2-graphic-design/materials/02_concepts_pt1.html#/title-slide) en [dl 2](https://rstudio-conf-2022.github.io/ggplot2-graphic-design/modules/d1-05_concepts_pt2.html)) van [Cédric Scherer](https://www.cedricscherer.com/).
--   **Ggplot2:** [camcorder](https://github.com/thebioengineer/camcorder) package om ggplot in R makkelijk te bewaren.
+-   **Ggplot2:** [camcorder](https://github.com/thebioengineer/camcorder) package om ggplot in R makkelijk te bewaren en van de screenshots ervan een [filmpje](https://nrennie.rbind.io/blog/2022-12-27-another-year-of-tidytuesday/) te maken.
 -   **LinkedIn**: Kenbaar gemaakt dat ik een nieuwe baan heb.
 -   **Twitter**: Profiel aangepast.
 -   **Tensorflow**: Kennis mee gemaakt vanuit video over de [technologie achter GPT](https://www.youtube.com/watch?v=SZorAJ4I-sA). Link naar Tensorflow ([Classify text with BERT](Classify%20text%20with%20BERT)). R heeft een eigen versie voor R studio met bijbehorende [website](https://tensorflow.rstudio.com/install/).
