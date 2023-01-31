@@ -43,6 +43,11 @@ a.navbar-brand:hover {
     text-decoration: none !important;
 }
 
+.menu-text{
+    font-size: 1.25rem !important;
+    font-weight: 400;
+}
+
 /* description */
 .description {
     color: #BE5640;
