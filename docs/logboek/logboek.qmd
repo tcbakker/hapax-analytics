@@ -13,6 +13,29 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 
 ### Januari 2023
 
+#### Dinsdag \| 30-01-2023
+
+-   **AI:** [Welcome to the Wet Hot AI Chatbot Summer](https://www.wired.com/story/plaintext-welcome-to-the-wet-hot-ai-chatbot-summer/?bxid=639dbc485b339a79d408fc07&cndid=28133066&esrc=slim-article-toggle-&mbid=mbid%3DCRMWIR012019%0A%0A&source=EDT_WIR_NEWSLETTER_0_DAILY_ZZ&utm_brand=wired&utm_campaign=aud-dev&utm_content=WIR_Transportation_012922_Special_ChatGPT&utm_mailing=WIR_Transportation_012922_Special_ChatGPT&utm_medium=email&utm_source=nl&utm_term=P1) **-** Verschil tussen aanpak OpenAI en Google in de aanpak van AI. Google gaat langzamer te werk om de impact van nieuwe technologie beter een plek te geven en te voorzien van ethische randvoorwaarden.
+-   **ChatGPT:** [ChatGPT Is Making Universities Rethink Plagiarism](https://www.wired.com/story/chatgpt-college-university-plagiarism/#intcid=_wired-verso-hp-trending_3d946340-aa37-41de-894b-b7b195df9eec_popular4-1)
+    -   Nieuw is dat er niet van een persoon is wordt gestolen/overgenomen, maar van een ding. Bestaand plagiaat beleid houdt daar nog geen rekening mee. Bij de komst van Wikipedia was er overigens ook de zorg dat dit een gamechanger zou zijn.
+
+    -   "The world of higher education is playing a familiar game of catch-up, adjusting their rules, expectations, and perceptions as other professions adjust, too. The only difference now is that the internet can think for itself." "In the midst of fundamental change in both the academic and technological spheres, universities are forced to reconsider their definitions of academic integrity to reasonably reflect the circumstances of society. The only problem is, society shows no stagnance."
+
+    -   "The tool\'s popularization just calls for greater focus in evaluating the intent behind students\' violations. Warfield explains that students who turn in essays entirely produced by AI are categorically different from those who borrow from online tools without knowledge of standard citations."
+
+#### Maandag \| 30-01-2023
+
+-   **Visualisaties**:
+    -   Barchart van Cédric Scherer: [A Quick How-to on Labelling Bar Graphs in ggplot2](https://www.cedricscherer.com/2021/07/05/a-quick-how-to-on-labelling-bar-graphs-in-ggplot2/). Nagebouwd in R-project.
+
+        ![](images/plot-bars-geom-label-1-01.png){width="600"}
+
+    -   Gender Pay Gap: Slope Plot (EU only)
+-   **Visualisaties**: [ShowYourStripes](https://showyourstripes.info/). Indrukwekkende visualisatie van temperatuurverschillen in de afgelopen 125 jaar.
+    -   ![](images/EUROPE-Netherlands--1901-2021-BK-barslabel.png)
+-   **Visualisaties**: [VIZ PALETTE](https://projects.susielu.com/viz-palette) - tool om effect van kleurenpallet op kleurenblindheid mee te testen; de kleuren van deze site blijken goed te werken voor alle vormen van kleurenblindheid.
+-   ![](images/paste-4812D695.png)
+
 #### Zondag \| 29-01-2023
 
 -   **Coding**: [Best practice in coding](https://gilesd-j.com/2023/01/28/spaghetti-code-dieting-tips/) - gebruik van prefixes bij variabelen.
