@@ -38,6 +38,8 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 
 -   **Fairness**: Jacobs, A. Z., & Wallach, H. (2021). Measurement and Fairness. *Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency*, 375--385. doi: 10.1145/3442188.3445901. Interessant voor InR. Gaat in op soorten construct validity van metingen en de betekenis van het construct 'fairness'. "Measure are more then a creation of society, they *create* society."
 
+-   **Fairness**: [Deon framework](https://deon.drivendata.org/) verder doorgenomen: [checklist](bijlagen/deon/deon-checklist.qmd) en [voorbeelden](bijlagen/deon/examples_of_ethical_issues.yml).
+
 #### Maandag \| 30-01-2023
 
 -   **Visualisaties**:
