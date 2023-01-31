@@ -13,15 +13,45 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 
 ### Januari 2023
 
-#### Dinsdag \| 30-01-2023
+#### Dinsdag \| 31-01-2023
 
 -   **AI:** [Welcome to the Wet Hot AI Chatbot Summer](https://www.wired.com/story/plaintext-welcome-to-the-wet-hot-ai-chatbot-summer/?bxid=639dbc485b339a79d408fc07&cndid=28133066&esrc=slim-article-toggle-&mbid=mbid%3DCRMWIR012019%0A%0A&source=EDT_WIR_NEWSLETTER_0_DAILY_ZZ&utm_brand=wired&utm_campaign=aud-dev&utm_content=WIR_Transportation_012922_Special_ChatGPT&utm_mailing=WIR_Transportation_012922_Special_ChatGPT&utm_medium=email&utm_source=nl&utm_term=P1) **-** Verschil tussen aanpak OpenAI en Google in de aanpak van AI. Google gaat langzamer te werk om de impact van nieuwe technologie beter een plek te geven en te voorzien van ethische randvoorwaarden.
+
 -   **ChatGPT:** [ChatGPT Is Making Universities Rethink Plagiarism](https://www.wired.com/story/chatgpt-college-university-plagiarism/#intcid=_wired-verso-hp-trending_3d946340-aa37-41de-894b-b7b195df9eec_popular4-1)
+
     -   Nieuw is dat er niet van een persoon is wordt gestolen/overgenomen, maar van een ding. Bestaand plagiaat beleid houdt daar nog geen rekening mee. Bij de komst van Wikipedia was er overigens ook de zorg dat dit een gamechanger zou zijn.
 
     -   "The world of higher education is playing a familiar game of catch-up, adjusting their rules, expectations, and perceptions as other professions adjust, too. The only difference now is that the internet can think for itself." "In the midst of fundamental change in both the academic and technological spheres, universities are forced to reconsider their definitions of academic integrity to reasonably reflect the circumstances of society. The only problem is, society shows no stagnance."
 
-    -   "The tool\'s popularization just calls for greater focus in evaluating the intent behind students\' violations. Warfield explains that students who turn in essays entirely produced by AI are categorically different from those who borrow from online tools without knowledge of standard citations."
+    -   "The tool's popularization just calls for greater focus in evaluating the intent behind students' violations. Warfield explains that students who turn in essays entirely produced by AI are categorically different from those who borrow from online tools without knowledge of standard citations."
+
+-   **Code**: [Tips for organising your R code](https://tomaztsql.wordpress.com/2023/01/31/tips-for-organising-your-r-code/)over het gebruik van een default theme voor een organisatie (zie paragraaf 3).
+
+-   **Quarto**: [Building a reporting infrastructure with Quarto](https://posit.co/blog/building-a-reporting-infrastructure-with-quarto/). Een toelichting op een reporting straat voor het publiceren van onderzoeksrapporten met behulp van Quarto.
+
+-   **Quarto**: [Diagrams](https://quarto.org/docs/authoring/diagrams.html). Uitwerking van de mogelijkheden om diagrammen op te nemen in Quarto.
+
+![](images/paste-72B1BFB2.png){fig-align="center" width="600"}
+
+-   **Balancing**: Gebruik het package [jointVIP](https://cran.r-project.org/web/packages/jointVIP/vignettes/jointVIP.html) om features te vinden die voor balancing van belang zijn.
+
+    ![](images/download-13.png){width="600"}
+
+-   **Learning Analytics**: Aldowah, H., Al-Samarraie, H., & Fauzy, W. M. (2019). Educational data mining and learning analytics for 21st century higher education: A review and synthesis. *Telematics and Informatics*, *37*, 13--49. doi: 10.1016/j.tele.2019.01.007 - doorgenomen. Overzichtsartikel.
+
+-   **Studiesucces**: Overzichtsartikel gelezen over de ontwikkeling van de termen student retention en student engagement.Tight, M. (2020). Student retention and engagement in higher education. *Journal of Further and Higher Education*, *44*(5), 689--704. doi: 10.1080/0309877x.2019.1576860. Interessant voor InR.
+
+-   **Taxonomie**: Naar aanleiding van Balanced Learning Design cursus de nieuwe versie van Bloom's taxonomie doorgenomen. Wilson, L. O. (n.d.). *Anderson and Krathwohl Bloom\'s Taxonomy Revised*.
+
+-   **Fairness**: Jacobs, A. Z., & Wallach, H. (2021). Measurement and Fairness. *Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency*, 375--385. doi: 10.1145/3442188.3445901. Interessant voor InR.
+
+    -   Gaat in op soorten construct validity van metingen en de betekenis van het construct 'fairness'. "Measure are more then a creation of society, they *create* society."
+
+        \
+
+        \
+
+        \
 
 #### Maandag \| 30-01-2023
 
