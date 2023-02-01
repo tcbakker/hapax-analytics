@@ -11,6 +11,23 @@ format:
 Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix van hoger onderwijs, neurodiversiteit, inclusie, studiesucces, data science en coderen in R.
 :::
 
+### Februari 2023
+
+#### Woensdag \| 01-02-2023
+
+-   **Fairness**: Tutorial over Fairness in ML. [Fairness, part 1 - Moritz Hardt - MLSS 2020, Tübingen](https://www.youtube.com/watch?v=Igq_S_7IfOU)
+    -   Disparate treatment (procedurele gelijkheid) versus disparate impact (gelijke uitkomsten). Er zit spanning tussen deze 2: om de laatste te kunnen realiseren moet je onderscheid kunnen maken tussen groepen.
+    -   Failure of fairness through unawareness. Kenmerken verwijderen lost unfairness niet op; het kan ze juist groter maken. Voorbeeld van 1 day delivery van Amazon in Boston. \> idee: dit uitwerken aan de hand van kaarten van Den Haag.
+    -   Wat kunnen we doen:
+        -   Fairness criteria in classificatie toepassen
+        -   Causale modellen van besluitvorming
+        -   Dynamische modellen van socio-technische systemen
+-   **Fairness:** Begonnen aan Barocas, S., Hardt, M., & Narayanan, A. (2019). *Fairness in Machine Learning Limitations and Opportunities*. fairmlbook.org. Retrieved from http://www.fairmlbook.org. (Preface en introductie)
+-   **ChatGPT**: Osch, T. V. (2023, January 17). Van Eliza naar ChatGPT: de stormachtige ontwikkeling van taalmodellen. Retrieved February 1, 2023, from https://communities.surf.nl/artificial-intelligence/artikel/van-eliza-naar-chatgpt-de-stormachtige-ontwikkeling-van. Duidelijke uitleg van taalmodellen/transformers.
+-   **AI in het onderwijs**: Hooge, E., Leeuwen, M. V., Molenaar, I., & Bos, N. (2022). *Inzet van intelligente technologie* (pp. 1--75). Den Haag: Onderwijsraad. Retrieved from Onderwijsraad website: https://www.onderwijsraad.nl/publicaties/adviezen/2022/09/28/inzet-van-intelligente-technologie. AI wordt en actor in het onderwijs. Het verlicht, maar maakt de taak voor een docent ook complexer. Beschrijft goed de toegevoegde waarde van de docent. Een goede overzichtsstudie van voor- en nadelen en toepassingen in Nederland.
+-   **Gelijke kansen**: Podcast '[Ieder Talent Telt](https://www.gelijke-kansen.nl/actueel/podcast)' beluisterd.
+-   **Fairness:** Gosiewska, A., Gacek, A., Lubon, P., & Biecek, P. (2019). SAFE ML: Surrogate Assisted Feature Extraction for Model Learning. *arXiv*. doi: 10.48550/arxiv.1902.11035. Doorgenomen nieuwe pagina toegevoegd aan projecten op basis van dit artikel.
+
 ### Januari 2023
 
 #### Dinsdag \| 31-01-2023

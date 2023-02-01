@@ -1,10 +1,12 @@
 /* CSS file website T.C. Bakker, t.c.bakker@hhs.nl
 
 colors:
-ligth-blue: #B3DEE5
+light-blue: #B3DEE5
+lighter-blue: #E0F6F9
 dark-orange: #FFA101
 light-orange: #FAE6B1
 dark-gray: #31525B
+light-gray: #D4D2D6
 terra: #BE5640
 
 */
@@ -170,4 +172,11 @@ a:hover {
 /* other */
 .pipe {
     color: #CDCDCD;
+}
+
+.nota-bene {
+    background-color: #E0F6F9;
+    border: 1px solid #D4D2D6;
+    padding: 10px 10px 10px 10px;
+    margin-bottom: 20px;
 }
