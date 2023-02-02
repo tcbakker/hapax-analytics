@@ -13,6 +13,14 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 
 ### Februari 2023
 
+#### Donderdag \| 02-02-2023
+
+-   **Gelijke kansen:** Begonnen aan Segeren, E. (Ed.). (2021). *Gezichten van een onzeker bestaan*. Raad voor Volksgezondheid & Samenleving.
+-   **Gelijke kansen**: 2 fascinerend artikelen over gelijke kansen.
+    -   Geest, M. van der. (2020, October 2). Arme mensen gaan zes jaar eerder dood -- waarom doen we daar niets aan? Retrieved February 2, 2023, from https://www.volkskrant.nl/cultuur-media/arme-mensen-gaan-zes-jaar-eerder-dood-waarom-doen-we-daar-niets-aan\~b34e97d06/
+    -   Jongers, T. 'S. (2021, June 25). 'Als je met 10-0 achterstand begint, is hogerop komen geen klim op een ladder. Het is een tunnel waarin je moet blijven kruipen.' Retrieved February 2, 2023, from https://www.volkskrant.nl/columns-opinie/als-je-met-10-0-achterstand-begint-is-hogerop-komen-geen-klim-op-een-ladder-het-is-een-tunnel-waarin-je-moet-blijven-kruipen\~b41eb81b/
+-   **Fairness**: Introductie uitgelezen van Barocas, S., Hardt, M., & Narayanan, A. (2019). *Fairness in Machine Learning Limitations and Opportunities*. fairmlbook.org. Retrieved from http://www.fairmlbook.org.
+
 #### Woensdag \| 01-02-2023
 
 -   **Fairness**: Tutorial over Fairness in ML. [Fairness, part 1 - Moritz Hardt - MLSS 2020, Tübingen](https://www.youtube.com/watch?v=Igq_S_7IfOU)
