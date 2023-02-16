@@ -1,0 +1,49 @@
+---
+title: "Studieverloop en studiesucces van autistische studenten in hoger onderwijs"
+lang: nl
+language: ../../../../settings/custom-language.yml
+categories: [autisme, studiesucces]
+fields: [date, reading-time]
+format:
+    html:
+        toc: true
+        toc-depth: 4
+aliases: 
+  - /docs/projecten/vu/promotie/
+bibliography: ../../../../citations/references.bib
+csl: ../../../../citations/apa.csl
+
+description: Promotieonderzoek naar studenten met autisme
+date: 2/14/2023
+author:
+  - name: Theo Bakker 
+    url: https://hapax-analytics.com/over
+    affiliation: Vrije Universiteit Amsterdam
+    affiliation-url: https://hhs.nl
+---
+
+![](images/image-1631302327.png)
+
+In juni 2022 ben ik gepromoveerd bij de Vrije Universiteit Amsterdam op een onderzoek naar de studievoortgang en het studiesucces van autistische studenten in het hoger onderwijs. Het proefschrift bevat 4 artikelen die ik *Open Access* heb gepubliceerd in vaktijdschriften; zie voor een overzicht mijn [publicaties](../../../../docs/over/over.html#publicaties).
+
+**Bakker, T. C.** (2022). Study Progression and Success of Autistic Students, A Longitudinal, Propensity Score-Weighted Population Study. PhD Thesis, <https://doi.org/10.5463/thesis.1>.
+
+**Promotoren**: Prof. Dr. S. Begeer, Prof. Dr. S. Bhulai, Prof. Dr. L. Krabbendam en Prof. Dr. M Meeter.
+
+**Samenvatting**
+
+In dit proefschrift wilde ik meer inzicht krijgen in de studievoortgang en het studiesucces van autistische studenten in het hoger onderwijs door hen te vergelijken met studenten met andere functiebeperkingen en studenten zonder functiebeperkingen. Ik onderzocht hun achtergrond- en inschrijvingskenmerken, of er belemmeringen in hun studievoortgang bestonden, hoe en wanneer eventuele belemmeringen naar voren kwamen in hun studie, en hoe onderwijsinstellingen deze problemen zouden moeten aanpakken.
+
+Ik vond dat autistische studenten anders zijn dan hun medestudenten, maar niet minder succes hadden als verwacht op basis van bestaande bevindingen. Ik vermoed dat ik de verschillen kon compenseren omdat ik een grote dataset heb bestudeerd van zeven cohorten bestudeerd en daarbij *propensity score weighting* toegepast. De meeste kenmerken van autistische studenten bij inschrijving waren vergelijkbaar met die van andere studenten, maar ze waren ouder en vaker man. Ze volgden vaker een niet-reguliere route naar het hoger onderwijs dan studenten zonder functiebeperkingen. Voor aanvang van hun studie verwachtten al hun tijd aan hun studie te besteden en geen tijd te spenderen aan extra-curriculaire activiteiten of betaald werk. Ze verwachtten meer ondersteuning nodig te hebben en liepen een groter risico op comorbiditeit dan studenten met andere functiebeperkingen. Ik vond geen verschillen in de deelname aan voorlichtingsactiviteiten.
+
+Gedurende het eerste bachelorjaar waren de gemiddelde cijfers van autistische studenten het meest vergelijkbaar met die van studenten zonder functiebeperkingen. Het verzamelen van studiepunten was over het algemeen vergelijkbaar, op één van de zeven onderwijsperiodes na, en de uitval na het eerste jaar vertoonden geen verschillen. Het aantal gezakten en no-shows onder autistische studenten was wel hoger aan het eind van het eerste semester. Wat betreft de verdere studievoortgang en het behalen van een diploma heb ik aangetoond dat de meeste uitkomsten (gemiddelde cijfers, uitval, herkansingen, studiepunten en diploma's) vergelijkbaar waren in de drie groepen. Autistische studenten hadden meer no-shows in het tweede jaar dan hun medestudenten, wat het behalen van het diploma na drie jaar beïnvloedde.
+
+Mijn analyse van voorspellingen van het studiesucces van deze studenten maakte duidelijk welke factoren hun succes of het gebrek daaraan voorspelden voor ieder jaar in hun bacheloropleiding. Voor succes in het eerste jaar waren studiekeuzeproblemen de belangrijkste voorspellers (parallelle studieprogramma's en het moment van aanmelding voor hun studie). Problemen met deelname aan de vooropleiding (het ontbreken van cijfers in de vooropleiding) en vertragingen voor het begin van de studie van autistische studenten (weerspiegeld in de leeftijd) waren de belangrijkste voorspellers van succes in het tweede jaar en vertragingen in het tweede en laatste jaar van hun bacheloropleiding. Daarnaast waren eerdere academische prestaties (gemiddelde cijfers) de sterkste voorspeller van het behalen van een diploma binnen drie jaar.
+
+Mijn onderzoek draagt op drie manieren bij aan het vergroten van gelijke kansen en het ontwikkelen van ondersteuning in het hoger onderwijs. Ten eerste geeft het inzicht in de mate waarin het hoger onderwijs de gelijkheid van autistische studenten dient. Ten tweede verduidelijkt het welke verschillen het hoger onderwijs moet accommoderen om het succes van autistische studenten tijdens hun *student journey* te ondersteunen. Ten slotte heb ik de inzichten in het succes van autistische studenten gebruikt om een getrapte, gepersonaliseerde aanpak te ontwikkelen ter ondersteuning van hun uiteenlopende behoeften en talenten, die kan worden toegepast met behulp van bestaand aanbod.
+
+(Zie voor een uitgebreide Nederlandse samenvatting pagina's 111-120 van het [proefschrift](https://doi.org/10.5463/thesis.1).)
+
+**Downloads**
+
+{{< fa solid download >}} Download mijn [lekenpraatje](../../../../downloads/Lekenpraatje_Promotie_TBakker_VU_20220608_v4.pdf).

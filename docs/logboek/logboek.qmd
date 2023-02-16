@@ -1,6 +1,7 @@
 ---
 title: "Logboek"
 lang: nl
+sidebar: false
 format:
     html:
         toc: true
@@ -12,6 +13,77 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 :::
 
 ### Februari 2023
+
+#### Maandag \| 13-02-2023
+
+-   **ADHD**: Afgerond Faraone, S. V., Asherson, P., Banaschewski, T., Biederman, J., Buitelaar, J. K., Ramos-Quiroga, J. A., ... Franke, B. (2015). Attention-deficit/hyperactivity disorder. *Nature Reviews Disease Primers*, *1*(1), 15020. doi: 10.1038/nrdp.2015.20. Primer over ADHD.
+-   **Onderwijsbeleid**: Begonnen aan Copier, J. *Tussen idealen en dwalingen. Verhalen over onderwijs*. (Garant, 2022).
+
+#### Zaterdag \| 11-02-2023
+
+-   **Graphs:** [The Trick That Solves Rubik's Cubes and Breaks Ciphers (Meet in the Middle)](https://www.youtube.com/watch?v=wL3uWO-KLUE&ab_channel=polylog) - leuke uitleg van het oplossen van graphs aan de hand van een Rubik's kubus.
+-   **Leerstijlen**: [The Biggest Myth In Education](https://www.youtube.com/watch?v=rhgwIhB58PA&ab_channel=Veritasium) **-** Video over het niet bestaan van leerstijlen. Gebruikte literatuur.
+    -   Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2008). Learning styles: Concepts and evidence. Psychological science in the public interest, 9(3), 105-119. --- [https://ve42.co/Pashler2008](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0tITVdGd1IwX3pBZTZuSmVRN2hNSnhZejVYZ3xBQ3Jtc0tuQ0kwRHpKNlRMaV8waG1DX3Q5a0VLY0dZb1VpTkxrQW1KYmw4cGFwVlZPV2I2empRUUtRWkVNbHl5V0tQQ2V1aU9lcjFNbHl5RFBJcG5FODVoVXFJLThpZlR4RG96SDRaemg1RERGVFBzckg5eDJoNA&q=https%3A%2F%2Fve42.co%2FPashler2008&v=rhgwIhB58PA)
+
+    -   Willingham, D. T., Hughes, E. M., & Dobolyi, D. G. (2015). The scientific status of learning styles theories. Teaching of Psychology, 42(3), 266-271. --- [https://ve42.co/Willingham](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTFMUVBDdmUtdWdCZUtZZDJBNlZWcWdmNFp0UXxBQ3Jtc0ttRkhheEd2QURicDFGclpRZXI5ZHhzNkVLVWYtOGp3NzlHYU9OZXhyYktXRG5LMVl6dm1iTEdsYWZla3F2MHMwTzlSRTRRZWZjMG9TemxJSUdqV3dqdXhXVjdxQjBzd21sblc0MkRwbVpYUmFUeTRKSQ&q=https%3A%2F%2Fve42.co%2FWillingham&v=rhgwIhB58PA)
+
+    -   Massa, L. J., & Mayer, R. E. (2006). Testing the ATI hypothesis: Should multimedia instruction accommodate verbalizer-visualizer cognitive style?. Learning and Individual Differences, 16(4), 321-335. --- [https://ve42.co/Massa2006](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFB0UEpmU0pNSVF3SWZUcGU0Z0wzZ0c3Unhxd3xBQ3Jtc0trQ1pFcW5UTkl6V29lWGVsemVTdWFGMEZva2x6aXVtM1dWbTJjMWVaLS1PUV9iQVozclptZ0VsZ3ZnLVZHcUJJbWtRU20xWE5Jdk5XenJvaGV0Y1loX21KeHBGZ1lvWVYycURCUjRpeTN4RVc4Wm1JZw&q=https%3A%2F%2Fve42.co%2FMassa2006&v=rhgwIhB58PA)
+
+    -   Riener, C., & Willingham, D. (2010). The myth of learning styles. Change: The magazine of higher learning, 42(5), 32-35.--- [https://ve42.co/Riener2010](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkJIN21Oal9xUUFNMGcxQkdiTFNYRTdYYS1sd3xBQ3Jtc0tseVlMS2htV1RSUnYzTVhuZFV4bk54QWVoNXU5SGVXX3NlWHdCRlhUUUZaWFl0RDZueHFoUDJwZmV0ZUlVWXZQRnIzTk5XdFNTWGlCTk9wamdRb3ZtcnBhSnMwdGlxclNSaTgwR2s5bDZNWFBFWlNsMA&q=https%3A%2F%2Fve42.co%2FRiener2010&v=rhgwIhB58PA)
+
+    -   Husmann, P. R., & O'Loughlin, V. D. (2019). Another nail in the coffin for learning styles? Disparities among undergraduate anatomy students' study strategies, class performance, and reported VARK learning styles. Anatomical sciences education, 12(1), 6-19. --- [https://ve42.co/Husmann2019](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUJ1MG1QanZwbU9Fbm01WGR5anpud2NIcW1lUXxBQ3Jtc0ttSnVPdzNySW1wZURIcDRUbVJpcDcycWlwczdrWm5sbHJGRmVSaVlhS1Z2Sl80b1FxRm9kbDVpVGxhaGNlNW5zQ1AzWVJGRVprc0pXSTVzZWNFaDQ4ZWpHVjZtUU1BeDNQRU1MTk1lVXF4WjVmQ0VEaw&q=https%3A%2F%2Fve42.co%2FHusmann2019&v=rhgwIhB58PA)
+
+    -   Snider, V. E., & Roehl, R. (2007). Teachers' beliefs about pedagogy and related issues. Psychology in the Schools, 44, 873--886. doi:10.1002/pits.20272 --- [https://ve42.co/Snider2007](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbm1yQm1KcmJTQWNWeWVYWVVJZ1lrOGc4a1pNQXxBQ3Jtc0ttZHNmNjE5UHZpVEhhQzEwVWNWWG9hMndwc1MydzFMb1U5UUw1V0tWZFJscnhJcnFWMXFrc29iS2pGdmtDUERDdFBjMmg5T0s0UVBIV3I2N01fa2NZTmFDTHpqZWFqSVE0ekZHNjg3ZFBqMUxOZTRkNA&q=https%3A%2F%2Fve42.co%2FSnider2007&v=rhgwIhB58PA)
+
+    -   Fleming, N., & Baume, D. (2006). Learning Styles Again: VARKing up the right tree!. Educational developments, 7(4), 4. --- [https://ve42.co/Fleming2006](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1JGbGVJeVVjWm9naFdMTVdfY3dxcDNiNngwUXxBQ3Jtc0trVkNwTVdjOFRBaXlrNzU1dWNEaEFYajBCVktLcnFZalVzemREZjJiWUh5U1FqQzhabkNpN3JoRk85Z2QydXpIcDJQTU5kVThHSkR3Y3lXdHFFMGtoek9MUGdUUUdyRXV0U29sdzR5djBhNEpGLU0tVQ&q=https%3A%2F%2Fve42.co%2FFleming2006&v=rhgwIhB58PA)
+
+    -   Rogowsky, B. A., Calhoun, B. M., & Tallal, P. (2015). Matching learning style to instructional method: Effects on comprehension. Journal of educational psychology, 107(1), 64. --- [https://ve42.co/Rogowskyetal](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2lNU2gwcWlJNXV6OXdfczlwczFuM21TZVdoZ3xBQ3Jtc0trM3lhOTdrbERZWmlteXlYMVM5bUpTMkhkeURLdDBTa3lDekUtdFhoY0FLRnZWTVZBbmgxcTdfQXRNR1NKT3FEcmdxNHhhYXBKcDl3bHpDN2FjNDBOMk5rWXNRVm9rcXpvU1dVYWVUSmljN2dFaEkwcw&q=https%3A%2F%2Fve42.co%2FRogowskyetal&v=rhgwIhB58PA)
+
+    -   Coffield, Frank; Moseley, David; Hall, Elaine; Ecclestone, Kathryn (2004). --- [https://ve42.co/Coffield2004](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblpYV1hURXNBS2dadkpBaTc1eUVWUWhpbF9YZ3xBQ3Jtc0tuSUp1ZU96VmFQT3RkZ0lLVGhrMXItVWZOdUVXZjA1eW1TRFlQLUQ1MnVndTl3bUhzM19rV0ViZWlTWFZlWVFVVlZOSXhzMmhqZkFWNjdmNXRMNk91ZnFxdjVRdWMyMUprVVJkbEhSRjlEeWhmUkpIRQ&q=https%3A%2F%2Fve42.co%2FCoffield2004&v=rhgwIhB58PA)
+
+    -   Furey, W. (2020). THE STUBBORN MYTH OF LEARNING STYLES. Education Next, 20(3), 8-13. --- [https://ve42.co/Furey2020](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkpkZkI3Rlp1TlQwX3hUaFVOSk14OW5xZU1zd3xBQ3Jtc0trb0c3R1E0RkdaUUZOandBazlHV2RWQXJOTkFoNUl4MFBGNWlzdk9UaWZ3YXJjS1JlQzItZUU3MG05UmRUNTFESmFqdXQtekJ6anQxQjcwcTAwaXpjeWowNjZpWk9VQ3dLLXpIZU5mU3ZpUnliT2x3bw&q=https%3A%2F%2Fve42.co%2FFurey2020&v=rhgwIhB58PA)
+
+    -   Dunn, R., Beaudry, J. S., & Klavas, A. (2002). Survey of research on learning styles. California Journal of Science Education II (2). --- [https://ve42.co/Dunn2002](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVFYMnZhcWZOX0k2QmN5cUNtOE9mSVg2b3lNQXxBQ3Jtc0ttampMVlZmNlZEcG1rVFBZeWxUaVNZWDEtTlJJM0JtTUVoajl1MURlZDlYa3l5RG1lRzV0M1loRXhYMzhJQmVXT2NJNlhlT1lRSTZTbXRjTnZTUE0zSXhKd0dLU1JIaHhYdVpucVBxYWFHaUxJclpPTQ&q=https%3A%2F%2Fve42.co%2FDunn2002&v=rhgwIhB58PA)
+
+#### Vrijdag \| 10-02-2023
+
+-   **Datastraat:** [Creating an R Project Directory](https://www.spsanderson.com/steveondata/posts/rtip-2023-02-08/index.html) - handig script om een basisproject op te starten.
+
+#### Donderdag \| 09-02-2023
+
+-   **ADHD**:
+    -   Begonnen aan Faraone, S. V., Asherson, P., Banaschewski, T., Biederman, J., Buitelaar, J. K., Ramos-Quiroga, J. A., ... Franke, B. (2015). Attention-deficit/hyperactivity disorder. *Nature Reviews Disease Primers*, *1*(1), 15020. doi: 10.1038/nrdp.2015.20. Primer over ADHD.
+
+    -   Eerste cartoon van een kind met ADHD: [The story of Fidgety Phil](https://www.drkenny.com/fidgety-phil) (Duitsland, 1844).\
+        ![](images/fidgetyphil1.jpg)
+
+#### Woensdag \| 08-02-2023
+
+-   **AI**: [Principes van Google voor AI](https://ai.google/principles/):
+
+![](images/image-1533024984.png){fig-align="center" width="600"}
+
+-   **CBS**: [CBS Urban Data Center/Den Haag](https://www.cbs.nl/nl-nl/onze-diensten/cbs-urban-data-centers/locaties/cbs-urban-data-center-den-haag). Sinds 2017 werken de gemeente Den Haag en het CBS samen in het CBS Urban Data Center/Den Haag. Het Urban Data Center heeft de volgende doelen:
+
+    -   Nóg beter gebruik te maken van beschikbare data over Den Haag, om effectiever beleid te kunnen maken dat beter past bij wat de stad nodig heeft. Vraagarticulatie en het toevoegen van maatschappelijke waarde spelen hierbij een belangrijke rol.
+
+    -   Het versterken van het datagedreven werken binnen de gemeente Den Haag.
+
+#### Dinsdag \| 07-02-2023
+
+-   **Maps**: [Datacamp Interactive Maps with leaflet in R](https://campus.datacamp.com/courses/interactive-maps-with-leaflet-in-r/) - hoofdstuk 2 en 3 gemaakt. Zie ook de oorspronkelijke website voor Leaflet: [leafletjs.com](https://leafletjs.com/examples.html).
+
+#### Maandag \| 06-02-2023
+
+-   **Maps**: [Datacamp Interactive Maps with leaflet in R](https://campus.datacamp.com/courses/interactive-maps-with-leaflet-in-r/) - hoofdstuk 1 gemaakt
+
+#### Zaterdag \| 04-02-2023
+
+-   **Fairness**: Hoofdstuk 2: When is automated decision making legitimate? van Barocas, S., Hardt, M., & Narayanan, A. (2019). *Fairness in Machine Learning Limitations and Opportunities*. fairmlbook.org. Retrieved from http://www.fairmlbook.org
+
+#### Vrijdag \| 03-02-2023
+
+-   **Autisme**: Abstract ingediend voor een posterpresentatie voor het Nationaal Autisme Congres op 17 maart 2023.
 
 #### Donderdag \| 02-02-2023
 
@@ -307,7 +379,7 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 \`Table: Summary of Posterior Distribution
 
 | Parameter    | Median | 95% CI         | pd   | ROPE            | \% in ROPE | Rhat  | ESS     |
-|:--------|--------:|:--------|:--------|:--------|--------:|:--------|:--------|
+|:-------------|-------:|:---------------|:-----|:----------------|-----------:|:------|:--------|
 | (Intercept)  |   4.30 | \[4.14, 4.46\] | 100% | \[-0.10, 0.10\] |         0% | 1.000 | 3521.00 |
 | Petal.Length |   0.41 | \[0.37, 0.45\] | 100% | \[-0.10, 0.10\] |         0% | 1.000 | 3384.00 |
 

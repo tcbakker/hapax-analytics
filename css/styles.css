@@ -169,6 +169,78 @@ a:hover {
     border: 1px solid darkgrey !important;
 }
 
+/* cards */
+
+@media (max-width: 575px) {
+
+.link-cards .card {
+  margin-bottom: 20px;
+  margin-right: 35px;
+  background: transparent !important;
+}
+
+}
+
+@media (min-width: 576px) {
+.link-cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background: transparent !important;
+}
+
+.link-cards .card {
+  width: 220px;
+  margin: 0 20px 12px 0;
+  background: transparent !important;
+}
+
+
+}
+
+
+.link-cards .card {
+  border: none;
+  padding: 0;
+  background: transparent !important;
+}
+
+.link-cards .card-title h4 {
+  margin-top: 0;
+  font-weight: bolder;
+}
+
+.link-cards .card-title p {
+  margin-bottom: 0;
+}
+
+.link-cards .card-subtitle {
+  margin-bottom: 0.7rem;
+}
+
+.link-cards .card-body {
+  padding: 0.5rem;
+  padding-left: 0.1rem;
+}
+
+.link-cards .card-body ul {
+  margin-bottom: 0;
+  padding-left: 0;
+  list-style-type: none;
+}
+
+.link-cards .card-body ul a {
+  text-decoration: none;
+}
+
+.link-cards .card-body ul a:hover {
+  text-decoration: underline;
+}
+
+.link-cards .card-body ul li {
+  padding-bottom: 0.2rem;
+}
+
 /* other */
 .pipe {
     color: #CDCDCD;
@@ -180,3 +252,4 @@ a:hover {
     padding: 10px 10px 10px 10px;
     margin-bottom: 20px;
 }
+

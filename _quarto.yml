@@ -26,7 +26,7 @@ website:
   page-footer:
     border: true
     background: light
-    left: "Gepubliceerd. met [Quarto](https://quarto.org/) <?quarto.version?> | &copy; 2023 [Hapax Analytics](/), [Theo Bakker](/over.html) | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+    left: "Gepubliceerd met [Quarto](https://quarto.org/) <?quarto.version?> | &copy; 2023 [Hapax Analytics](/), [Theo Bakker](/over.html) | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
   cookie-consent: false
 #    type: express
 #    style: headline
@@ -41,7 +41,7 @@ website:
       - text: Home
         href: index.qmd
       # - href: posts.qmd
-      #  text: Blog
+      #   text: Blog
       - href: docs/onderzoek/onderzoek.qmd
         text: Onderzoek
       - href: docs/projecten/projecten.qmd
@@ -70,8 +70,42 @@ website:
         href: index_posts.xml
         aria-label: RSS Feed
     pinned: true
-  # sidebar:
-  # - id: projecten
+
+  sidebar:
+  - id: projecten
+    style: "floating"
+    collapse-level: 2
+    align: left
+    background: none
+    contents:
+    - section: "Projecten HHs"
+      contents:
+      - text: "Fair ML"
+        href: docs/projecten/hhs/fair-ml-ai/
+      - text: "StudentPulse *"
+        href: docs/projecten/hhs/studentpulse/
+      - text: "Studiedata *"
+        href: docs/projecten/hhs/studiedata/
+      - text: "Instroomanalyses *"
+        href: docs/projecten/hhs/instroomanalyses/
+    - section: "Projecten VU"
+      contents:
+      - text: "Studieverloop en studiesucces van autistische studenten in hoger onderwijs"
+        href: docs/projecten/vu/promotie/
+    - section: "Overige projecten"
+      contents:
+      - text: "Doe meer met studiedata *"
+        href: docs/projecten/overige/doe-meer-met-studiedata/
+      - text: "Beste Bachelorspel *"
+        href: docs/projecten/overige/beste-bachelor-spel/
+      - text: "Corona instroomscenario's *"
+        href: docs/projecten/overige/corona-instroom-scenarios/
+      - text: "Statistisch handboek studiedata *"
+        href: docs/projecten/overige/statistisch-handboek-studiedata/
+      - text: "Simulatiedataset *"
+        href: docs/projecten/overige/simulatiedataset/
+      - text: "Referentiekader *"
+        href: docs/projecten/overige/referentiekader/
 
 format:
   html:

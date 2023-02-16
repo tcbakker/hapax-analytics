@@ -1,0 +1,47 @@
+---
+title: "Fair Machine Learning & AI"
+lang: nl
+language: ../../../../settings/custom-language.yml
+categories: [Fair, AI, Machine Learning]
+fields: [date, reading-time]
+format:
+    html:
+        toc: true
+        toc-depth: 4
+aliases: 
+  - /docs/projecten/hhs/fair-ml-ai/
+bibliography: ../../../../citations/references.bib
+csl: ../../../../citations/apa.csl
+
+description: Fair AI en Machine Learning in relatie tot het gebruik van studiedata.
+date: 1/7/2023
+author:
+  - name: Theo Bakker 
+    url: https://hapax-analytics.com/over
+    affiliation: De Haagse Hogeschool
+    affiliation-url: https://hhs.nl
+---
+
+Ik ben gefascineerd door **eerlijkheid** (*fairness*) en **vooroordelen** (*bias*) in relatie tot Machine Learning en AI in het hoger onderwijs. Het begrip fairness is op meerdere manieren relevant: Is de verzameling van data wel eerlijk? Doen we voldoende recht aan de studenten van wie we studiedata onderzoeken? Wat vertelt studiedata over hoe eerlijk we als onderwijsinstellingen handelen? Zijn algoritmes wel eerlijk? Is het gebruik van voorspelmodellen door docenten, begeleiders of beleidsmedewerkers wel eerlijk?
+
+![](images/fairness-pionnen.jpg){fig-align="center"}
+
+In mijn promotieonderzoek [@tbakker2022] heb ik met behulp van een statistisch methode, **propensity score weighting** [@rosenbaum1984], de data van studenten met en zonder autisme met elkaar in balans kunnen brengen. Dit helpt om beter te begrijpen welke verschillen er tussen groepen daadwerkelijk zijn en daar begeleiding en beleid op af te kunnen stemmen. Ook helpt uitgebalanceerd onderzoek bij het herwaarderen van (voor)oordelen. Dit soort correcties op data zou een standaard aanpak moeten zijn bij het onderzoeken van (minderheids)groepen studenten in het hoger onderwijs. Zo bleek in mijn onderzoek na balancering van studiedata van studenten met autisme hun studievoortgang vrijwel even goed te zijn als dat van hun studiegenoten, maar dat een betere voorbereiding op toetsing wel een aandachtspunt was.
+
+Mijn onderzoekslijn inclusion analytics heeft betrekking op bias en fairness in data analytics, machine learning en AI in het Nederlands hoger onderwijs. Dit artikel is een theoretische primer op het onderwerp aan de hand van een aantal artikelen.
+
+*Verdere opbouw van dit onderwerp (volgt):*
+
+-   welke biases komen voor op welke plek in het data science proces?
+-   wat zijn voorbeelden uit de praktijk van het onderwijs?
+-   welke begrippen van fairness zijn er?
+-   wat zijn voorbeelden uit de praktijk van het onderwijs?
+-   wat kunnen we doen om bias te reduceren en fairness te verhogen?
+-   wat zijn daarvan de voordelen en de trade-offs?
+-   next steps
+
+### Wat is eerlijk?
+
+Een eenduidige definitie van eerlijkheid in relatie tot machine learning is er niet. Dit hangt samen met de verschillende ideeën over wat eerlijk is. De verschillende beelden over eerlijkheid zijn van invloed op de oplossing van oneerlijkheid en eventuele correctie van data of analyses. Gaat het bij het begrip 'eerlijk' om gelijke kansen aan de start van de studie of ook tijdens de studie? [@fishkin2014b]
+
+### 

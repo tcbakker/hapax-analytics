@@ -1,0 +1,16 @@
+---
+title: "Onderzoeksprojecten"
+lang: nl
+listing:
+    id: projecten-links
+    type: grid
+    sort: "title desc"
+    date-format: long
+    categories: unnumbered
+    fields: [date, title, image, reading-time, description, categories]
+    contents:
+        - "projecten/*/*.qmd"
+format:
+    html:
+        toc: true
+---

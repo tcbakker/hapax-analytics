@@ -1,6 +1,7 @@
 ---
 title: "Over Theo Bakker"
 lang: nl
+sidebar: false
 format:
     html:
         toc: true
@@ -197,6 +198,7 @@ Circa 240 lezingen over Student Analytics in de afgelopen 10 jaar; 6 publicaties
 
 ### 2023
 
+-   [3 vragen...](../../downloads/LTA_HHS_WaardenWijzer_5_interviewTB_20230214.pdf) - Marjolein van Trigt, SURF Leergang Publieke Waarden, Waardenwijzer #5 - 14 februari 2023
 -   [Succes student met autisme beter te voorspellen](https://www.scienceguide.nl/2023/01/succes-student-met-autisme-beter-te-voorspellen/) - ScienceGuide - 11 januari 2023
 
 ### 2022

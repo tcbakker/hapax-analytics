@@ -1,13 +1,14 @@
 ---
 title: "Home"
 lang: nl
+sidebar: false
 format:
     html:
         toc: false
         footnote-title: "Voetnoten"
 ---
 
-Dit is de persoonlijke website van [Theo Bakker](/over.html), lector Learning Technology & Analytics bij [De Haagse Hogeschool](https://hhs.nl) en universitair docent bij de [Vrije Universiteit Amsterdam](https://vu.nl).
+xxx Dit is de persoonlijke website van [Theo Bakker](/over.html), lector Learning Technology & Analytics bij [De Haagse Hogeschool](https://hhs.nl) en universitair docent bij de [Vrije Universiteit Amsterdam](https://vu.nl).
 
 ::: column-margin
 ![](/images/_site/Theo%20Bakker_HHs_klein_smal.png){width="400"}

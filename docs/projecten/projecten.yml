@@ -1,0 +1,34 @@
+- title: "Projecten De HHs"
+  # subtitle: "Projecten van De HHs op het gebied van learning analytics, student analytics, institutional analytics en inclusion analytics."
+  links:
+    - text: "Fair ML"
+      href: ../projecten/hhs/fair-ml-ai/
+    - text: "StudentPulse *"
+      href: ../projecten/hhs/studentpulse/
+    - text: "Studiedata *"
+      href: ../projecten/hhs/studiedata/
+    - text: "Instroomanalyses *"
+      href: ../projecten/hhs/instroomanalyses/
+
+- title: "Projecten VU"
+  # subtitle: "Projecten van de VU op het gebied van neurodiversiteit, studievoortgang en studiesucces."
+  links:
+    - text: "Studieverloop en studiesucces van autistische studenten in hoger onderwijs"
+      href: ../projecten/vu/promotie/
+
+- title: "Eerdere projecten"
+  # subtitle: "Eerdere projecten voor de VU of het Versnellingsplan (VP)"
+  links:
+    - text: "Website: doe meer met studiedata (VP) *"
+      href: ../projecten/overige/
+    - text: "Beste Bachelorspel (VU) *"
+      href: ../projecten/overige/
+    - text: "Instroom scenario's na Corona (VU) *"
+      href: ../projecten/overige/
+    - text: "Statistisch handboek studiedata (VP) *"
+      href: ../projecten/overige/
+    - text: "Simulatiedataset (VP) *"
+      href: ../projecten/overige/
+    - text: "Referentiekader (VP) *"
+      href: ../projecten/overige/
+
