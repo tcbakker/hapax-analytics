@@ -409,7 +409,7 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 \`Table: Summary of Posterior Distribution
 
 | Parameter    | Median | 95% CI         | pd   | ROPE            | \% in ROPE | Rhat  | ESS     |
-|:--------|--------:|:--------|:--------|:--------|--------:|:--------|:--------|
+|:-------------|-------:|:---------------|:-----|:----------------|-----------:|:------|:--------|
 | (Intercept)  |   4.30 | \[4.14, 4.46\] | 100% | \[-0.10, 0.10\] |         0% | 1.000 | 3521.00 |
 | Petal.Length |   0.41 | \[0.37, 0.45\] | 100% | \[-0.10, 0.10\] |         0% | 1.000 | 3384.00 |
 
