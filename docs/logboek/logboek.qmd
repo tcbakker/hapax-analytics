@@ -24,6 +24,7 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 -   **Code**:
     -   Video van Riffomonas over het gebruik van [verschillende soorten pipes](https://www.youtube.com/watch?v=TmSwDAvPX2Q) van [Magrittr](https://cran.r-project.org/web/packages/magrittr/vignettes/magrittr.html): exposition pipe %\$%(geeft data door), Tpipe %T\>% (maakt tussentijdse output mogelijk, bijv. een plot of print statement), assignment pipe %\<\>% (update een bestaande variabele: iris\$Sepal.Length %\<\>% sqrt).
     -   Video van Riffomonas over het gebruik van showtext en google.fonts: [How to use a custom font in R with showtext and google fonts](https://www.youtube.com/watch?v=BLCzG5k35xw).
+    -   test 1535 p
 
 #### Vrijdag \| 17-02-2023
 
