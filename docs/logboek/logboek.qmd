@@ -24,7 +24,7 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 -   **Code**:
     -   Video van Riffomonas over het gebruik van [verschillende soorten pipes](https://www.youtube.com/watch?v=TmSwDAvPX2Q) van [Magrittr](https://cran.r-project.org/web/packages/magrittr/vignettes/magrittr.html): exposition pipe %\$%(geeft data door), Tpipe %T\>% (maakt tussentijdse output mogelijk, bijv. een plot of print statement), assignment pipe %\<\>% (update een bestaande variabele: iris\$Sepal.Length %\<\>% sqrt).
     -   Video van Riffomonas over het gebruik van showtext en google.fonts: [How to use a custom font in R with showtext and google fonts](https://www.youtube.com/watch?v=BLCzG5k35xw).
-    -   test 1535 p
+    -   test 1535 m1
 
 #### Vrijdag \| 17-02-2023
 
@@ -409,7 +409,7 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 \`Table: Summary of Posterior Distribution
 
 | Parameter    | Median | 95% CI         | pd   | ROPE            | \% in ROPE | Rhat  | ESS     |
-|:-------------|-------:|:---------------|:-----|:----------------|-----------:|:------|:--------|
+|:--------|--------:|:--------|:--------|:--------|--------:|:--------|:--------|
 | (Intercept)  |   4.30 | \[4.14, 4.46\] | 100% | \[-0.10, 0.10\] |         0% | 1.000 | 3521.00 |
 | Petal.Length |   0.41 | \[0.37, 0.45\] | 100% | \[-0.10, 0.10\] |         0% | 1.000 | 3384.00 |
 
