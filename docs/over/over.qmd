@@ -14,7 +14,7 @@ Mijn naam is Theo Bakker. Ik ben lector Learning Technology & Analytics bij [De 
 
 ## Contact
 
-Dr. Theo C. Bakker [\|]{.pipe} [t.c.bakker\@hhs.nl](mailto:t.c.bakker@hhs.nl) [\|]{.pipe} [t.c.bakker\@vu.nl](mailto:t.c.bakker@vu.nl) [\|]{.pipe} +31 (0)6-2563 7172 [\|]{.pipe} Windroosplein 138, 1018 ZW Amsterdam, Nederland.
+Dr. Theo C. Bakker [\|]{.pipe} [t.c.bakker\@hhs.nl](mailto:t.c.bakker@hhs.nl) [\|]{.pipe} [t.c.bakker\@vu.nl](mailto:t.c.bakker@vu.nl).
 
 {{< fa brands linkedin >}} [linkedin.com/in/theobakker](https://www.linkedin.com/in/theobakker/) [\|]{.pipe} {{< fa brands twitter >}} [@tcbakker](https://twitter.com/tcbakker) [\|]{.pipe} {{< fa brands mastodon >}} [@tcbakker](https://fosstodon.org/@tcbakker) [\|]{.pipe} {{< ai orcid >}} [0000-0002-0735-9636](https://orcid.org/0000-0002-0735-9636) [\|]{.pipe} {{< ai google-scholar >}} [Google Scholar](https://scholar.google.nl/citations?user=uIPLxPMAAAAJ&hl=nl&oi=sra) [\|]{.pipe} {{< ai researchgate >}} [researchgate.net/profile/Theo-Bakker-4](https://www.researchgate.net/profile/Theo-Bakker-4) [\|]{.pipe} {{< fa brands github >}} [github.com/tcbakker](https://github.com/tcbakker)
 
