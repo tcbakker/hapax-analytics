@@ -1,0 +1,39 @@
+---
+title: "Studiedata aan De HHs"
+lang: nl
+language: ../../../../settings/custom-language.yml
+categories: [studiedata]
+fields: [date, reading-time]
+format:
+    html:
+        toc: true
+        toc-depth: 4
+aliases: 
+  - /docs/projecten/hhs/meerjarenplan-studiedata/
+bibliography: ../../../../citations/references.bib
+csl: ../../../../citations/apa.csl
+
+description: Projectplan studiedata aan De HHs
+date: today
+author:
+  - name: Theo Bakker 
+    url: https://hapax-analytics.com/over
+    affiliation: De Haagse Hogeschool
+    affiliation-url: https://hhs.nl
+---
+
+**De Haagse Hogeschool heeft de ambitie om veilig en betrouwbaar studiedata te benutten ten gunste van alle studenten en medewerkers.**
+
+Om dat te bereiken hebben we een centraal team opgericht om de organisatie te voorzien van **actiegerichte inzichten, analyses, rapportages** **en gevalideerde data** over onderwijs en studenten. Doelen zijn beleidsvorming, verbetering van de kwaliteit van het onderwijs en ondersteuning en voor onderzoek. Deze diensten worden op maat geleverd voor studenten, docenten, studieloopbaanbegeleiders, management, onderzoekers én (beleids)medewerkers.
+
+Deze doelgroepen stimuleren we hiermee tot het (verder) benutten van studiedata voor interventies zoals verbetering van curricula en de kwaliteit van het onderwijs, inzichten voor docententeams over hun onderwijs en de studenten die dat volgen, beter inzicht in het succes studenten en welke adviezen of interventies daarvoor nuttig zijn per student, gerichte ontwikkeling van onderwijsbeleid op basis van evidence.
+
+De informatie wordt beschikbaar gesteld op een veilige en betrouwbare manier, die recht doet aan ethische en privacyaspecten. Er zijn drie werksporen ingericht:
+
+1.  Een werkspoor waarin de *randvoorwaarden* voor het benutten van studiedata worden gecreëerd.
+2.  Een werkspoor dat zich richt op de *inhoudelijke doorontwikkeling* van analyses en rapportages én het gebruik hiervan door verschillende doelgroepen.
+3.  Een werkspoor dat zich richt op het uitvoeren van *experimenten & interventies*.
+
+De methode van het team is overgenomen van de Vrije Universiteit van VU Analytics. Ik heb het oorspronkelijke projectvoorstel geschreven en ben nu bij dit project betrokken als lector.
+
+![](images/paste-3D5F1234.png)

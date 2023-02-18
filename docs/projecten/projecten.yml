@@ -1,34 +1,36 @@
-- title: "Projecten De HHs"
-  # subtitle: "Projecten van De HHs op het gebied van learning analytics, student analytics, institutional analytics en inclusion analytics."
+- title: "HHs Projecten"
+  subtitle: "Huidige projecten"
   links:
-    - text: "Fair ML"
+    - text: "Fair ML & AI"
       href: ../projecten/hhs/fair-ml-ai/
-    - text: "StudentPulse *"
-      href: ../projecten/hhs/studentpulse/
-    - text: "Studiedata *"
-      href: ../projecten/hhs/studiedata/
-    - text: "Instroomanalyses *"
-      href: ../projecten/hhs/instroomanalyses/
+    # - text: "StudentPulse *"
+    #   href: ../projecten/hhs/studentpulse/
+    - text: "Studiedata aan De HHs"
+      href: ../projecten/hhs/meerjarenplan-studiedata/
+    # - text: "Instroomanalyses *"
+    #   href: ../projecten/hhs/instroomanalyses/
 
-- title: "Projecten VU"
-  # subtitle: "Projecten van de VU op het gebied van neurodiversiteit, studievoortgang en studiesucces."
+- title: "VU Projecten"
+  subtitle: "Promotie en huidige projecten"
   links:
     - text: "Studieverloop en studiesucces van autistische studenten in hoger onderwijs"
       href: ../projecten/vu/promotie/
 
-- title: "Eerdere projecten"
-  # subtitle: "Eerdere projecten voor de VU of het Versnellingsplan (VP)"
+- title: "VU Analytics"
+  subtitle: "Eerdere projecten"
   links:
-    - text: "Website: doe meer met studiedata (VP) *"
-      href: ../projecten/overige/
-    - text: "Beste Bachelorspel (VU) *"
-      href: ../projecten/overige/
-    - text: "Instroom scenario's na Corona (VU) *"
-      href: ../projecten/overige/
-    - text: "Statistisch handboek studiedata (VP) *"
-      href: ../projecten/overige/
-    - text: "Simulatiedataset (VP) *"
-      href: ../projecten/overige/
-    - text: "Referentiekader (VP) *"
-      href: ../projecten/overige/
+    - text: "Beste Bachelorspel"
+      href: ../projecten/overige/beste-bachelor-spel/
+    - text: "Corona instroomscenario's"
+      href: ../projecten/overige/corona-instroomscenarios/
+
+- title: "Versnellingsplan"
+  subtitle: "Eerdere projecten"
+  links:
+    - text: "Doe meer met studiedata"
+      href: ../projecten/overige/doe-meer-met-studiedata/
+    - text: "Statistisch handboek studiedata"
+      href: ../projecten/overige/statistisch-handboek-studiedata/
+    - text: "Simulatiedataset universiteiten"
+      href: ../projecten/overige/simulatiedataset-universiteiten/
 

@@ -26,11 +26,14 @@ website:
   page-footer:
     border: true
     background: light
-    left: "Gepubliceerd met [Quarto](https://quarto.org/) <?quarto.version?> | &copy; 2023 [Hapax Analytics](/), [Theo Bakker](/over.html) | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
-  cookie-consent: false
-#    type: express
-#    style: headline
-#    palette: light
+    left: "Gepubliceerd met [Quarto](https://quarto.org/) <?quarto.version?> | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [Cookie voorkeuren]{#open_preferences_center} | &copy; 2023 [Hapax Analytics](/), [Theo Bakker](/over.html)"
+  cookie-consent:
+    type: express
+    style: headline
+    palette: light
+  google-analytics:
+    tracking-id: "G-PDK5LEDR5G"
+    anonymize-ip: true
   navbar:
     title: Hapax Analytics
     subtitle: Analytics in het hoger onderwijs
@@ -74,38 +77,43 @@ website:
   sidebar:
   - id: projecten
     style: "floating"
-    collapse-level: 2
+    collapse-level: 3
     align: left
     background: none
     contents:
     - section: "Projecten HHs"
       contents:
-      - text: "Fair ML"
+      - text: "Fair ML & AI"
         href: docs/projecten/hhs/fair-ml-ai/
-      - text: "StudentPulse *"
-        href: docs/projecten/hhs/studentpulse/
-      - text: "Studiedata *"
-        href: docs/projecten/hhs/studiedata/
-      - text: "Instroomanalyses *"
-        href: docs/projecten/hhs/instroomanalyses/
+      # - text: "StudentPulse *"
+      #   href: docs/projecten/hhs/studentpulse/
+      - text: "Studiedata aan De HHs"
+        href: docs/projecten/hhs/meerjarenplan-studiedata/
+      # - text: "Instroomanalyses *"
+      #   href: docs/projecten/hhs/instroomanalyses/
+    - text: "---"
     - section: "Projecten VU"
       contents:
       - text: "Studieverloop en studiesucces van autistische studenten in hoger onderwijs"
         href: docs/projecten/vu/promotie/
+    - text: "---"
     - section: "Overige projecten"
       contents:
-      - text: "Doe meer met studiedata *"
-        href: docs/projecten/overige/doe-meer-met-studiedata/
-      - text: "Beste Bachelorspel *"
-        href: docs/projecten/overige/beste-bachelor-spel/
-      - text: "Corona instroomscenario's *"
-        href: docs/projecten/overige/corona-instroom-scenarios/
-      - text: "Statistisch handboek studiedata *"
-        href: docs/projecten/overige/statistisch-handboek-studiedata/
-      - text: "Simulatiedataset *"
-        href: docs/projecten/overige/simulatiedataset/
-      - text: "Referentiekader *"
-        href: docs/projecten/overige/referentiekader/
+      - section: "VU Analytics"
+        contents:
+        - text: "Beste Bachelorspel"
+          href: docs/projecten/overige/beste-bachelor-spel/
+        - text: "Corona instroomscenario's"
+          href: docs/projecten/overige/corona-instroomscenarios/
+      - text: "---"
+      - section: "Versnellingsplan"
+        contents:
+        - text: "Doe meer met studiedata"
+          href: docs/projecten/overige/doe-meer-met-studiedata/
+        - text: "Statistisch handboek studiedata"
+          href: docs/projecten/overige/statistisch-handboek-studiedata/
+        - text: "Simulatiedataset universiteiten"
+          href: docs/projecten/overige/simulatiedataset-universiteiten/
 
 format:
   html:

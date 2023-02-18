@@ -1,0 +1,27 @@
+---
+title: "Simulatiedataset universiteiten"
+lang: nl
+language: ../../../../settings/custom-language.yml
+categories: [Versnellingsplan, studiedata]
+fields: [date, reading-time]
+format:
+    html:
+        toc: true
+        toc-depth: 4
+aliases: 
+  - /docs/projecten/overige/simulatiedataset-universiteiten/
+  
+description: Projectbeschrijving Simulatiedataset universiteiten
+date: today
+author:
+  - name: Theo Bakker 
+    url: https://hapax-analytics.com/over
+    affiliation: Versnellingsplan
+    affiliation-url: https://versnellingsplan.nl
+---
+
+![](images/02-Simulatiedataset_zonder-blok-1-scaled.jpg)
+
+De 'simulatiedataset universiteiten' is een **synthetische dataset** gemaakt door de VU en de EUR in het kader van het Versnellingsplan. Met deze dataset kunnen studenten, docenten en onderzoekers aan de slag met privacygevoelige studentdata, zonder daarvoor daadwerkelijk met data van een universiteit te werken. De data zijn gebaseerd op de echte data van een universiteit, maar zijn zo afgeleid dat ze niet meer terug te herleiden zijn tot echte studenten. Door deze dataset te gebruiken kun algoritmes en analyses gedeeld worden zonder dat de privacy van studenten in het geding komt.
+
+Het project is uitgevoerd door Dominique van Deursen (EUR - projectleider), Jurriaan Janssen (VU) en Katja van der Perk (VU). Ik heb het concept bedacht en review gedaan op het werk. De scripts voor deze dataset en de dataset zelf zijn beschikbaar via Bitbucket. Ik hoop een dergelijke dataset ook een keer te kunnen maken voor hogescholen.

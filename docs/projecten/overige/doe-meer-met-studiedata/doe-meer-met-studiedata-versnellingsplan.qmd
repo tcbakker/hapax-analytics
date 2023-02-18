@@ -8,16 +8,24 @@ format:
     html:
         toc: true
         toc-depth: 4
-
-description: Projectbeschrijving doe-meer-met-studiedata.nl van het Versnellingsplan.
-date: 1/7/2023
+aliases: 
+  - /docs/projecten/overige/doe-meer-met-studiedata/
+  
+description: Projectbeschrijving doe-meer-met-studiedata.nl
+date: 2/17/2023
 author:
   - name: Theo Bakker 
     url: https://hapax-analytics.com/over
-    affiliation: De Haagse Hogeschool
-    affiliation-url: https://hhs.nl
+    affiliation: Versnellingsplan
+    affiliation-url: https://versnellingsplan.nl
 ---
+
+![](images/image-1451641926.png)
 
 Toen ik nog werkte als aanvoerder van de Zone Studiedata voor het Versnellingsplan Onderwijsinnovatie met ICT heb ik meegewerkt aan de bouw van de website [doe-meer-met-studiedata.nl](https://doe-meer-met-studiedata.nl).
 
-De site bevat een uitwerking van de betekenis van studiedata voor verschillende doelgroepen in het hoger onderwijs. Bij elke doelgroep is uitgewerkt wat ze eraan zouden hebben als studiedata meer wordt gebruikt, wat hun ideaal is en welke randvoorwaarden daarvoor van belang zijn.
+De site bevat in het onderdeel '**Data journeys**' een uitwerking van de betekenis van studiedata voor verschillende doelgroepen in het hoger onderwijs: studenten, docenten, studieadviseurs/studentbegeleiders, opleidingsmanagers, beleidsmedewerkers, ondersteuners, bestuurders en onderzoekers. Bij elke doelgroep is uitgewerkt wat zij eraan kunnen hebben als studiedata meer wordt gebruikt, wat hun idealen en zorgen zijn en welke randvoorwaarden daarvoor van belang zijn.
+
+In het onderdeel '**Datagedreven werken in de praktijk**' kan je lezen welke aspecten er zitten aan studiedata in het hoger onderwijs en hoe die al worden ingezet. Daarnaast vind je er een '**Quickscan studiedata**' om te bepalen hoe volwassen de ontwikkeling van de randvoorwaarden voor studiedata in je onderwijsinstelling is in relatie tot de ambities die er zijn. Dit is ingedeeld op de thema's Strategie, Personeel en training, Processen, Governance en IT.
+
+In het onderdeel '**Referentiekader privacy en ethiek**' vind je een toelichting op het landelijke referentiekader dat is ontwikkeld om studiedata te gebruiken.

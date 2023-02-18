@@ -13,7 +13,7 @@ aliases:
 bibliography: ../../../../citations/references.bib
 csl: ../../../../citations/apa.csl
 
-description: Fair AI en Machine Learning in relatie tot het gebruik van studiedata.
+description: Fair Machine Learning en AI in relatie tot het gebruik van studiedata
 date: 1/7/2023
 author:
   - name: Theo Bakker 
@@ -30,18 +30,17 @@ In mijn promotieonderzoek [@tbakker2022] heb ik met behulp van een statistisch m
 
 Mijn onderzoekslijn inclusion analytics heeft betrekking op bias en fairness in data analytics, machine learning en AI in het Nederlands hoger onderwijs. Dit artikel is een theoretische primer op het onderwerp aan de hand van een aantal artikelen.
 
-*Verdere opbouw van dit onderwerp (volgt):*
+### Wat is eerlijk?
+
+Een eenduidige definitie van eerlijkheid in relatie tot machine learning is er niet. Dit hangt samen met de verschillende ideeën over wat eerlijk is. De verschillende beelden over eerlijkheid zijn van invloed op de oplossing van oneerlijkheid en eventuele correctie van data of analyses. Gaat het bij het begrip 'eerlijk' om gelijke kansen aan de start van de studie of ook tijdens de studie? [@fishkin2014b]
+
+##### Verdere opbouw van dit onderwerp (volgt):
 
 -   welke biases komen voor op welke plek in het data science proces?
 -   wat zijn voorbeelden uit de praktijk van het onderwijs?
 -   welke begrippen van fairness zijn er?
--   wat zijn voorbeelden uit de praktijk van het onderwijs?
 -   wat kunnen we doen om bias te reduceren en fairness te verhogen?
 -   wat zijn daarvan de voordelen en de trade-offs?
 -   next steps
-
-### Wat is eerlijk?
-
-Een eenduidige definitie van eerlijkheid in relatie tot machine learning is er niet. Dit hangt samen met de verschillende ideeën over wat eerlijk is. De verschillende beelden over eerlijkheid zijn van invloed op de oplossing van oneerlijkheid en eventuele correctie van data of analyses. Gaat het bij het begrip 'eerlijk' om gelijke kansen aan de start van de studie of ook tijdens de studie? [@fishkin2014b]
 
 ### 

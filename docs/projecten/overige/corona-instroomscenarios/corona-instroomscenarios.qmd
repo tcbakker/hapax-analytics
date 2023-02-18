@@ -1,0 +1,31 @@
+---
+title: "Corona instroomscenario's"
+lang: nl
+language: ../../../../settings/custom-language.yml
+categories: [VU, studiedata, institutional analytics, student analytics]
+fields: [date, reading-time]
+format:
+    html:
+        toc: true
+        toc-depth: 4
+aliases: 
+  - /docs/projecten/overige/corona-instroomscenarios/
+  
+description: Projectbeschrijving Corona instroomscenario's
+date: today
+author:
+  - name: Theo Bakker 
+    url: https://hapax-analytics.com/over
+    affiliation: VU  / VU Analytics
+    affiliation-url: https://vu.nl
+---
+
+![](images/paste-C6EABB8E.png)
+
+Vanwege de **Corona pandemie** zijn allerlei maatregelen werden genomen om studenten geen vertraging te laten oplopen. Zo werden de exameneisen in het voortgezet onderwijs versoepeld, konden hbo-studenten ook zonder propedeuse al doorstromen, konden bachelor studenten al doorstromen naar een master zonder diploma, werd het BSA tijdelijk niet gehanteerd, maar hadden we ook te maken met inreisproblemen voor internationale studenten. Dit zou een enorme impact hebben op de **instroom en doorstroom van studenten** in het hoger onderwijs.
+
+Het was vrijwel mogelijk om dit statistisch te modelleren, aangezien de situatie compleet nieuw was. Ook zouden de verschillende maatregelen elkaar weer kunnen beïnvloeden. Om die reden heb ik met de collega's van het team VU Analytics een dashboard ontwikkeld waarin we deze effecten konden **simuleren**. In sessies met beleidsmedewerkers en opleidingsdirecteuren, bespraken we wat mogelijke effecten zouden kunnen zijn en hoe we die zouden moeten inbouwen in de simulatie.
+
+Dit heeft geresulteerd in een prognose van een **enorme groei** van het aantal studenten aan de VU die we anders hadden verwacht een paar jaar later. Deze verwachtingen bleken uit te komen.
+
+Over deze analyse heb ik een **webinar** gegeven, waarvan je het [materiaal](https://surfdrive.surf.nl/files/index.php/s/z6zSdKrAKFo1fWA) kan nakijken.

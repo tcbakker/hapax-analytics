@@ -1,0 +1,33 @@
+---
+title: "Statistisch Handboek Studiedata"
+lang: nl
+language: ../../../../settings/custom-language.yml
+categories: [Versnellingsplan, studiedata, statistiek]
+fields: [date, reading-time]
+format:
+    html:
+        toc: true
+        toc-depth: 4
+aliases: 
+  - /docs/projecten/overige/statistisch-handboek-studiedata/
+  
+description: Projectbeschrijving Statistisch Handboek Studiedata
+date: today
+author:
+  - name: Theo Bakker 
+    url: https://hapax-analytics.com/over
+    affiliation: Versnellingsplan
+    affiliation-url: https://versnellingsplan.nl
+---
+
+![](images/paste-30DE93FD.png)
+
+Het online [Statistisch Handboek Studiedata](https://sh-studiedata.nl/) is gemaakt om het gebruik van **statistische toetsen in het hoger onderwijs** te verbeteren. Het maakte onderdeel uit van het Versnellingsplan Onderwijsinnovatie met ICT. Het handboek dient als een gemeenschappelijk standaard voor het toetsen van analyses op studiedata in het hoger onderwijs om de validiteit en betrouwbaarheid van beleidsadviezen te waarborgen.
+
+De basis voor het handboek is een **toetsmatrix**, waarin de meest voorkomende toetsen afzonderlijk uitgewerkt zijn. Elke toets bevat:
+
+-   een omschrijving waarvoor een toets gebruikt kan worden
+-   een casus uit het onderwijs
+-   assumpties (statistische randvoorwaarden) die bij de toetsen
+-   code voor uitvoering in R en Python
+-   een voorbeeldtekst die gebruikt kan worden in een rapportage over de uitkomsten

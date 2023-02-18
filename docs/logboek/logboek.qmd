@@ -14,6 +14,35 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 
 ### Februari 2023
 
+#### Zaterdag \| 18-02-2023
+
+-   **Dynamic reporting**:
+    -   [Reproducible data reports with Quarto](Reproducible%20data%20reports%20with%20Quarto%20Rhian%20Davies%20&%20Nicola%20Rennie), Rhian Davies & Nicola Rennie ([repo](https://github.com/jumpingrivers/RSS-reproducible-data-reports-with-Quarto)). Zie ook [Automated Reporting](https://nrennie.rbind.io/portfolio/automated-reporting/) op haar website ([repo](https://github.com/nrennie/capital-bikeshare-report)).
+    -   Een voorbeeld van Posit met Pyhton dat ingaat op de pijplijn: [Building a reporting infrastructure with Quarto](https://posit.co/blog/building-a-reporting-infrastructure-with-quarto/), eventueel naar Word of Powerpoint.
+    -   Een variabel voorbeeld: [How to use Quarto for Parameterized Reporting](https://www.mm218.dev/posts/2022-08-04-how-to-use-quarto-for-parameterized-reporting/). Maakt gebruik van Quarto [parameters](https://quarto.org/docs/computations/parameters.html).
+-   **Markdown**: [nameR package](https://github.com/jumpingrivers/nameR) van Jumping Rivers om chuncks in Markdown automatisch een naam te geven.
+-   **Code**:
+    -   Video van Riffomonas over het gebruik van [verschillende soorten pipes](https://www.youtube.com/watch?v=TmSwDAvPX2Q) van [Magrittr](https://cran.r-project.org/web/packages/magrittr/vignettes/magrittr.html): exposition pipe %\$%(geeft data door), Tpipe %T\>% (maakt tussentijdse output mogelijk, bijv. een plot of print statement), assignment pipe %\<\>% (update een bestaande variabele: iris\$Sepal.Length %\<\>% sqrt).
+    -   Video van Riffomonas over het gebruik van showtext en google.fonts: [How to use a custom font in R with showtext and google fonts](https://www.youtube.com/watch?v=BLCzG5k35xw).
+
+#### Vrijdag \| 17-02-2023
+
+-   **Publieke waarden**: [Sphere Transgression Watch](https://sphere-transgression-watch.org/) - website met sferen en de invloed van Big Tech daarop.
+-   **Visualisaties:**
+    -   Werder gegaan met opbouw van ggplotkennis aan de hand van [Graphic Design with ggplot2](https://rstudio-conf-2022.github.io/ggplot2-graphic-design/) (facets, scales en coordinate systems).
+
+    -   Fantastische werk van [Nicola Rennie](https://nrennie.rbind.io/) bekeken, data scientist bij Jumping Rivers. ![](images/20230207.png){width="600"}
+
+    -   Zie ook haar slides over [Styling {ggplot2} graphics for accessibility](https://nrennie.rbind.io/talks/2022-october-rladies-london/slides.html#/title-slide).
+
+    -   Zie ook [Writing Alt Text for Data Visualization](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81) van Amy Cesal.\
+        ![](images/1_Ub9OzmeHzT4qlEgdgij5zA.webp){width="600"}
+
+#### Donderdag \| 16-02-2023
+
+-   **Visualisaties**: verder gegaan met opbouw van ggplotkennis aan de hand van [Graphic Design with ggplot2](https://rstudio-conf-2022.github.io/ggplot2-graphic-design/).
+-   **Visualisaties**: website met overzicht van [ggplot2 extensies](https://exts.ggplot2.tidyverse.org/gallery/).
+
 #### Maandag \| 13-02-2023
 
 -   **ADHD**: Afgerond Faraone, S. V., Asherson, P., Banaschewski, T., Biederman, J., Buitelaar, J. K., Ramos-Quiroga, J. A., ... Franke, B. (2015). Attention-deficit/hyperactivity disorder. *Nature Reviews Disease Primers*, *1*(1), 15020. doi: 10.1038/nrdp.2015.20. Primer over ADHD.
@@ -379,7 +408,7 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 \`Table: Summary of Posterior Distribution
 
 | Parameter    | Median | 95% CI         | pd   | ROPE            | \% in ROPE | Rhat  | ESS     |
-|:-------------|-------:|:---------------|:-----|:----------------|-----------:|:------|:--------|
+|:--------|--------:|:--------|:--------|:--------|--------:|:--------|:--------|
 | (Intercept)  |   4.30 | \[4.14, 4.46\] | 100% | \[-0.10, 0.10\] |         0% | 1.000 | 3521.00 |
 | Petal.Length |   0.41 | \[0.37, 0.45\] | 100% | \[-0.10, 0.10\] |         0% | 1.000 | 3384.00 |
 

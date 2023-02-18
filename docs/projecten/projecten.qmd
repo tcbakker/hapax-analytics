@@ -13,7 +13,7 @@ format:
         toc: true
 ---
 
-Ik werk aan onderstaande onderzoeksprojecten bij De Haagse Hogeschool en de VU. Verder heb ik een aantal projecten opgenomen waar ik bij betrokken was in mijn vorige banen. Van projecten met een * is nog geen beschrijving beschikbaar.
+Ik werk aan onderstaande (onderzoeks)projecten bij De Haagse Hogeschool en de VU. Verder heb ik een aantal projecten opgenomen waar ik bij betrokken was in mijn vorige banen. Van projecten met een \* is nog geen beschrijving beschikbaar.
 
 ::: {#guide-links .column-screen-inset-right style="max-width: 850px;"}
 :::

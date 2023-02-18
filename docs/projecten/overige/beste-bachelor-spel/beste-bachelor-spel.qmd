@@ -1,0 +1,33 @@
+---
+title: "De Beste Bachelor"
+lang: nl
+language: ../../../../settings/custom-language.yml
+categories: [VU, studiedata, student analytics]
+fields: [date, reading-time]
+format:
+    html:
+        toc: true
+        toc-depth: 4
+aliases: 
+  - /docs/projecten/overige/beste-bachelor-spel/
+  
+description: Projectbeschrijving De Beste Bachelor van VU Analytics
+date: today
+author:
+  - name: Theo Bakker 
+    url: https://hapax-analytics.com/over
+    affiliation: VU  / VU Analytics
+    affiliation-url: https://vu.nl
+---
+
+![](images/VU_De_Beste_bachelor_large_1182x801.png){fig-align="center" width="664"}
+
+Het '**De Beste Bachelor'** spel hebben we gemaakt om opleidingen op een speelse manier kennis te laten maken met de data en inzichten over hun studenten. Het spel is ontwikkeld met opleidingsdirecteuren, opleidingscoördinatoren, studieadviseurs, kwaliteitszorgmedewerkers, studentendecanen, studenten en docenten.
+
+Het **speelbord** bestond uit 3 studiejaren waarop gebeurtenissen plaatsvonden die in elke opleiding van de VU 'speelden'. Het starten van de studie, het eerste jaar wel of niet halen, een minor, een afstudeerproject en zo voorts.
+
+De spelers spelen met **persona's** van studenten. Het doel van het spel is dat alle studenten een diploma behalen en - aan het eind van de rit - ook nog gelukkig zijn;hun welzijn is net zo belangrijk als het behalen van een diploma. Daarnaast is er een beperking aan de financiering, dus daar dienen de spelers ook rekening mee te houden.
+
+De samenstelling van een cohort en de kans van slagen voor de studenten wordt bepaald door de **historische samenstelling** van de studentenpopulatie en hun kansen op succes. Daarnaast waren er **kanskaarten** die invloed hadden op je studieroute. Deze kwamen uit de praktijk van studieadviseurs, bijvoorbeeld het winnen van een beurs of extra tijd die je nodig hebt omdat je mantelzorger wordt.
+
+Het spel biedt aanknopingspunten voor het **verbeteren van beleid** (door het inzicht dat ontstaat over de zaken die studenten tegenkomen tijdens hun studie) **of begeleiding** (wat er voor individuele studenten zoal aan de hand kan zijn). Het spelconcept is bedacht door [MSG Stratetegies](https://www.msgstrategies.nl/) en vormgegeven door [Hens Concept & Motion Graphic Design](https://www.indehens.nl/). Het spel is eigendom van de [VU](https://vu.nl/nl).
