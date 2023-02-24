@@ -30,7 +30,7 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 
     -   [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) - gids van Claus Wilke voor verschillende soorten visulisaties in ggplot met do's en don'ts ([code](https://github.com/wilkelab/practicalgg) voor een aantal voorbeelden).
 
-    -   ![](images/cover.png){width="600"}
+![](images/cover.png){fig-align="center" width="300"}
 
 #### Donderdag \| 23-02-2023
 
