@@ -14,6 +14,73 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 
 ### Februari 2023
 
+#### Vrijdag \| 24-02-2023
+
+-   **Visualisaties**:
+    -   [Van invasie tot vechten om elke meter](https://www.nrc.nl/nieuws/2023/02/23/van-invasie-tot-vechten-om-elke-meter-de-oorlog-in-oekraine-in-tien-sleutelmomenten-a4156656): de oorlog in Oekraïne in tien sleutelmomenten: ontwikkeling van de oorlog met een indrukwekkend filmpje van de kaart van Oekraïne door het NRC.\
+        ![](images/Scherm%C2%ADafbeelding%202023-02-24%20om%2007.55.35.png){width="600"}
+
+    -   [ggforce](https://ggforce.data-imaginist.com/index.html): package met aanvullingen op ggplot voor complexere grafieken. Met name de annotatiemogelijkheden lijken interessant.
+
+    -   [Multiscales](https://github.com/clauswilke/multiscales): package om een kleurenlegenda te maken met 2 dimensies, bijv. voorspeld stemgedrag en mate van onzekerheid. Zou bijvoorbeeld gebruikt kunnen worden voor de mate van zekerheid over uitval in een opleiding in verschillende onderwijsperioden.\
+        ![](images/README-unnamed-chunk-2-1.png){width="600"}
+
+    -   [Cowplot](https://wilkelab.org/cowplot/index.html): package om plots op een grid met elkaar uit te lijnen (zowel fysiek, als op assen); andere mogelijkheden: een [dual axis plot](https://wilkelab.org/cowplot/articles/aligning_plots.html), inset afbeeldingen, gedeelde titels, gedeelde legenda's.\
+        ![](images/unnamed-chunk-12-1.png){width="600"}
+
+    -   [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) - gids van Claus Wilke voor verschillende soorten visulisaties in ggplot met do's en don'ts ([code](https://github.com/wilkelab/practicalgg) voor een aantal voorbeelden).
+
+    -   ![](images/cover.png){width="600"}
+
+#### Donderdag \| 23-02-2023
+
+-   **Evidence based / evidence informed:**
+    -   [How can I become a numbers person](https://questionsindataviz.com/2022/08/01/how-can-i-become-a-numbers-person/). Mooi interview van Neil Richards met Selena Frisk over haar boek "[I'm not a numbers person: How to make good decisions in a data-rich world](https://questionsindataviz.com/2022/08/01/how-can-i-become-a-numbers-person/)". Interessante beeldspraak over data informed versus data driven (vergelijking met een paard op een racebaan met en zonder oogkleppen).\
+        "When a horse wears blinkers, the blinkers are beside their eyes and the idea is that it shuts out the context and what's happening around them so they don't get distracted. The idea is that they're focusing on the finish line and they're trying to get there; that's their focus. But the position that they finish in the race is completely dependent on the stuff that's happening around them. 
+
+        > For me that's what data driven is, and data informed is when the blinkers are off. 
+
+        We look at the numbers, we triangulate the data, so we're making decisions across a number of different sets of information. We're looking at elements like point in time and longitudinal. We're considering the context of--it might be the financial climate, it might be geography, it might be seasonal, or it might be the strengths of the team that you're working with. Any of those other contextual factors--some of which you could argue fits into the qualitative data piece as well-- that contextual understanding to inform the decisions that you're making alongside the numbers. We've got to keep humans in the analysis -- in the decisions."
+
+    -   Uit haar boek vind ik dit ook interessant model.
+
+    -   ![](images/image-1932383482.png){width="600"}
+
+    -   Verder een interessant verschil tussen data literacy en data fluency.
+-   **Visualisaties**: [Is white space always your friend?](https://questionsindataviz.com/2018/01/06/is-white-space-always-your-friend/) Mooie blogpost over de waarde van annotaties in grafieken van Neil Richards.\
+    ![](images/swd-line-chart-neil1.webp){width="600"}
+
+#### Woensdag \| 22-02-2023
+
+-   **Text mining**: [Text mining in R for the social sciences and digital humanities](https://tm4ss.github.io/docs/index.html). Verschillende methoden met tutorials om text mining toe te passen in de sociale wetenschappen.
+-   **Visualisaties**:
+    -   [Chart Chooser](https://dataviz5.wordpress.com/) - hulpmiddel voor het kiezen van een visualisatie afhankelijk van het soort data. Deze website bevat een toelichting en uitwerking van deze charts in Tableau.\
+        ![](images/image-1818771102.png){width="600"}
+
+    -   [From data to viz](https://www.data-to-viz.com/): Gaat een stuk verder dan het bovenstaande model, met voorbeelden van projecten en data.\
+        ![](images/image-823448875.png){width="600"}
+-   **Presentaties**: [Extreme Presentation Method](https://extremepresentation.com/) - methode voor aansprekende, actiegerichte presentaties.
+-   **Visualisaties**: Weissgerber, T. L., Milic, N. M., Winham, S. J. & Garovic, V. D. Beyond Bar and Line Graphs: Time for a New Data Presentation Paradigm. *Plos Biol* **13**, e1002128 (2015). Studie naar alternatieve weergave van onderzoeksdata (met name bij kleinere aantallen en paired findings). Cédric Scherer heeft op deze figuren een aantal [suggesties voor verbetering gemaakt](https://rstudio-conf-2022.github.io/ggplot2-graphic-design/materials/04_data_communication.pdf).\
+    ![](images/image-1800451090.png){width="600"}
+-   ![](images/image-1218060183.png){width="600"}
+
+#### Dinsdag \| 21-02-2023
+
+-   **Visualisaties**: [Data Communication](https://rstudio-conf-2022.github.io/ggplot2-graphic-design/modules/d1-09_data_com.html) - Heel interessante presentatie over best practices in visualisaties en hoe grafieken opinie kunnen beïnvloeden van Cédric Scherer. Zie in het bijzonder pagina's 39 en volgende.\
+    ![](images/image-1746867707.png){width="600"}
+
+#### Maandag \| 20-02-2023
+
+-   **Autisme**: Flegenheimer, C., & Scherf, K. S. (2022). College as a Developmental Context for Emerging Adulthood in Autism: A Systematic Review of What We Know and Where We Go from Here. *Journal of Autism and Developmental Disorders*, *52*(5), 2075--2097. https://doi.org/10.1007/s10803-021-05088-4. Overzichtsstudie van studiesucces en interventies in vergelijking met neurotypische studenten. Goede aanknopingspunten voor vervolgonderzoek.
+
+#### Zondag \| 19-02-2023
+
+-   **Visualisaties**:
+    -   Tableau en ggplot: [Tableau color palettes voor ggplot](https://jrnold.github.io/ggthemes/reference/tableau_color_pal.html#examples) - een uitleg over de kleurenpalettes voor Tableau voor ggplot
+    -   [BBC Cookbook](https://bbc.github.io/rcookbook/#how_to_create_bbc_style_graphics) - uitwerking van een cookbook voor ggplot van de BBC. Een prachtig voorbeeld van een systematische uitwerking van grafieken. Begonnen met een versie voor De HHs / het hoger onderwijs.
+
+![](images/download-14.png){fig-align="center" width="600"}
+
 #### Zaterdag \| 18-02-2023
 
 -   **Dynamic reporting**:
@@ -24,7 +91,6 @@ Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix v
 -   **Code**:
     -   Video van Riffomonas over het gebruik van [verschillende soorten pipes](https://www.youtube.com/watch?v=TmSwDAvPX2Q) van [Magrittr](https://cran.r-project.org/web/packages/magrittr/vignettes/magrittr.html): exposition pipe %\$%(geeft data door), Tpipe %T\>% (maakt tussentijdse output mogelijk, bijv. een plot of print statement), assignment pipe %\<\>% (update een bestaande variabele: iris\$Sepal.Length %\<\>% sqrt).
     -   Video van Riffomonas over het gebruik van showtext en google.fonts: [How to use a custom font in R with showtext and google fonts](https://www.youtube.com/watch?v=BLCzG5k35xw).
-    -   test 1535 m1
 
 #### Vrijdag \| 17-02-2023
 

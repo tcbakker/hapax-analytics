@@ -10,7 +10,7 @@ format:
 
 Mijn naam is Theo Bakker. Ik ben lector Learning Technology & Analytics bij [De Haagse Hogeschool](https://www.dehaagsehogeschool.nl/) en universitair docent bij de [Vrije Universiteit Amsterdam](https://vu.nl/nl). Ik ben 52 jaar oud en ben getrouwd; ik heb twee kinderen en woon in Amsterdam.
 
-![](images/Theo_Bakker_HHs_klein.jpg){.use-border .preview-image fig-alt="Theo Bakker" fig-align="center"}
+![Theo Bakker | fotografie: David Meulenbeld](images/Theo_Bakker_HHs_klein.jpg){.use-border .preview-image fig-alt="Theo Bakker" fig-align="center"}
 
 ## Contact
 
