@@ -10,13 +10,13 @@ format:
 
 Mijn naam is Theo Bakker. Ik ben lector Learning Technology & Analytics bij [De Haagse Hogeschool](https://www.dehaagsehogeschool.nl/) en universitair docent bij de [Vrije Universiteit Amsterdam](https://vu.nl/nl). Ik ben 52 jaar oud en ben getrouwd; ik heb twee kinderen en woon in Amsterdam.
 
-![Theo Bakker | fotografie: David Meulenbeld](images/Theo_Bakker_HHs_klein.jpg){.use-border .preview-image fig-alt="Theo Bakker" fig-align="center"}
+![Theo Bakker \| fotografie: David Meulenbeld](images/Theo_Bakker_HHs_klein.jpg){.use-border .preview-image fig-alt="Theo Bakker" fig-align="center"}
 
 ## Contact
 
 Dr. Theo C. Bakker [\|]{.pipe} [t.c.bakker\@hhs.nl](mailto:t.c.bakker@hhs.nl) [\|]{.pipe} [t.c.bakker\@vu.nl](mailto:t.c.bakker@vu.nl).
 
-{{< fa brands linkedin >}} [linkedin.com/in/theobakker](https://www.linkedin.com/in/theobakker/) [\|]{.pipe} {{< fa brands twitter >}} [@tcbakker](https://twitter.com/tcbakker) [\|]{.pipe} {{< fa brands mastodon >}} [@tcbakker](https://fosstodon.org/@tcbakker) [\|]{.pipe} {{< ai orcid >}} [0000-0002-0735-9636](https://orcid.org/0000-0002-0735-9636) [\|]{.pipe} {{< ai google-scholar >}} [Google Scholar](https://scholar.google.nl/citations?user=uIPLxPMAAAAJ&hl=nl&oi=sra) [\|]{.pipe} {{< ai researchgate >}} [researchgate.net/profile/Theo-Bakker-4](https://www.researchgate.net/profile/Theo-Bakker-4) [\|]{.pipe} {{< fa brands github >}} [github.com/tcbakker](https://github.com/tcbakker)
+{{< fa brands linkedin >}} linkedin.com/in/theobakker | {{< fa brands twitter >}}  | {{< fa brands mastodon >}}  | {{< ai orcid >}} 0000-0002-0735-9636 | {{< ai google-scholar >}} Google Scholar | {{< ai researchgate >}} researchgate.net/profile/Theo-Bakker-4 | {{< fa brands github >}} github.com/tcbakker
 
 ## Profiel
 

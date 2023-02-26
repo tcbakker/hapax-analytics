@@ -9,13 +9,48 @@ format:
 ---
 
 ::: {style="color: gray"}
-Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix van hoger onderwijs, neurodiversiteit, inclusie, studiesucces, data science en coderen in R.
+Mijn dagelijkse activiteiten in relatie tot mijn interesesses en werk: een mix van hoger onderwijs, neurodiversiteit, inclusie, studiesucces, data science, AI, Machine Learning en coderen in R.
 :::
 
 ### Februari 2023
 
+#### Zondag \| 26-02-2023
+
+-   **AI**: [Generative AI Won't Revolutionize Search --- Yet](https://hbr.org/2023/02/generative-ai-wont-revolutionize-search-yet): artikel van HBR over vertical Large Language Models (LLM). Er zijn 5 vragen die we moeten stellen om te bepalen of een LLM geschikt is voor een domein. TB: Vooralsnog maakt dit dat onderwijsbeleid en -begeleiding dit niet zijn, maar onderwijs zelf inhoudelijk mogelijk wel (toevoegingen van mijn hand):
+    1.  Vereist de taak of het proces traditioneel uitgebreid onderzoek of diepgaande vakkennis? - *Ja, voor Learning Analytics (LA) en onderwijs*
+    2.  Is het resultaat van de taak samengestelde informatie, inzicht of kennis waarmee de gebruiker actie kan ondernemen of een beslissing kan nemen? - *Ja, voor LA en onderwijs*
+    3.  Bestaan er voldoende historische technische of feitelijke gegevens om de AI op te leiden tot een expert op het verticale zoekgebied? - *Nee, voor LA; mogelijk Ja, voor onderwijs*
+    4.  Kan het LLM met een passende frequentie worden getraind met nieuwe informatie, zodat het actuele informatie verstrekt? - *Ja, maar voor LA complex in trage systemen zoals het hoger onderwijs, wel mogelijk voor uitgevers op onderwijs*
+    5.  Is het legaal en ethisch verantwoord dat de AI leert van de opvattingen, aannames en informatie in de trainingsgegevens en deze herhaalt en bestendigt? - *Dit is nog onzeker voor LA en vraagt om nader onderzoek; dit geldt ook voor onderwijs*
+-   **Gelijke kansen:** Van Paassen, D. (2021, August 4). [Het onderwijssysteem moet radicaal anders](ttps://www.groene.nl/artikel/het-onderwijssysteem-moet-radicaal-anders). *31*(2019). Interview met Maxe de Rijk, die een boek schreef over haar vmbo-kansklas.
+-   **Onderwijsvernieuwing**: Van Gool, R. (2019, May 8). [Futuristische retoriek of evidence-based?](https://www.groene.nl/artikel/futuristische-retoriek-of-evidence-based) *19--20*(2019). - Interessant artikel over onderwijsvernieuwing in relatie tot de begrippen 'evidence-based' en 'evidence-informed'. "Van 'kennis centraal' tot '21st-century skills': discussies over onderwijsmethoden worden zelden beslecht. Hoewel sommige innovaties hun vruchten zeker afwerpen, blijft de doorstroom van wetenschap naar praktijk weerbarstig."
+-   **Data literacy**: Datacamp. (2023). *The State of Data Literacy 2023* (p. 1-59). Interessant rapport van Datacamp met trends in Data Literacy; helaas wel achter een marketing wall en alleen met resultaten uit de UK en US. Ook nuttig is het data competency framework dat in het rapport wordt genoemd.\
+    ![](images/paste-EE8039C5.png)
+
+#### Zaterdag \| 25-02-2023
+
+-   **AI**: [Generative AI Is Coming For the Lawyers](https://www.wired.com/story/chatgpt-generative-ai-is-coming-for-the-lawyers/) - artikel in Wired over Harvey, een AI tool die het werk van advocaten automatiseert voor onderzoek en het schrijven van documenten (gebaseerd op OpenAI).
+-   **Onderwijsmethodiek**: [Hoe een nieuwe onderwijsmethode onrust naar Fontys bracht: 'Er wordt gevloekt en getierd, er is zoveel stress'](https://www.volkskrant.nl/nieuws-achtergrond/hoe-een-nieuwe-onderwijsmethode-onrust-naar-fontys-bracht-er-wordt-gevloekt-en-getierd-er-is-zoveel-stress~bf4fc58d/) - stuk in de VK over HILL methodiek die is ingevoerd by Fontys.
+-   **Mobiele telefonie:** [Wel of geen telefoon in de klas? 'Ik lever hem liever in zodat ik verplicht ben op te letten'](https://www.parool.nl/nederland/wel-of-geen-telefoon-in-de-klas-ik-lever-hem-liever-in-zodat-ik-verplicht-ben-op-te-letten~b43fee49/) - artikel in het Parool met verschillende invalshoeken.
+-   **Studiesucces**:
+    -   [Stop met het selectiecircus, zegt Klaas Visser zelf](https://www.scienceguide.nl/2023/02/stop-met-het-selectiecircus-zegt-klaas-visser-zelf/) - reactie van Klaas Visser op de recente ontwikkelingen in loting.
+    -   [Bij technische opleidingen voorspellen vwo-cijfers kans op studiesucces](https://www.scienceguide.nl/2023/02/bij-technische-opleidingen-voorspellen-vwo-cijfers-kans-op-studiesucces/) - onderzoek toont correlatie aan tussen Wiskunde B en studiesucces
+-   **R coding**: [Tricks in R to Boost Your Productivity](https://medium.com/@weilin0929/tricks-in-r-to-boost-your-productivity-part-2-7222461c6671) - overzicht van een handige inrichting van R-studio om effectiever te programmeren van Wie Lin.
+-   **Visualisaties**: indrukwekkende referentiesite van Christian Burkhart over ggplot [ggplot2tor.com](https://ggplot2tor.com/)
+    -   Zie in het bijzonder de educational apps: [aesthetics finder](https://ggplot2tor.com/aesthetics), [scales finder](https://ggplot2tor.com/scales), [themes finder](https://ggplot2tor.com/theme) en [cheat sheets](https://github.com/ch-bu/ggplot2-fundamentals/tree/main/cheatsheets).
+    -   [How to make any plot look better](https://ggplot2tor.com/tutorials/make_any_plot_look_better): uitleg over het inrichten van basis themes.
+    -   [Visualizing Sampling Distributions](https://ggplot2tor.com/tutorials/sampling_distributions): uitleg over het visualiseren van distributies.\
+        ![](images/sampling12.webp){width="600"}
+    -   [Runtastic - First Tutorial - Visualizing accumulated kilometers](https://ggplot2tor.com/tutorials/runtastic): leuke uitleg van cumulatieve plots.\
+        ![](images/13_kipchoge.webp){width="600"}
+-   **AI**: Mooie special vandaag over AI in het NRC:
+    -   [De volgende Einstein kan een computer zijn maar hoe lang duurt dat nog](https://www.nrc.nl/nieuws/2023/02/22/is-de-volgende-einstein-een-computer-a4157678) van Bennie Mols over de ontwikkeling van wetenschappelijke ontdekkingen die AI maakt. - \[IR\]
+    -   [AI zit verblufte betoverde én ontnuchterde filosofen op de hielen](https://www.nrc.nl/nieuws/2023/02/22/ai-zit-verblufte-betoverde-en-ontnuchterde-filosofen-op-de-hielen-a4157689)van Sjoerd de Jong. - \[IR\]
+
 #### Vrijdag \| 24-02-2023
 
+-   **Toetsen en neurodiversiteit**: [Vader en docent maakt zich hard tegen schoolstress. 'Leerlingen willen wel, maar weten niet hoe'](https://www.trouw.nl/binnenland/vader-en-docent-maakt-zich-hard-tegen-schoolstress-leerlingen-willen-wel-maar-weten-niet-hoe~b865db08/)
+-   **R:** Uitleg van evaluatie van variabelen binnen functies - [Tidy eval helpers](https://ggplot2.tidyverse.org/reference/tidyeval.html).
 -   **Visualisaties**:
     -   [Van invasie tot vechten om elke meter](https://www.nrc.nl/nieuws/2023/02/23/van-invasie-tot-vechten-om-elke-meter-de-oorlog-in-oekraine-in-tien-sleutelmomenten-a4156656): de oorlog in Oekraïne in tien sleutelmomenten: ontwikkeling van de oorlog met een indrukwekkend filmpje van de kaart van Oekraïne door het NRC.\
         ![](images/Scherm%C2%ADafbeelding%202023-02-24%20om%2007.55.35.png){width="600"}
