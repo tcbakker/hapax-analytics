@@ -14,11 +14,14 @@ Dit is de persoonlijke website van [Theo Bakker](/docs/over/over.html), lector L
 ![](/images/_site/Theo%20Bakker_HHs_klein_smal.png){width="400"}
 :::
 
-De naam die ik heb gekozen voor deze site -- Hapax Analytics -- komt van het Griekse 'hapax legomenon' (ἅπαξ λεγόμενον): "één keer uitgesproken"[^1]. Een uitdrukking die aangeeft dat een woord in oude geschriften zoals de Bijbel slechts één keer voorkomt - een unieke situatie en interessant verschijnsel. Juist het gegeven dat het uniek is, kan extra betekenis geven.
+**Waarom de naam Hapax Analytics?\
+**De naam die ik heb gekozen voor deze site -- Hapax Analytics -- komt van het Griekse 'hapax legomenon' (ἅπαξ λεγόμενον): "één keer uitgesproken"[^1]. Een uitdrukking die aangeeft dat een woord in oude geschriften zoals de Bijbel slechts één keer voorkomt - een unieke situatie en interessant verschijnsel. Juist het gegeven dat het uniek is, kan extra betekenis geven.
 
 [^1]: https://en.wikipedia.org/wiki/Hapax_legomenon
 
-In Machine Learning worden dit soort woorden en situaties als outliers buiten beschouwing gelaten, terwijl ik deze juist interessant vind. Bij het onderzoeken van data moeten we ons volgens mij altijd afvragen wat uniek is en wat -- met behulp van analytics technieken -- de moeite waard naar boven te tillen.
+**Gelijke kansen in het hoger onderwijs vraagt om oog voor uitzonderingen\
+**In statistisch onderzoek worden dit soort woorden en situaties als outliers buiten beschouwing gelaten, terwijl ik deze juist interessant vind. Bij het onderzoeken van studiedata in het hoger onderwijs moeten we ons volgens mij altijd afvragen wat uniek is. Dit helpt ons om -- met behulp van learning analytics technieken -- alles was de moeite waard en noodzakelijk is naar boven te tillen en te ontdekken.\
+Zo kunnen we denk ik gelijke kansen *evidence informed* bevorderen; niet alleen aan het begin van een studie aan de poort, maar ook gedurende de studie op weg naar een diploma en een betekenisvolle, gelukkige levensvervulling in onze maatschappij. Daar ga ik voor.
 
 ::: logo-wrapper
 ::: {.logo-hhs onclick="location.href='https://www.hhs.nl'"}
